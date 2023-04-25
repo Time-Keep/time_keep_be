@@ -1,0 +1,46 @@
+name: "Ruby on Rails CI"
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:latest
+        env:
+          POSTGRES_DB: time_keep_be_test
+          POSTGRES_USER: rails
+          POSTGRES_HOST_AUTH_METHOD: trust
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+        ports: ['5432:5432']
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7.4
+      - name: Install Nokogiri dependencies
+        run: |
+          sudo apt-get -yqq update
+          sudo apt-get -yqq install libxml2-dev libxslt1-dev
+      - uses: borales/actions-yarn@v2.0.0
+        with:
+          cmd: install
+      - name: Build and run tests
+        env:
+          RAILS_ENV: test
+          DATABASE_URL: "postgres://postgres:@localhost:5432/test"
+          RAILS_MASTER_KEY: ${{ secrets.RAILS_MASTER_KEY }}
+        run: |
+          sudo apt-get -yqq install libpq-dev
+          gem install bundler
+          bundle install --jobs 4 --retry 3
+          bundle exec rails db:setup
+          bundle exec rspec

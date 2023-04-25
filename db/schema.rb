@@ -10,9 +10,27 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 0) do
+ActiveRecord::Schema.define(version: 2023_04_25_213802) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "counties", force: :cascade do |t|
+    t.string "county"
+    t.string "county_ascii"
+    t.string "county_full"
+    t.string "county_fips"
+    t.string "state_id"
+    t.string "state_name"
+    t.string "lat"
+    t.string "lng"
+    t.string "population"
+    t.string "county_unemployment_rate"
+    t.string "state_unemployment"
+    t.string "county_median_income"
+    t.string "tax_rate"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
 
 end

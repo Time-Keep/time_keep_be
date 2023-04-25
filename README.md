@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Time-Keep/time_keep_be">
-    <img src="https://www.watchtime.com/wp-content/uploads/2018/08/Richard_Mille_RM-25-01_side_1000-1024x714.jpg" width="500" height="375">
+    <img src="https://cafefcdn.com/zoom/700_438/2017/tim-hieu-ve-tourbillon-tren-nhung-chiec-dong-ho-tien-ty-tinh-hoa-co-khi-cua-loai-nguoi-1-1498127273369.gif">
   </a>
   <h3 align="center">
     <br />

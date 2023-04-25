@@ -21,6 +21,7 @@ ActiveRecord::Schema.define(version: 2023_04_25_213802) do
     t.string "county_full"
     t.string "county_fips"
     t.string "state_id"
+    t.string "state_name"
     t.string "lat"
     t.string "lng"
     t.string "population"

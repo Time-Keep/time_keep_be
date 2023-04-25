@@ -6,6 +6,7 @@ class CreateCounties < ActiveRecord::Migration[5.2]
       t.string :county_full
       t.string :county_fips
       t.string :state_id
+      t.string :state_name
       t.string :lat
       t.string :lng
       t.string :population

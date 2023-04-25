@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.describe TOMTOMService do
+RSpec.describe TomTomService do
   describe 'jewelry_estabs' do
     it 'retrieves json of the jewelry establishments by coordinates', :vcr do
       lat = '33.2896'

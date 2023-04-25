@@ -202,6 +202,7 @@ GEM
     timeout (0.3.2)
     tzinfo (1.2.11)
       thread_safe (~> 0.1)
+    vcr (6.1.0)
     webmock (3.18.1)
       addressable (>= 2.8.0)
       crack (>= 0.3.2)
@@ -232,10 +233,11 @@ DEPENDENCIES
   shoulda-matchers
   simplecov
   tzinfo-data
+  vcr
   webmock
 
 RUBY VERSION
    ruby 2.7.4p191
 
 BUNDLED WITH
-   2.3.17
+   2.4.6

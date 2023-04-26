@@ -31,19 +31,24 @@ RSpec.describe County, type: :model do
                               county_unemployment_rate: '3.6',
                               state_unemployment: '3.4',
                               county_median_income: '43,439',
-                              tax_rate: '0.39') }
+                              tax_rate: '0.39'
+                            ) }
 
     describe '#industry_estab_count' do
       it 'fetches count of establishments in the county' do
 
+        expect(county.establishment_count).to eq(0)
         expect(county.industry_estab_count).to eq(12)
+        expect(county.establishment_count).to eq(12)
       end
     end
 
-    describe '#industry_estab_count' do
+    describe '#industry_estab_count2' do
       it "mimics industry_estab_count with a different api key" do
 
-        expect(county.industry_estab_count2).to eq(12)
+        expect(county.establishment_count).to eq(0)
+        expect(county.industry_estab_count).to eq(12)
+        expect(county.establishment_count).to eq(12)
       end
     end
   end

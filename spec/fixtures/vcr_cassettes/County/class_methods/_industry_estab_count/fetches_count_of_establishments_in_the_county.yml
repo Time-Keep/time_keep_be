@@ -2,56 +2,6 @@
 http_interactions:
 - request:
     method: get
-    uri: https://api.tomtom.com/search/2/nearbySearch/.json?categorySet=9361036&country=US&key=app_key&lat=32.5349&lon=-86.6427
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 200
-      message: OK
-    headers:
-      Date:
-      - Wed, 26 Apr 2023 04:20:16 GMT
-      Content-Type:
-      - application/json; charset=utf-8
-      Vary:
-      - Accept-Encoding
-      Access-Control-Allow-Origin:
-      - "*"
-      Tracking-Id:
-      - ab352b22-9be9-46a6-a05e-845c75f1a38a
-      Access-Control-Expose-Headers:
-      - Tracking-ID
-      X-Apigee.target-Latency:
-      - '16'
-      X-Envoy-Upstream-Service-Time:
-      - '37'
-      Server:
-      - tomtom
-      X-Tomtom-Processed-By:
-      - eastus
-      Transfer-Encoding:
-      - chunked
-    body:
-      encoding: ASCII-8BIT
-      string: '{"summary":{"queryType":"NEARBY","queryTime":14,"numResults":1,"offset":0,"totalResults":1,"fuzzyLevel":1,"geoBias":{"lat":32.5349,"lon":-86.6427}},"results":[{"type":"POI","id":"at_fZTwt6dq8r8x1vQyUCQ","score":103.2997558095,"dist":6091.134514266254,"info":"search:ta:840019000062334-US","poi":{"name":"Zales
-        Jewelers","phone":"+1 334-277-4373","categorySet":[{"id":9361036}],"url":"www.zales.com","categories":["jewelry,
-        clocks watches","shop"],"classifications":[{"code":"SHOP","names":[{"nameLocale":"en-US","name":"jewelry,
-        clocks watches"},{"nameLocale":"en-US","name":"shop"}]}]},"address":{"streetNumber":"2324","streetName":"Hilltop
-        Farm Road","municipality":"Prattville","countrySecondarySubdivision":"Autauga","countrySubdivision":"AL","countrySubdivisionName":"Alabama","postalCode":"36067","extendedPostalCode":"36067-7816","countryCode":"US","country":"United
-        States","countryCodeISO3":"USA","freeformAddress":"2324 Hilltop Farm Road,
-        Prattville, AL 36067","localName":"Prattville"},"position":{"lat":32.49282,"lon":-86.60111},"viewport":{"topLeftPoint":{"lat":32.49372,"lon":-86.60218},"btmRightPoint":{"lat":32.49192,"lon":-86.60004}},"entryPoints":[{"type":"main","position":{"lat":32.49252,"lon":-86.60206}}]}]}'
-  recorded_at: Wed, 26 Apr 2023 04:20:16 GMT
-- request:
-    method: get
     uri: https://api.tomtom.com/search/2/nearbySearch/.json?categorySet=9361036&country=US&key=app_key&lat=33.2896&lon=-87.5251
     body:
       encoding: US-ASCII
@@ -69,7 +19,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Wed, 26 Apr 2023 04:27:35 GMT
+      - Wed, 26 Apr 2023 22:09:17 GMT
       Content-Type:
       - application/json; charset=utf-8
       Vary:
@@ -77,22 +27,22 @@ http_interactions:
       Access-Control-Allow-Origin:
       - "*"
       Tracking-Id:
-      - edd02d53-2afb-48b0-9bb9-2df3e1f3d1c2
+      - bdad35e3-9481-4237-bf9a-0550eaaaef2e
       Access-Control-Expose-Headers:
       - Tracking-ID
       X-Apigee.target-Latency:
-      - '11'
+      - '15'
       X-Envoy-Upstream-Service-Time:
-      - '22'
+      - '37'
       Server:
       - tomtom
       X-Tomtom-Processed-By:
-      - westus2
+      - eastus
       Transfer-Encoding:
       - chunked
     body:
       encoding: ASCII-8BIT
-      string: '{"summary":{"queryType":"NEARBY","queryTime":8,"numResults":10,"offset":0,"totalResults":12,"fuzzyLevel":1,"geoBias":{"lat":33.2896,"lon":-87.5251}},"results":[{"type":"POI","id":"UnFl-ZowqEwO04s4hz9MjQ","score":103.1639426657,"dist":6214.599125535533,"info":"search:ta:840011000458130-US","poi":{"name":"Campus
+      string: '{"summary":{"queryType":"NEARBY","queryTime":11,"numResults":10,"offset":0,"totalResults":12,"fuzzyLevel":1,"geoBias":{"lat":33.2896,"lon":-87.5251}},"results":[{"type":"POI","id":"UnFl-ZowqEwO04s4hz9MjQ","score":103.1639426657,"dist":6214.599125535533,"info":"search:ta:840011000458130-US","poi":{"name":"Campus
         Supply","phone":"+1 205-752-7776","categorySet":[{"id":9361036}],"url":"www.campus-supplyal.com","categories":["jewelry,
         clocks watches","shop"],"classifications":[{"code":"SHOP","names":[{"nameLocale":"en-US","name":"shop"},{"nameLocale":"en-US","name":"jewelry,
         clocks watches"}]}]},"address":{"streetNumber":"3610","streetName":"Watermelon
@@ -153,5 +103,5 @@ http_interactions:
         Boulevard","municipalitySubdivision":"Greater Downtown Tuscaloosa","municipality":"Tuscaloosa","countrySecondarySubdivision":"Tuscaloosa","countrySubdivision":"AL","countrySubdivisionName":"Alabama","postalCode":"35401","extendedPostalCode":"35401-1539","countryCode":"US","country":"United
         States","countryCodeISO3":"USA","freeformAddress":"2111 University Boulevard,
         Tuscaloosa, AL 35401","localName":"Tuscaloosa"},"position":{"lat":33.21075,"lon":-87.56446},"viewport":{"topLeftPoint":{"lat":33.21165,"lon":-87.56553},"btmRightPoint":{"lat":33.20985,"lon":-87.56339}},"entryPoints":[{"type":"main","position":{"lat":33.21085,"lon":-87.56443}}]}]}'
-  recorded_at: Wed, 26 Apr 2023 04:27:35 GMT
+  recorded_at: Wed, 26 Apr 2023 22:09:17 GMT
 recorded_with: VCR 6.1.0

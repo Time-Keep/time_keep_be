@@ -1,0 +1,191 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.census.gov/data/2017/ecnbasic?NAICS2017=339910&for=state:*&get=NAICS2017_LABEL,PAYANPW,ESTAB,NAME&key=census_key
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v2.7.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: ''
+    headers:
+      Cache-Control:
+      - max-age=60, must-revalidate
+      Access-Control-Allow-Origin:
+      - "*"
+      Access-Control-Allow-Methods:
+      - GET,POST
+      Access-Control-Allow-Headers:
+      - Origin, X-Requested-With, Content-Type, Accept
+      Referrer-Policy:
+      - same-origin
+      Content-Security-Policy:
+      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
+        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
+        upgrade-insecure-requests; block-all-mixed-content
+      Content-Type:
+      - application/json;charset=utf-8
+      Date:
+      - Wed, 26 Apr 2023 18:10:10 GMT
+      Strict-Transport-Security:
+      - max-age=31536000
+      Set-Cookie:
+      - TS010383f0=01283c52a46977f66e8f92b53c5390ae13779374c814b9736ecf1cec6a6b9a13cb226b4b827df956d25b3b7f6d10582acc4532ed04;
+        Path=/; Domain=.api.census.gov
+      Transfer-Encoding:
+      - chunked
+    body:
+      encoding: UTF-8
+      string: |-
+        [["NAICS2017_LABEL","PAYANPW","ESTAB","NAME","NAICS2017","state"],
+        ["Jewelry and silverware manufacturing","0","0","Mississippi","339910","28"],
+        ["Jewelry and silverware manufacturing","1428","19","Missouri","339910","29"],
+        ["Jewelry and silverware manufacturing","3688","11","Montana","339910","30"],
+        ["Jewelry and silverware manufacturing","243","0","Nebraska","339910","31"],
+        ["Jewelry and silverware manufacturing","0","6","Nevada","339910","32"],
+        ["Jewelry and silverware manufacturing","392","0","New Hampshire","339910","33"],
+        ["Jewelry and silverware manufacturing","14666","47","New Jersey","339910","34"],
+        ["Jewelry and silverware manufacturing","17716","68","New Mexico","339910","35"],
+        ["Jewelry and silverware manufacturing","133186","449","New York","339910","36"],
+        ["Jewelry and silverware manufacturing","1180","30","North Carolina","339910","37"],
+        ["Jewelry and silverware manufacturing","6334","39","Ohio","339910","39"],
+        ["Jewelry and silverware manufacturing","0","0","Oklahoma","339910","40"],
+        ["Jewelry and silverware manufacturing","3806","41","Oregon","339910","41"],
+        ["Jewelry and silverware manufacturing","5714","58","Pennsylvania","339910","42"],
+        ["Jewelry and silverware manufacturing","78506","109","Rhode Island","339910","44"],
+        ["Jewelry and silverware manufacturing","0","0","South Carolina","339910","45"],
+        ["Jewelry and silverware manufacturing","0","0","South Dakota","339910","46"],
+        ["Jewelry and silverware manufacturing","0","0","Tennessee","339910","47"],
+        ["Jewelry and silverware manufacturing","47286","105","Texas","339910","48"],
+        ["Jewelry and silverware manufacturing","2285","0","Vermont","339910","50"],
+        ["Jewelry and silverware manufacturing","15796","32","Utah","339910","49"],
+        ["Jewelry and silverware manufacturing","1900","25","Virginia","339910","51"],
+        ["Jewelry and silverware manufacturing","5452","43","Washington","339910","53"],
+        ["Jewelry and silverware manufacturing","1371","19","Wisconsin","339910","55"],
+        ["Jewelry and silverware manufacturing","1246","0","Alabama","339910","01"],
+        ["Jewelry and silverware manufacturing","381","0","Alaska","339910","02"],
+        ["Jewelry and silverware manufacturing","2128","34","Arizona","339910","04"],
+        ["Jewelry and silverware manufacturing","0","0","Arkansas","339910","05"],
+        ["Jewelry and silverware manufacturing","83322","287","California","339910","06"],
+        ["Jewelry and silverware manufacturing","4127","50","Colorado","339910","08"],
+        ["Jewelry and silverware manufacturing","1157","7","Connecticut","339910","09"],
+        ["Jewelry and silverware manufacturing","7735","83","Florida","339910","12"],
+        ["Jewelry and silverware manufacturing","0","0","Georgia","339910","13"],
+        ["Jewelry and silverware manufacturing","0","11","Idaho","339910","16"],
+        ["Jewelry and silverware manufacturing","2057","27","Hawaii","339910","15"],
+        ["Jewelry and silverware manufacturing","15234","61","Illinois","339910","17"],
+        ["Jewelry and silverware manufacturing","1891","14","Indiana","339910","18"],
+        ["Jewelry and silverware manufacturing","0","0","Iowa","339910","19"],
+        ["Jewelry and silverware manufacturing","0","0","Kansas","339910","20"],
+        ["Jewelry and silverware manufacturing","3233","7","Kentucky","339910","21"],
+        ["Jewelry and silverware manufacturing","0","0","Louisiana","339910","22"],
+        ["Jewelry and silverware manufacturing","772","0","Maine","339910","23"],
+        ["Jewelry and silverware manufacturing","2019","17","Maryland","339910","24"],
+        ["Jewelry and silverware manufacturing","44304","59","Massachusetts","339910","25"],
+        ["Jewelry and silverware manufacturing","1742","27","Michigan","339910","26"],
+        ["Jewelry and silverware manufacturing","3703","31","Minnesota","339910","27"]]
+  recorded_at: Wed, 26 Apr 2023 18:10:11 GMT
+- request:
+    method: get
+    uri: https://api.census.gov/data/2017/ecnbasic?NAICS2017=339910&for=state:*&get=NAICS2017_LABEL,PAYANPW,ESTAB,NAME&key=a52aef992876531f656e7ed0aab4fbce39adac9b
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v2.7.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: ''
+    headers:
+      Cache-Control:
+      - max-age=60, must-revalidate
+      Access-Control-Allow-Origin:
+      - "*"
+      Access-Control-Allow-Methods:
+      - GET,POST
+      Access-Control-Allow-Headers:
+      - Origin, X-Requested-With, Content-Type, Accept
+      Referrer-Policy:
+      - same-origin
+      Content-Security-Policy:
+      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
+        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
+        upgrade-insecure-requests; block-all-mixed-content
+      Content-Type:
+      - application/json;charset=utf-8
+      Date:
+      - Wed, 26 Apr 2023 21:13:04 GMT
+      Strict-Transport-Security:
+      - max-age=31536000
+      Set-Cookie:
+      - TS010383f0=01283c52a4fcc40f41739ac886e3cf88f0903a413b4948e78b161bd3941794bff35789c43a313e75be3f05dc6a911b412dba05fa16;
+        Path=/; Domain=.api.census.gov
+      Transfer-Encoding:
+      - chunked
+    body:
+      encoding: UTF-8
+      string: |-
+        [["NAICS2017_LABEL","PAYANPW","ESTAB","NAME","NAICS2017","state"],
+        ["Jewelry and silverware manufacturing","0","0","Mississippi","339910","28"],
+        ["Jewelry and silverware manufacturing","1428","19","Missouri","339910","29"],
+        ["Jewelry and silverware manufacturing","3688","11","Montana","339910","30"],
+        ["Jewelry and silverware manufacturing","17716","68","New Mexico","339910","35"],
+        ["Jewelry and silverware manufacturing","133186","449","New York","339910","36"],
+        ["Jewelry and silverware manufacturing","0","0","Oklahoma","339910","40"],
+        ["Jewelry and silverware manufacturing","0","0","South Carolina","339910","45"],
+        ["Jewelry and silverware manufacturing","0","0","Tennessee","339910","47"],
+        ["Jewelry and silverware manufacturing","47286","105","Texas","339910","48"],
+        ["Jewelry and silverware manufacturing","2285","0","Vermont","339910","50"],
+        ["Jewelry and silverware manufacturing","1246","0","Alabama","339910","01"],
+        ["Jewelry and silverware manufacturing","2128","34","Arizona","339910","04"],
+        ["Jewelry and silverware manufacturing","83322","287","California","339910","06"],
+        ["Jewelry and silverware manufacturing","4127","50","Colorado","339910","08"],
+        ["Jewelry and silverware manufacturing","7735","83","Florida","339910","12"],
+        ["Jewelry and silverware manufacturing","0","0","Georgia","339910","13"],
+        ["Jewelry and silverware manufacturing","2057","27","Hawaii","339910","15"],
+        ["Jewelry and silverware manufacturing","15234","61","Illinois","339910","17"],
+        ["Jewelry and silverware manufacturing","3233","7","Kentucky","339910","21"],
+        ["Jewelry and silverware manufacturing","0","0","Louisiana","339910","22"],
+        ["Jewelry and silverware manufacturing","2019","17","Maryland","339910","24"],
+        ["Jewelry and silverware manufacturing","44304","59","Massachusetts","339910","25"],
+        ["Jewelry and silverware manufacturing","3703","31","Minnesota","339910","27"],
+        ["Jewelry and silverware manufacturing","772","0","Maine","339910","23"],
+        ["Jewelry and silverware manufacturing","1742","27","Michigan","339910","26"],
+        ["Jewelry and silverware manufacturing","243","0","Nebraska","339910","31"],
+        ["Jewelry and silverware manufacturing","0","6","Nevada","339910","32"],
+        ["Jewelry and silverware manufacturing","392","0","New Hampshire","339910","33"],
+        ["Jewelry and silverware manufacturing","14666","47","New Jersey","339910","34"],
+        ["Jewelry and silverware manufacturing","1180","30","North Carolina","339910","37"],
+        ["Jewelry and silverware manufacturing","6334","39","Ohio","339910","39"],
+        ["Jewelry and silverware manufacturing","3806","41","Oregon","339910","41"],
+        ["Jewelry and silverware manufacturing","5714","58","Pennsylvania","339910","42"],
+        ["Jewelry and silverware manufacturing","78506","109","Rhode Island","339910","44"],
+        ["Jewelry and silverware manufacturing","0","0","South Dakota","339910","46"],
+        ["Jewelry and silverware manufacturing","15796","32","Utah","339910","49"],
+        ["Jewelry and silverware manufacturing","1900","25","Virginia","339910","51"],
+        ["Jewelry and silverware manufacturing","5452","43","Washington","339910","53"],
+        ["Jewelry and silverware manufacturing","1371","19","Wisconsin","339910","55"],
+        ["Jewelry and silverware manufacturing","381","0","Alaska","339910","02"],
+        ["Jewelry and silverware manufacturing","0","0","Arkansas","339910","05"],
+        ["Jewelry and silverware manufacturing","1157","7","Connecticut","339910","09"],
+        ["Jewelry and silverware manufacturing","0","11","Idaho","339910","16"],
+        ["Jewelry and silverware manufacturing","1891","14","Indiana","339910","18"],
+        ["Jewelry and silverware manufacturing","0","0","Iowa","339910","19"],
+        ["Jewelry and silverware manufacturing","0","0","Kansas","339910","20"]]
+  recorded_at: Wed, 26 Apr 2023 21:13:05 GMT
+recorded_with: VCR 6.1.0

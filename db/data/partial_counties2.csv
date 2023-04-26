@@ -1071,323 +1071,284 @@ Windham,Windham,Windham County,50025,VT,Vermont,42.9906,-72.7139,45811,4.4,3.4,"
 Windsor,Windsor,Windsor County,50027,VT,Vermont,43.5799,-72.5862,57593,3.3,3.4,"69,523",6.00
 Accomack,Accomack,Accomack County,51001,VA,Virginia,37.7643,-75.6332,33388,4.3,3.9,"50,949",6.00
 Albemarle,Albemarle,Albemarle County,51003,VA,Virginia,38.0229,-78.5567,111438,3.2,3.9,"91,849",5.00
-Alexandria,Alexandria,Alexandria City,51510,VA,Virginia,38.8185,-77.0861,158185,3.8,3.9,"100,877",5.00
-Alleghany,Alleghany,Alleghany County,51005,VA,Virginia,37.7878,-80.0062,15266,4.1,3.9,"49,197",5.00
-Amelia,Amelia,Amelia County,51007,VA,Virginia,37.336,-77.9761,13220,3.6,3.9,"62,884",5.00
-Amherst,Amherst,Amherst County,51009,VA,Virginia,37.6048,-79.1451,31381,3.7,3.9,"57,294",6.00
-Appomattox,Appomattox,Appomattox County,51011,VA,Virginia,37.3723,-78.8126,16039,3.9,3.9,"58,860",6.00
-Arlington,Arlington,Arlington County,51013,VA,Virginia,38.8786,-77.1011,235764,3,3.9,"124,474",5.00
-Augusta,Augusta,Augusta County,51015,VA,Virginia,38.1644,-79.1338,76948,3.1,3.9,"69,243",5.00
-Bath,Bath,Bath County,51017,VA,Virginia,38.0587,-79.7411,4243,4.6,3.9,"56,200",5.00
-Bedford,Bedford,Bedford County,51019,VA,Virginia,37.3152,-79.5242,79183,3.4,3.9,"66,026",5.00
-Bland,Bland,Bland County,51021,VA,Virginia,37.134,-81.1302,6278,3.4,3.9,"50,492",5.00
-Botetourt,Botetourt,Botetourt County,51023,VA,Virginia,37.5571,-79.8123,33542,3,3.9,"74,081",5.00
-Bristol,Bristol,Bristol City,51520,VA,Virginia,36.618,-82.1605,16996,4.7,3.9,"41,272",5.00
-Brunswick,Brunswick,Brunswick County,51025,VA,Virginia,36.7648,-77.859,16044,6.3,3.9,"47,401",5.00
-Buchanan,Buchanan,Buchanan County,51027,VA,Virginia,37.2666,-82.036,20615,6.7,3.9,"38,087",6.00
-Buckingham,Buckingham,Buckingham County,51029,VA,Virginia,37.5722,-78.5288,16832,5.3,3.9,"54,263",6.00
-Buena Vista,Buena Vista,Buena Vista City,51530,VA,Virginia,37.7319,-79.3569,6649,3.9,3.9,"47,144",6.00
-Campbell,Campbell,Campbell County,51031,VA,Virginia,37.2053,-79.0966,55656,3.8,3.9,"53,059",6.00
-Caroline,Caroline,Caroline County,51033,VA,Virginia,38.0267,-77.3471,30861,4.3,3.9,"73,390",6.00
-Carroll,Carroll,Carroll County,51035,VA,Virginia,36.7316,-80.7339,29123,4.1,3.9,"45,956",5.00
-Charles City,Charles City,Charles City County,51036,VA,Virginia,37.3567,-77.0622,6817,4.4,3.9,"63,299",5.00
-Charlotte,Charlotte,Charlotte County,51037,VA,Virginia,37.0116,-78.6616,11605,3.7,3.9,"48,382",6.00
-Charlottesville,Charlottesville,Charlottesville City,51540,VA,Virginia,38.0375,-78.4855,46597,3.7,3.9,"61,255",5.00
-Chesapeake,Chesapeake,Chesapeake City,51550,VA,Virginia,36.6778,-76.3024,247172,3.8,3.9,"87,057",5.00
-Chesterfield,Chesterfield,Chesterfield County,51041,VA,Virginia,37.3785,-77.587,359798,3.6,3.9,"86,101",5.00
-Clarke,Clarke,Clarke County,51043,VA,Virginia,39.1123,-77.9967,14726,3.1,3.9,"91,603",6.00
-Colonial Heights,Colonial Heights,Colonial Heights City,51570,VA,Virginia,37.265,-77.3969,18127,4.8,3.9,"59,455",6.00
-Covington,Covington,Covington City,51580,VA,Virginia,37.7785,-79.9868,5716,5.8,3.9,"43,075",6.00
-Craig,Craig,Craig County,51045,VA,Virginia,37.4817,-80.2114,4914,3.3,3.9,"57,299",6.00
-Culpeper,Culpeper,Culpeper County,51047,VA,Virginia,38.486,-77.9558,52021,3.2,3.9,"82,220",6.00
-Cumberland,Cumberland,Cumberland County,51049,VA,Virginia,37.5121,-78.245,9669,4.3,3.9,"52,200",5.00
-Danville,Danville,Danville City,51590,VA,Virginia,36.5831,-79.4088,42556,6.5,3.9,"37,652",5.00
-Dickenson,Dickenson,Dickenson County,51051,VA,Virginia,37.1258,-82.3504,14256,5.3,3.9,"39,722",6.00
-Dinwiddie,Dinwiddie,Dinwiddie County,51053,VA,Virginia,37.0759,-77.6323,28040,4.5,3.9,"66,397",6.00
-Emporia,Emporia,Emporia City,51595,VA,Virginia,36.6953,-77.5357,5761,7.8,3.9,"41,610",5.00
-Essex,Essex,Essex County,51057,VA,Virginia,37.9435,-76.9516,10621,4.8,3.9,"59,012",5.00
-Fairfax,Fairfax,Fairfax County,51059,VA,Virginia,38.8368,-77.277,1146825,3.4,3.9,"133,845",5.00
-Fairfax,Fairfax,Fairfax City,51600,VA,Virginia,38.8531,-77.2998,23980,3.5,3.9,"107,334",6.00
-Falls Church,Falls Church,Falls Church City,51610,VA,Virginia,38.8847,-77.1751,14494,2.6,3.9,"142,430",6.00
-Fauquier,Fauquier,Fauquier County,51061,VA,Virginia,38.7386,-77.8092,72416,3,3.9,"106,714",6.00
-Floyd,Floyd,Floyd County,51063,VA,Virginia,36.9316,-80.3625,15536,3.1,3.9,"54,765",6.00
-Fluvanna,Fluvanna,Fluvanna County,51065,VA,Virginia,37.8419,-78.2773,27078,3.3,3.9,"77,226",5.00
-Franklin,Franklin,Franklin County,51067,VA,Virginia,36.992,-79.8811,54829,6.9,3.9,"60,062",6.00
-Franklin,Franklin,Franklin City,51620,VA,Virginia,36.6831,-76.9386,8249,3.5,3.9,"46,460",5.00
-Frederick,Frederick,Frederick County,51069,VA,Virginia,39.2046,-78.2626,90287,2.9,3.9,"85,262",5.00
-Fredericksburg,Fredericksburg,Fredericksburg City,51630,VA,Virginia,38.2992,-77.4872,28027,4.7,3.9,"77,437",6.00
-Galax,Galax,Galax City,51640,VA,Virginia,36.666,-80.9176,6681,4.1,3.9,"42,023",5.00
-Giles,Giles,Giles County,51071,VA,Virginia,37.3142,-80.7029,16764,3.5,3.9,"55,018",5.00
-Gloucester,Gloucester,Gloucester County,51073,VA,Virginia,37.416,-76.5434,38586,3.4,3.9,"75,630",6.00
-Goochland,Goochland,Goochland County,51075,VA,Virginia,37.7221,-77.9158,24300,3.1,3.9,"104,379",6.00
-Grayson,Grayson,Grayson County,51077,VA,Virginia,36.6565,-81.2249,15418,3.3,3.9,"42,553",5.00
-Greene,Greene,Greene County,51079,VA,Virginia,38.2976,-78.4669,20374,3,3.9,"76,941",5.00
-Greensville,Greensville,Greensville County,51081,VA,Virginia,36.6759,-77.5596,11465,4.9,3.9,"49,323",6.00
-Halifax,Halifax,Halifax County,51083,VA,Virginia,36.7669,-78.9366,34228,4.8,3.9,"46,244",5.00
-Hampton,Hampton,Hampton City,51650,VA,Virginia,37.0551,-76.363,136748,5.7,3.9,"57,662",6.00
-Hanover,Hanover,Hanover County,51085,VA,Virginia,37.7601,-77.491,109232,3,3.9,"95,195",5.00
-Harrisonburg,Harrisonburg,Harrisonburg City,51660,VA,Virginia,38.4361,-78.8735,52062,4,3.9,"50,250",5.00
-Henrico,Henrico,Henrico County,51087,VA,Virginia,37.538,-77.4058,331924,4,3.9,"78,888",5.00
-Henry,Henry,Henry County,51089,VA,Virginia,36.6828,-79.874,51077,4.7,3.9,45784,7.00
-Highland,Highland,Highland County,51091,VA,Virginia,38.3623,-79.5686,2229,2.9,3.9,48972,6.00
-Hopewell,Hopewell,Hopewell City,51670,VA,Virginia,37.2915,-77.2985,23020,7.5,3.9,47263,5.00
-Isle of Wight,Isle of Wight,Isle of Wight County,51093,VA,Virginia,36.8912,-76.7259,38301,3.5,3.9,86286,5.00
-James City,James City,James City County,51095,VA,Virginia,37.3288,-76.7789,77733,4,3.9,92270,5.00
-King and Queen,King and Queen,King and Queen County,51097,VA,Virginia,37.7186,-76.8953,6690,3.1,3.9,59730,5.00
-King George,King George,King George County,51099,VA,Virginia,38.2733,-77.1572,26597,2.9,3.9,98668,6.00
-King William,King William,King William County,51101,VA,Virginia,37.7066,-77.0885,17511,3.3,3.9,79378,6.00
-Lancaster,Lancaster,Lancaster County,51103,VA,Virginia,37.7345,-76.4632,10916,5.3,3.9,58578,6.00
-Lee,Lee,Lee County,51105,VA,Virginia,36.7054,-83.1286,22482,4,3.9,38529,5.00
-Lexington,Lexington,Lexington City,51678,VA,Virginia,37.7825,-79.4441,7287,4.9,3.9,53400,5.00
-Loudoun,Loudoun,Loudoun County,51107,VA,Virginia,39.0907,-77.6357,413574,3.1,3.9,153716,6.00
-Louisa,Louisa,Louisa County,51109,VA,Virginia,37.9786,-77.963,37136,3.4,3.9,68838,5.00
-Lunenburg,Lunenburg,Lunenburg County,51111,VA,Virginia,36.9462,-78.2406,11982,3.8,3.9,44852,5.00
-Lynchburg,Lynchburg,Lynchburg City,51680,VA,Virginia,37.4003,-79.1909,78973,5.1,3.9,52127,5.00
-Madison,Madison,Madison County,51113,VA,Virginia,38.4137,-78.2792,13731,2.5,3.9,67527,5.00
-Manassas,Manassas,Manassas City,51683,VA,Virginia,38.7479,-77.4839,42596,3.9,3.9,100530,5.00
-Manassas Park,Manassas Park,Manassas Park City,51685,VA,Virginia,38.7709,-77.4429,17081,3.8,3.9,87255,5.00
-Martinsville,Martinsville,Martinsville City,51690,VA,Virginia,36.6827,-79.8636,13476,7.5,3.9,38571,5.00
-Mathews,Mathews,Mathews County,51115,VA,Virginia,37.4354,-76.3436,8548,3.2,3.9,69978,5.00
-Mecklenburg,Mecklenburg,Mecklenburg County,51117,VA,Virginia,36.6804,-78.3627,30347,4.7,3.9,48013,5.00
-Middlesex,Middlesex,Middlesex County,51119,VA,Virginia,37.6303,-76.5697,10686,3.4,3.9,62710,5.00
-Montgomery,Montgomery,Montgomery County,51121,VA,Virginia,37.1743,-80.3872,99294,3,3.9,57752,6.00
-Nelson,Nelson,Nelson County,51125,VA,Virginia,37.7874,-78.8868,14795,3.5,3.9,61224,5.00
-New Kent,New Kent,New Kent County,51127,VA,Virginia,37.5052,-76.9974,22519,3,3.9,102920,5.00
-Newport News,Newport News,Newport News City,51700,VA,Virginia,37.1051,-76.5185,185069,5.6,3.9,58303,6.00
-Norfolk,Norfolk,Norfolk City,51710,VA,Virginia,36.8945,-76.259,238556,5.7,3.9,56951,6.00
-Northampton,Northampton,Northampton County,51131,VA,Virginia,37.343,-75.877,12226,5.4,3.9,51059,5.00
-Northumberland,Northumberland,Northumberland County,51133,VA,Virginia,37.8874,-76.4195,11965,4.9,3.9,63255,5.00
-Norton,Norton,Norton City,51720,VA,Virginia,36.9314,-82.6262,3696,4.9,3.9,38316,5.00
-Nottoway,Nottoway,Nottoway County,51135,VA,Virginia,37.143,-78.0512,15667,3.7,3.9,46442,5.00
-Orange,Orange,Orange County,51137,VA,Virginia,38.2462,-78.0137,36001,3.6,3.9,94547,5.00
-Page,Page,Page County,51139,VA,Virginia,38.6194,-78.4844,23734,4.6,3.9,53449,5.00
-Patrick,Patrick,Patrick County,51141,VA,Virginia,36.6783,-80.2844,17661,4.5,3.9,46963,5
-Petersburg,Petersburg,Petersburg City,51730,VA,Virginia,37.2043,-77.3913,33229,10.5,3.9,40682,7.00
-Pittsylvania,Pittsylvania,Pittsylvania County,51143,VA,Virginia,36.8213,-79.3971,60833,4,3.9,52006,8.00
-Poquoson,Poquoson,Poquoson City,51735,VA,Virginia,37.1318,-76.3568,12382,2.8,3.9,105525,10.00
-Portsmouth,Portsmouth,Portsmouth City,51740,VA,Virginia,36.8468,-76.354,97454,6.7,3.9,53618,9.00
-Powhatan,Powhatan,Powhatan County,51145,VA,Virginia,37.5502,-77.9152,29979,2.9,3.9,99854,9.00
-Prince Edward,Prince Edward,Prince Edward County,51147,VA,Virginia,37.2243,-78.4411,21887,4.8,3.9,51239,9.00
-Prince George,Prince George,Prince George County,51149,VA,Virginia,37.1865,-77.2242,42170,4.5,3.9,79710,9.00
-Prince William,Prince William,Prince William County,51153,VA,Virginia,38.7029,-77.4809,477224,4,3.9,116354,8.00
-Pulaski,Pulaski,Pulaski County,51155,VA,Virginia,37.0635,-80.7144,33893,4,3.9,53111,8.00
-Radford,Radford,Radford City,51750,VA,Virginia,37.1229,-80.5587,16205,4.1,3.9,48898,9.00
-Rappahannock,Rappahannock,Rappahannock County,51157,VA,Virginia,38.6848,-78.1592,7400,2.9,3.9,80098,8.00
-Richmond,Richmond,Richmond City,51760,VA,Virginia,37.5295,-77.4756,225676,5.5,3.9,52011,9.00
-Richmond,Richmond,Richmond County,51159,VA,Virginia,37.9434,-76.7269,8902,3.5,3.9,53959,10.00
-Roanoke,Roanoke,Roanoke City,51770,VA,Virginia,37.2785,-79.958,99578,4.8,3.9,47545,8.00
-Roanoke,Roanoke,Roanoke County,51161,VA,Virginia,37.2693,-80.068,96303,3.1,3.9,73438,9.00
-Rockbridge,Rockbridge,Rockbridge County,51163,VA,Virginia,37.8145,-79.4473,22663,3.7,3.9,59252,9.00
-Rockingham,Rockingham,Rockingham County,51165,VA,Virginia,38.512,-78.8758,83090,2.9,3.9,72392,9.00
-Russell,Russell,Russell County,51167,VA,Virginia,36.9339,-82.0954,25932,4.3,3.9,45254,11.00
-Salem,Salem,Salem City,51775,VA,Virginia,37.2864,-80.0554,25335,3.6,3.9,60740,9.00
-Scott,Scott,Scott County,51169,VA,Virginia,36.7143,-82.6029,21576,3.6,3.9,42894,9.00
-Shenandoah,Shenandoah,Shenandoah County,51171,VA,Virginia,38.8583,-78.5708,44037,3.6,3.9,65308,8.00
-Smyth,Smyth,Smyth County,51173,VA,Virginia,36.8438,-81.537,29960,4,3.9,42303,8.00
-Southampton,Southampton,Southampton County,51175,VA,Virginia,36.7204,-77.1061,18028,3.5,3.9,57965,8.00
-Spotsylvania,Spotsylvania,Spotsylvania County,51177,VA,Virginia,38.185,-77.6561,138493,3.8,3.9,100162,9.00
-Stafford,Stafford,Stafford County,51179,VA,Virginia,38.4207,-77.458,154204,3.6,3.9,116569,9.00
-Staunton,Staunton,Staunton City,51790,VA,Virginia,38.1593,-79.0611,25358,3.8,3.9,54508,9.00
-Suffolk,Suffolk,Suffolk City,51800,VA,Virginia,36.6953,-76.6398,93268,4.4,3.9,78090,8.00
-Surry,Surry,Surry County,51181,VA,Virginia,37.1098,-76.9002,6563,3.8,3.9,61358,10.00
-Sussex,Sussex,Sussex County,51183,VA,Virginia,36.9218,-77.2618,10960,6.5,3.9,54282,9.00
-Tazewell,Tazewell,Tazewell County,51185,VA,Virginia,37.125,-81.5606,40615,5.2,3.9,40728,9.00
-Virginia Beach,Virginia Beach,Virginia Beach City,51810,VA,Virginia,36.7335,-76.0435,457658,3.7,3.9,81364,8.00
-Warren,Warren,Warren County,51187,VA,Virginia,38.9087,-78.2085,40442,3.5,3.9,73546,11.00
-Washington,Washington,Washington County,51191,VA,Virginia,36.7244,-81.9598,53997,3.6,3.9,54223,9.00
-Waynesboro,Waynesboro,Waynesboro City,51820,VA,Virginia,38.0674,-78.9014,22149,4.1,3.9,54106,9.00
-Westmoreland,Westmoreland,Westmoreland County,51193,VA,Virginia,38.112,-76.8042,18324,4.4,3.9,59959,10.00
-Williamsburg,Williamsburg,Williamsburg City,51830,VA,Virginia,37.2693,-76.7076,15299,4.9,3.9,61750,8.00
-Winchester,Winchester,Winchester City,51840,VA,Virginia,39.1735,-78.1746,28194,3.5,3.9,55908,9.00
-Wise,Wise,Wise County,51195,VA,Virginia,36.9752,-82.6212,36531,5.2,3.9,41994,9.00
-Wythe,Wythe,Wythe County,51197,VA,Virginia,36.9171,-81.0787,28347,4,3.9,51206,8.00
-York,York,York County,51199,VA,Virginia,37.2431,-76.5635,69635,3.3,3.9,97500,9.00
-Adams,Adams,Adams County,53001,WA,Washington,46.9834,-118.561,20353,5.5,5.2,"47,867",6.00
-Asotin,Asotin,Asotin County,53003,WA,Washington,46.1918,-117.203,22285,3.7,5.2,"55,564",7.00
-Benton,Benton,Benton County,53005,WA,Washington,46.2398,-119.511,204551,5.6,5.2,"54,958",7.00
-Chelan,Chelan,Chelan County,53007,WA,Washington,47.8692,-120.619,78508,5.3,5.2,"62,792",6.00
-Clallam,Clallam,Clallam County,53009,WA,Washington,48.0493,-123.928,76727,6.5,5.2,"54,894",7.00
-Clark,Clark,Clark County,53011,WA,Washington,45.7792,-122.483,496494,5.5,5.2,"63,427",7.00
-Columbia,Columbia,Columbia County,53013,WA,Washington,46.2975,-117.908,3969,5.2,5.2,"70,579",6.00
-Cowlitz,Cowlitz,Cowlitz County,53015,WA,Washington,46.1932,-122.681,109457,6.4,5.2,"54,550",6.00
-Douglas,Douglas,Douglas County,53017,WA,Washington,47.7361,-119.692,42622,5.5,5.2,"49,290",7.00
-Ferry,Ferry,Ferry County,53019,WA,Washington,48.4703,-118.517,7198,8.9,5.2,"46,847",7.00
-Franklin,Franklin,Franklin County,53021,WA,Washington,46.5347,-118.899,95313,6.6,5.2,"45,937",6.00
-Garfield,Garfield,Garfield County,53023,WA,Washington,46.4316,-117.545,2278,5.8,5.2,"56,792",6.00
-Grant,Grant,Grant County,53025,WA,Washington,47.2057,-119.452,97874,6.6,5.2,"48,845",7.00
-Grays Harbor,Grays Harbor,Grays Harbor County,53027,WA,Washington,47.1503,-123.774,74737,7.8,5.2,"47,094",7.00
-Island,Island,Island County,53029,WA,Washington,48.163,-122.548,85938,5.6,5.2,"65,188",7.00
-Jefferson,Jefferson,Jefferson County,53031,WA,Washington,47.7487,-123.596,32590,6.2,5.2,"60,365",7.00
-King,King,King County,53033,WA,Washington,47.4902,-121.805,2240876,4.3,5.2,"108,212",7.00
-Kitsap,Kitsap,Kitsap County,53035,WA,Washington,47.613,-122.672,273072,5,5.2,"67,845",7.00
-Kittitas,Kittitas,Kittitas County,53037,WA,Washington,47.1244,-120.68,44147,6.3,5.2,"52,846",7.00
-Klickitat,Klickitat,Klickitat County,53039,WA,Washington,45.8738,-120.789,22478,6,5.2,"55,602",7.00
-Lewis,Lewis,Lewis County,53041,WA,Washington,46.5778,-122.393,81214,6.3,5.2,"52,517",7.00
-Lincoln,Lincoln,Lincoln County,53043,WA,Washington,47.5763,-118.419,10798,4.9,5.2,"51,578",6.00
-Mason,Mason,Mason County,53045,WA,Washington,47.3484,-123.193,64964,7,5.2,"52,410",7.00
-Okanogan,Okanogan,Okanogan County,53047,WA,Washington,48.5488,-119.741,41966,6.6,5.2,"50,517",7.00
-Pacific,Pacific,Pacific County,53049,WA,Washington,46.5557,-123.704,22974,7.9,5.2,"46,597",7.00
-Pend Oreille,Pend Oreille,Pend Oreille County,53051,WA,Washington,48.5323,-117.274,13302,7.6,5.2,"51,623",6.00
-Pierce,Pierce,Pierce County,53053,WA,Washington,47.0241,-122.105,910225,6.1,5.2,"61,580",6.00
-San Juan,San Juan,San Juan County,53055,WA,Washington,48.5782,-122.965,17631,5,5.2,"87,038",6.00
-Skagit,Skagit,Skagit County,53057,WA,Washington,48.4794,-121.73,128228,6.3,5.2,"64,093",7.00
-Skamania,Skamania,Skamania County,53059,WA,Washington,46.023,-121.915,11973,6.4,5.2,"58,554",6.00
-Snohomish,Snohomish,Snohomish County,53061,WA,Washington,48.0475,-121.698,820024,5,5.2,"68,858",6.00
-Spokane,Spokane,Spokane County,53063,WA,Washington,47.6207,-117.404,531477,5.4,5.2,"53,770",7.00
-Stevens,Stevens,Stevens County,53065,WA,Washington,48.3991,-117.855,46057,6.7,5.2,"47,613",7.00
-Thurston,Thurston,Thurston County,53067,WA,Washington,46.9258,-122.833,290642,5.2,5.2,"61,062",6.00
-Wahkiakum,Wahkiakum,Wahkiakum County,53069,WA,Washington,46.2918,-123.424,4373,6.6,5.2,"52,239",6.00
-Walla Walla,Walla Walla,Walla Walla County,53071,WA,Washington,46.2298,-118.478,62168,4.6,5.2,"53,845",7.00
-Whatcom,Whatcom,Whatcom County,53073,WA,Washington,48.8259,-121.72,224533,6,5.2,"58,137",6.00
-Whitman,Whitman,Whitman County,53075,WA,Washington,46.9012,-117.523,48197,4.5,5.2,"46,502",6.00
-Yakima,Yakima,Yakima County,53077,WA,Washington,46.4571,-120.739,255151,7,5.2,"50,872",6.00
-Barbour,Barbour,Barbour County,54001,WV,West Virginia,39.133,-80.003,15600,5.3,5,"40,576",7.00
-Berkeley,Berkeley,Berkeley County,54003,WV,West Virginia,39.4641,-78.0275,120460,3.6,5,"49,759",7.00
-Boone,Boone,Boone County,54005,WV,West Virginia,38.023,-81.7112,22059,6.1,5,"41,910",7.00
-Braxton,Braxton,Braxton County,54007,WV,West Virginia,38.6999,-80.7193,12702,6.7,5,"41,547",7.00
-Brooke,Brooke,Brooke County,54009,WV,West Virginia,40.2739,-80.5765,22603,6.1,5,"50,271",7.00
-Cabell,Cabell,Cabell County,54011,WV,West Virginia,38.4203,-82.2417,94622,4.6,5,"49,866",7.00
-Calhoun,Calhoun,Calhoun County,54013,WV,West Virginia,38.8445,-81.1176,6420,10.3,5,"41,444",6.00
-Clay,Clay,Clay County,54015,WV,West Virginia,38.4625,-81.0751,8176,7.7,5,"39,788",7.00
-Doddridge,Doddridge,Doddridge County,54017,WV,West Virginia,39.2692,-80.707,7929,4.1,5,"37,685",7.00
-Fayette,Fayette,Fayette County,54019,WV,West Virginia,38.0288,-81.0812,41056,6.2,5,"44,136",7.00
-Gilmer,Gilmer,Gilmer County,54021,WV,West Virginia,38.9241,-80.8571,7516,6.9,5,"35,405",7.00
-Grant,Grant,Grant County,54023,WV,West Virginia,39.1051,-79.1956,11063,4.5,5,"45,643",7.00
-Greenbrier,Greenbrier,Greenbrier County,54025,WV,West Virginia,37.9469,-80.453,33307,4.5,5,"47,283",6.00
-Hampshire,Hampshire,Hampshire County,54027,WV,West Virginia,39.3171,-78.6141,23214,3.4,5,"43,618",7.00
-Hancock,Hancock,Hancock County,54029,WV,West Virginia,40.5219,-80.5739,29223,6.3,5,"49,823",6.00
-Hardy,Hardy,Hardy County,54031,WV,West Virginia,39.0075,-78.858,14269,4.9,5,"40,562",6.00
-Harrison,Harrison,Harrison County,54033,WV,West Virginia,39.2835,-80.3799,66222,4.7,5,"57,205",6.00
-Jackson,Jackson,Jackson County,54035,WV,West Virginia,38.8345,-81.6748,28011,5.7,5,"45,681",6.00
-Jefferson,Jefferson,Jefferson County,54037,WV,West Virginia,39.3076,-77.8628,57542,3.1,5,"59,214",6.00
-Kanawha,Kanawha,Kanawha County,54039,WV,West Virginia,38.3366,-81.5281,181953,5.2,5,"55,897",6.00
-Lewis,Lewis,Lewis County,54041,WV,West Virginia,38.9959,-80.5022,16966,7,5,"43,341",6.00
+Alexandria,Alexandria,Alleghany County,51005,VA,Virginia,37.7878,-80.0062,15266,4.1,3.9,"49,197",5.00
+Alleghany,Alleghany,Amelia County,51007,VA,Virginia,37.336,-77.9761,13220,3.6,3.9,"62,884",5.00
+Amelia,Amelia,Amherst County,51009,VA,Virginia,37.6048,-79.1451,31381,3.7,3.9,"57,294",5.00
+Amherst,Amherst,Appomattox County,51011,VA,Virginia,37.3723,-78.8126,16039,3.9,3.9,"58,860",6.00
+Appomattox,Appomattox,Arlington County,51013,VA,Virginia,38.8786,-77.1011,235764,3,3.9,"124,474",6.00
+Arlington,Arlington,Augusta County,51015,VA,Virginia,38.1644,-79.1338,76948,3.1,3.9,"69,243",5.00
+Augusta,Augusta,Bath County,51017,VA,Virginia,38.0587,-79.7411,4243,4.6,3.9,"56,200",5.00
+Bath,Bath,Bedford County,51019,VA,Virginia,37.3152,-79.5242,79183,3.4,3.9,"66,026",5.00
+Bedford,Bedford,Bland County,51021,VA,Virginia,37.134,-81.1302,6278,3.4,3.9,"50,492",5.00
+Bland,Bland,Botetourt County,51023,VA,Virginia,37.5571,-79.8123,33542,3,3.9,"74,081",5.00
+Botetourt,Botetourt,Brunswick County,51025,VA,Virginia,36.7648,-77.859,16044,6.3,3.9,"47,401",5.00
+Bristol,Bristol,Buchanan County,51027,VA,Virginia,37.2666,-82.036,20615,6.7,3.9,"38,087",5.00
+Brunswick,Brunswick,Buckingham County,51029,VA,Virginia,37.5722,-78.5288,16832,5.3,3.9,"54,263",5.00
+Buchanan,Buchanan,Campbell County,51031,VA,Virginia,37.2053,-79.0966,55656,3.8,3.9,"53,059",6.00
+Buckingham,Buckingham,Caroline County,51033,VA,Virginia,38.0267,-77.3471,30861,4.3,3.9,"73,390",6.00
+Buena Vista,Buena Vista,Carroll County,51035,VA,Virginia,36.7316,-80.7339,29123,4.1,3.9,"45,956",6.00
+Campbell,Campbell,Charlotte County,51037,VA,Virginia,37.0116,-78.6616,11605,3.7,3.9,"48,382",6.00
+Caroline,Caroline,Chesterfield County,51041,VA,Virginia,37.3785,-77.587,359798,3.6,3.9,"86,101",6.00
+Carroll,Carroll,Clarke County,51043,VA,Virginia,39.1123,-77.9967,14726,3.1,3.9,"91,603",5.00
+Charles City,Charles City,Craig County,51045,VA,Virginia,37.4817,-80.2114,4914,3.3,3.9,"57,299",5.00
+Charlotte,Charlotte,Culpeper County,51047,VA,Virginia,38.486,-77.9558,52021,3.2,3.9,"82,220",6.00
+Charlottesville,Charlottesville,Cumberland County,51049,VA,Virginia,37.5121,-78.245,9669,4.3,3.9,"52,200",5.00
+Chesapeake,Chesapeake,Dickenson County,51051,VA,Virginia,37.1258,-82.3504,14256,5.3,3.9,"39,722",5.00
+Chesterfield,Chesterfield,Dinwiddie County,51053,VA,Virginia,37.0759,-77.6323,28040,4.5,3.9,"66,397",5.00
+Clarke,Clarke,Essex County,51057,VA,Virginia,37.9435,-76.9516,10621,4.8,3.9,"59,012",6.00
+Colonial Heights,Colonial Heights,Fairfax County,51059,VA,Virginia,38.8368,-77.277,1146825,3.4,3.9,"133,845",6.00
+Covington,Covington,Fauquier County,51061,VA,Virginia,38.7386,-77.8092,72416,3,3.9,"106,714",6.00
+Craig,Craig,Floyd County,51063,VA,Virginia,36.9316,-80.3625,15536,3.1,3.9,"54,765",6.00
+Culpeper,Culpeper,Fluvanna County,51065,VA,Virginia,37.8419,-78.2773,27078,3.3,3.9,"77,226",6.00
+Cumberland,Cumberland,Franklin County,51067,VA,Virginia,36.992,-79.8811,54829,6.9,3.9,"60,062",5.00
+Danville,Danville,Frederick County,51069,VA,Virginia,39.2046,-78.2626,90287,2.9,3.9,"85,262",5.00
+Dickenson,Dickenson,Giles County,51071,VA,Virginia,37.3142,-80.7029,16764,3.5,3.9,"55,018",6.00
+Dinwiddie,Dinwiddie,Gloucester County,51073,VA,Virginia,37.416,-76.5434,38586,3.4,3.9,"75,630",6.00
+Emporia,Emporia,Goochland County,51075,VA,Virginia,37.7221,-77.9158,24300,3.1,3.9,"104,379",5.00
+Essex,Essex,Grayson County,51077,VA,Virginia,36.6565,-81.2249,15418,3.3,3.9,"42,553",5.00
+Fairfax,Fairfax,Greene County,51079,VA,Virginia,38.2976,-78.4669,20374,3,3.9,"76,941",5.00
+Fairfax,Fairfax,Greensville County,51081,VA,Virginia,36.6759,-77.5596,11465,4.9,3.9,"49,323",6.00
+Falls Church,Falls Church,Halifax County,51083,VA,Virginia,36.7669,-78.9366,34228,4.8,3.9,"46,244",6.00
+Fauquier,Fauquier,Hanover County,51085,VA,Virginia,37.7601,-77.491,109232,3,3.9,"95,195",6.00
+Floyd,Floyd,Henrico County,51087,VA,Virginia,37.538,-77.4058,331924,4,3.9,"78,888",6.00
+Fluvanna,Fluvanna,Henry County,51089,VA,Virginia,36.6828,-79.874,51077,4.7,3.9,"45,784",5.00
+Franklin,Franklin,Highland County,51091,VA,Virginia,38.3623,-79.5686,2229,2.9,3.9,"48,972",6.00
+Franklin,Franklin,Isle of Wight County,51093,VA,Virginia,36.8912,-76.7259,38301,3.5,3.9,"86,286",5.00
+Frederick,Frederick,James City County,51095,VA,Virginia,37.3288,-76.7789,77733,4,3.9,"92,270",5.00
+Fredericksburg,Fredericksburg,King and Queen County,51097,VA,Virginia,37.7186,-76.8953,6690,3.1,3.9,"59,730",6.00
+Galax,Galax,King George County,51099,VA,Virginia,38.2733,-77.1572,26597,2.9,3.9,"98,668",5.00
+Giles,Giles,King William County,51101,VA,Virginia,37.7066,-77.0885,17511,3.3,3.9,"79,378",5.00
+Gloucester,Gloucester,Lancaster County,51103,VA,Virginia,37.7345,-76.4632,10916,5.3,3.9,"58,578",6.00
+Goochland,Goochland,Lee County,51105,VA,Virginia,36.7054,-83.1286,22482,4,3.9,"38,529",6.00
+Grayson,Grayson,Loudoun County,51107,VA,Virginia,39.0907,-77.6357,413574,3.1,3.9,"153,716",5.00
+Greene,Greene,Louisa County,51109,VA,Virginia,37.9786,-77.963,37136,3.4,3.9,"68,838",5.00
+Greensville,Greensville,Lunenburg County,51111,VA,Virginia,36.9462,-78.2406,11982,3.8,3.9,"44,852",6.00
+Halifax,Halifax,Madison County,51113,VA,Virginia,38.4137,-78.2792,13731,2.5,3.9,"67,527",5.00
+Hampton,Hampton,Mathews County,51115,VA,Virginia,37.4354,-76.3436,8548,3.2,3.9,"69,978",6.00
+Hanover,Hanover,Mecklenburg County,51117,VA,Virginia,36.6804,-78.3627,30347,4.7,3.9,"48,013",5.00
+Harrisonburg,Harrisonburg,Middlesex County,51119,VA,Virginia,37.6303,-76.5697,10686,3.4,3.9,"62,710",5.00
+Henrico,Henrico,Montgomery County,51121,VA,Virginia,37.1743,-80.3872,99294,3,3.9,"57,752",5.00
+Henry,Henry,Nelson County,51125,VA,Virginia,37.7874,-78.8868,14795,3.5,3.9,61224,7.00
+Highland,Highland,New Kent County,51127,VA,Virginia,37.5052,-76.9974,22519,3,3.9,102920,6.00
+Hopewell,Hopewell,Northampton County,51131,VA,Virginia,37.343,-75.877,12226,5.4,3.9,51059,5.00
+Isle of Wight,Isle of Wight,Northumberland County,51133,VA,Virginia,37.8874,-76.4195,11965,4.9,3.9,63255,5.00
+James City,James City,Nottoway County,51135,VA,Virginia,37.143,-78.0512,15667,3.7,3.9,46442,5.00
+King and Queen,King and Queen,Orange County,51137,VA,Virginia,38.2462,-78.0137,36001,3.6,3.9,94547,5.00
+King George,King George,Page County,51139,VA,Virginia,38.6194,-78.4844,23734,4.6,3.9,53449,6.00
+King William,King William,Patrick County,51141,VA,Virginia,36.6783,-80.2844,17661,4.5,3.9,46963,6.00
+Lancaster,Lancaster,Pittsylvania County,51143,VA,Virginia,36.8213,-79.3971,60833,4,3.9,52006,6.00
+Lee,Lee,Powhatan County,51145,VA,Virginia,37.5502,-77.9152,29979,2.9,3.9,99854,5.00
+Lexington,Lexington,Prince Edward County,51147,VA,Virginia,37.2243,-78.4411,21887,4.8,3.9,51239,5.00
+Loudoun,Loudoun,Prince George County,51149,VA,Virginia,37.1865,-77.2242,42170,4.5,3.9,79710,6.00
+Louisa,Louisa,Prince William County,51153,VA,Virginia,38.7029,-77.4809,477224,4,3.9,116354,5.00
+Lunenburg,Lunenburg,Pulaski County,51155,VA,Virginia,37.0635,-80.7144,33893,4,3.9,53111,5.00
+Lynchburg,Lynchburg,Rappahannock County,51157,VA,Virginia,38.6848,-78.1592,7400,2.9,3.9,80098,5.00
+Madison,Madison,Richmond County,51159,VA,Virginia,37.9434,-76.7269,8902,3.5,3.9,53959,5.00
+Manassas,Manassas,Roanoke County,51161,VA,Virginia,37.2693,-80.068,96303,3.1,3.9,73438,5.00
+Manassas Park,Manassas Park,Rockbridge County,51163,VA,Virginia,37.8145,-79.4473,22663,3.7,3.9,59252,5.00
+Martinsville,Martinsville,Rockingham County,51165,VA,Virginia,38.512,-78.8758,83090,2.9,3.9,72392,5.00
+Mathews,Mathews,Russell County,51167,VA,Virginia,36.9339,-82.0954,25932,4.3,3.9,45254,5.00
+Mecklenburg,Mecklenburg,Scott County,51169,VA,Virginia,36.7143,-82.6029,21576,3.6,3.9,42894,5.00
+Middlesex,Middlesex,Shenandoah County,51171,VA,Virginia,38.8583,-78.5708,44037,3.6,3.9,65308,5.00
+Montgomery,Montgomery,Smyth County,51173,VA,Virginia,36.8438,-81.537,29960,4,3.9,42303,6.00
+Nelson,Nelson,Southampton County,51175,VA,Virginia,36.7204,-77.1061,18028,3.5,3.9,57965,5.00
+New Kent,New Kent,Spotsylvania County,51177,VA,Virginia,38.185,-77.6561,138493,3.8,3.9,100162,5.00
+Newport News,Newport News,Stafford County,51179,VA,Virginia,38.4207,-77.458,154204,3.6,3.9,116569,6.00
+Norfolk,Norfolk,Surry County,51181,VA,Virginia,37.1098,-76.9002,6563,3.8,3.9,61358,6.00
+Northampton,Northampton,Sussex County,51183,VA,Virginia,36.9218,-77.2618,10960,6.5,3.9,54282,5.00
+Northumberland,Northumberland,Tazewell County,51185,VA,Virginia,37.125,-81.5606,40615,5.2,3.9,40728,5.00
+Norton,Norton,Warren County,51187,VA,Virginia,38.9087,-78.2085,40442,3.5,3.9,73546,5.00
+Nottoway,Nottoway,Washington County,51191,VA,Virginia,36.7244,-81.9598,53997,3.6,3.9,54223,5.00
+Orange,Orange,Westmoreland County,51193,VA,Virginia,38.112,-76.8042,18324,4.4,3.9,59959,5.00
+Page,Page,Wise County,51195,VA,Virginia,36.9752,-82.6212,36531,5.2,3.9,41994,5.00
+Patrick,Patrick,Wythe County,51197,VA,Virginia,36.9171,-81.0787,28347,4,3.9,51206,5
+Petersburg,Petersburg,York County,51199,VA,Virginia,37.2431,-76.5635,69635,3.3,3.9,97500,7.00
+Pittsylvania,Pittsylvania,Adams County,53001,WA,Washington,46.9834,-118.561,20353,5.5,5.2,"47,867",8.00
+Poquoson,Poquoson,Asotin County,53003,WA,Washington,46.1918,-117.203,22285,3.7,5.2,"55,564",10.00
+Portsmouth,Portsmouth,Benton County,53005,WA,Washington,46.2398,-119.511,204551,5.6,5.2,"54,958",9.00
+Powhatan,Powhatan,Chelan County,53007,WA,Washington,47.8692,-120.619,78508,5.3,5.2,"62,792",9.00
+Prince Edward,Prince Edward,Clallam County,53009,WA,Washington,48.0493,-123.928,76727,6.5,5.2,"54,894",9.00
+Prince George,Prince George,Clark County,53011,WA,Washington,45.7792,-122.483,496494,5.5,5.2,"63,427",9.00
+Prince William,Prince William,Columbia County,53013,WA,Washington,46.2975,-117.908,3969,5.2,5.2,"70,579",8.00
+Pulaski,Pulaski,Cowlitz County,53015,WA,Washington,46.1932,-122.681,109457,6.4,5.2,"54,550",8.00
+Radford,Radford,Douglas County,53017,WA,Washington,47.7361,-119.692,42622,5.5,5.2,"49,290",9.00
+Rappahannock,Rappahannock,Ferry County,53019,WA,Washington,48.4703,-118.517,7198,8.9,5.2,"46,847",8.00
+Richmond,Richmond,Franklin County,53021,WA,Washington,46.5347,-118.899,95313,6.6,5.2,"45,937",9.00
+Richmond,Richmond,Garfield County,53023,WA,Washington,46.4316,-117.545,2278,5.8,5.2,"56,792",10.00
+Roanoke,Roanoke,Grant County,53025,WA,Washington,47.2057,-119.452,97874,6.6,5.2,"48,845",8.00
+Roanoke,Roanoke,Grays Harbor County,53027,WA,Washington,47.1503,-123.774,74737,7.8,5.2,"47,094",9.00
+Rockbridge,Rockbridge,Island County,53029,WA,Washington,48.163,-122.548,85938,5.6,5.2,"65,188",9.00
+Rockingham,Rockingham,Jefferson County,53031,WA,Washington,47.7487,-123.596,32590,6.2,5.2,"60,365",9.00
+Russell,Russell,King County,53033,WA,Washington,47.4902,-121.805,2240876,4.3,5.2,"108,212",11.00
+Salem,Salem,Kitsap County,53035,WA,Washington,47.613,-122.672,273072,5,5.2,"67,845",9.00
+Scott,Scott,Kittitas County,53037,WA,Washington,47.1244,-120.68,44147,6.3,5.2,"52,846",9.00
+Shenandoah,Shenandoah,Klickitat County,53039,WA,Washington,45.8738,-120.789,22478,6,5.2,"55,602",8.00
+Smyth,Smyth,Lewis County,53041,WA,Washington,46.5778,-122.393,81214,6.3,5.2,"52,517",8.00
+Southampton,Southampton,Lincoln County,53043,WA,Washington,47.5763,-118.419,10798,4.9,5.2,"51,578",8.00
+Spotsylvania,Spotsylvania,Mason County,53045,WA,Washington,47.3484,-123.193,64964,7,5.2,"52,410",9.00
+Stafford,Stafford,Okanogan County,53047,WA,Washington,48.5488,-119.741,41966,6.6,5.2,"50,517",9.00
+Staunton,Staunton,Pacific County,53049,WA,Washington,46.5557,-123.704,22974,7.9,5.2,"46,597",9.00
+Suffolk,Suffolk,Pend Oreille County,53051,WA,Washington,48.5323,-117.274,13302,7.6,5.2,"51,623",8.00
+Surry,Surry,Pierce County,53053,WA,Washington,47.0241,-122.105,910225,6.1,5.2,"61,580",10.00
+Sussex,Sussex,San Juan County,53055,WA,Washington,48.5782,-122.965,17631,5,5.2,"87,038",9.00
+Tazewell,Tazewell,Skagit County,53057,WA,Washington,48.4794,-121.73,128228,6.3,5.2,"64,093",9.00
+Virginia Beach,Virginia Beach,Skamania County,53059,WA,Washington,46.023,-121.915,11973,6.4,5.2,"58,554",8.00
+Warren,Warren,Snohomish County,53061,WA,Washington,48.0475,-121.698,820024,5,5.2,"68,858",11.00
+Washington,Washington,Spokane County,53063,WA,Washington,47.6207,-117.404,531477,5.4,5.2,"53,770",9.00
+Waynesboro,Waynesboro,Stevens County,53065,WA,Washington,48.3991,-117.855,46057,6.7,5.2,"47,613",9.00
+Westmoreland,Westmoreland,Thurston County,53067,WA,Washington,46.9258,-122.833,290642,5.2,5.2,"61,062",10.00
+Williamsburg,Williamsburg,Wahkiakum County,53069,WA,Washington,46.2918,-123.424,4373,6.6,5.2,"52,239",8.00
+Winchester,Winchester,Walla Walla County,53071,WA,Washington,46.2298,-118.478,62168,4.6,5.2,"53,845",9.00
+Wise,Wise,Whatcom County,53073,WA,Washington,48.8259,-121.72,224533,6,5.2,"58,137",9.00
+Wythe,Wythe,Whitman County,53075,WA,Washington,46.9012,-117.523,48197,4.5,5.2,"46,502",8.00
+York,York,Yakima County,53077,WA,Washington,46.4571,-120.739,255151,7,5.2,"50,872",9.00
+Adams,Adams,Barbour County,54001,WV,West Virginia,39.133,-80.003,15600,5.3,5,"40,576",6.00
+Asotin,Asotin,Berkeley County,54003,WV,West Virginia,39.4641,-78.0275,120460,3.6,5,"49,759",7.00
+Benton,Benton,Boone County,54005,WV,West Virginia,38.023,-81.7112,22059,6.1,5,"41,910",7.00
+Chelan,Chelan,Braxton County,54007,WV,West Virginia,38.6999,-80.7193,12702,6.7,5,"41,547",6.00
+Clallam,Clallam,Brooke County,54009,WV,West Virginia,40.2739,-80.5765,22603,6.1,5,"50,271",7.00
+Clark,Clark,Cabell County,54011,WV,West Virginia,38.4203,-82.2417,94622,4.6,5,"49,866",7.00
+Columbia,Columbia,Calhoun County,54013,WV,West Virginia,38.8445,-81.1176,6420,10.3,5,"41,444",6.00
+Cowlitz,Cowlitz,Clay County,54015,WV,West Virginia,38.4625,-81.0751,8176,7.7,5,"39,788",6.00
+Douglas,Douglas,Doddridge County,54017,WV,West Virginia,39.2692,-80.707,7929,4.1,5,"37,685",7.00
+Ferry,Ferry,Fayette County,54019,WV,West Virginia,38.0288,-81.0812,41056,6.2,5,"44,136",7.00
+Franklin,Franklin,Gilmer County,54021,WV,West Virginia,38.9241,-80.8571,7516,6.9,5,"35,405",6.00
+Garfield,Garfield,Grant County,54023,WV,West Virginia,39.1051,-79.1956,11063,4.5,5,"45,643",6.00
+Grant,Grant,Greenbrier County,54025,WV,West Virginia,37.9469,-80.453,33307,4.5,5,"47,283",7.00
+Grays Harbor,Grays Harbor,Hampshire County,54027,WV,West Virginia,39.3171,-78.6141,23214,3.4,5,"43,618",7.00
+Island,Island,Hancock County,54029,WV,West Virginia,40.5219,-80.5739,29223,6.3,5,"49,823",7.00
+Jefferson,Jefferson,Hardy County,54031,WV,West Virginia,39.0075,-78.858,14269,4.9,5,"40,562",7.00
+King,King,Harrison County,54033,WV,West Virginia,39.2835,-80.3799,66222,4.7,5,"57,205",7.00
+Kitsap,Kitsap,Jackson County,54035,WV,West Virginia,38.8345,-81.6748,28011,5.7,5,"45,681",7.00
+Kittitas,Kittitas,Jefferson County,54037,WV,West Virginia,39.3076,-77.8628,57542,3.1,5,"59,214",7.00
+Klickitat,Klickitat,Kanawha County,54039,WV,West Virginia,38.3366,-81.5281,181953,5.2,5,"55,897",7.00
+Lewis,Lewis,Lewis County,54041,WV,West Virginia,38.9959,-80.5022,16966,7,5,"43,341",7.00
 Lincoln,Lincoln,Lincoln County,54043,WV,West Virginia,38.1753,-82.0704,20625,6.6,5,"37,139",6.00
-Logan,Logan,Logan County,54045,WV,West Virginia,37.8315,-81.9353,32786,6.6,5,"43,764",6.00
-Marion,Marion,Marion County,54049,WV,West Virginia,39.51,-80.2434,56256,8.2,5,"34,141",6.00
-Marshall,Marshall,Marshall County,54051,WV,West Virginia,39.8606,-80.6634,30813,5.2,5,"48,343",6.00
-Mason,Mason,Mason County,54053,WV,West Virginia,38.7697,-82.0266,25667,6.2,5,"47,456",6.00
-McDowell,McDowell,McDowell County,54047,WV,West Virginia,37.3785,-81.6536,19334,5.5,5,"42,126",6.00
-Mercer,Mercer,Mercer County,54055,WV,West Virginia,37.4055,-81.1114,59892,6,5,"44,564",6.00
-Mineral,Mineral,Mineral County,54057,WV,West Virginia,39.4147,-78.9438,27045,4.7,5,"48,155",6.00
-Mingo,Mingo,Mingo County,54059,WV,West Virginia,37.7264,-82.1347,23821,9,5,"37,396",6.00
-Monongalia,Monongalia,Monongalia County,54061,WV,West Virginia,39.6303,-80.0466,105695,3.9,5,"52,576",6.00
-Monroe,Monroe,Monroe County,54063,WV,West Virginia,37.5604,-80.5505,12492,3.6,5,"41,207",6.00
-Morgan,Morgan,Morgan County,54065,WV,West Virginia,39.5604,-78.2578,17144,3.5,5,"44,779",6.00
-Nicholas,Nicholas,Nicholas County,54067,WV,West Virginia,38.2917,-80.7993,24770,6,5,"40,915",6.00
-Ohio,Ohio,Ohio County,54069,WV,West Virginia,40.0969,-80.6189,42443,5.1,5,"61,486",6.00
-Pendleton,Pendleton,Pendleton County,54071,WV,West Virginia,38.6807,-79.3509,6249,3,5,"50,144",6.00
-Pleasants,Pleasants,Pleasants County,54073,WV,West Virginia,39.371,-81.1606,7623,7.2,5,"49,077",6.00
-Pocahontas,Pocahontas,Pocahontas County,54075,WV,West Virginia,38.3318,-80.0078,8006,5,5,"50,236",6.00
-Preston,Preston,Preston County,54077,WV,West Virginia,39.4693,-79.6682,34266,4.5,5,"42,091",6.00
-Putnam,Putnam,Putnam County,54079,WV,West Virginia,38.5086,-81.909,57385,4.2,5,"53,536",6.00
-Raleigh,Raleigh,Raleigh County,54081,WV,West Virginia,37.7714,-81.2487,74929,5.2,5,"47,265",6.00
-Randolph,Randolph,Randolph County,54083,WV,West Virginia,38.7747,-79.8758,28150,5.6,5,"45,453",6.00
-Ritchie,Ritchie,Ritchie County,54085,WV,West Virginia,39.1783,-81.063,8676,5.6,5,"52,040",6.00
-Roane,Roane,Roane County,54087,WV,West Virginia,38.714,-81.3483,14129,8.5,5,"39,963",6.00
-Summers,Summers,Summers County,54089,WV,West Virginia,37.6559,-80.8586,12125,4.7,5,"42,796",6.00
-Taylor,Taylor,Taylor County,54091,WV,West Virginia,39.336,-80.0462,16727,4.6,5,"47,328",6.00
-Tucker,Tucker,Tucker County,54093,WV,West Virginia,39.1136,-79.565,6822,5.4,5,"52,251",6.00
-Tyler,Tyler,Tyler County,54095,WV,West Virginia,39.4653,-80.8848,8397,8,5,"47,802",6.00
-Upshur,Upshur,Upshur County,54097,WV,West Virginia,38.8979,-80.2334,23965,6.2,5,"40,187",6.00
-Wayne,Wayne,Wayne County,54099,WV,West Virginia,38.1459,-82.427,39337,5.1,5,"41,080",6.00
-Webster,Webster,Webster County,54101,WV,West Virginia,38.4947,-80.4219,8415,6.2,5,"34,564",6.00
-Wetzel,Wetzel,Wetzel County,54103,WV,West Virginia,39.6053,-80.6391,14629,6.7,5,"43,357",6.00
-Wirt,Wirt,Wirt County,54105,WV,West Virginia,39.0224,-81.3787,5264,7.6,5,"40,858",6.00
-Wood,Wood,Wood County,54107,WV,West Virginia,39.2112,-81.515,84678,5.3,5,"52,329",6.00
-Wyoming,Wyoming,Wyoming County,54109,WV,West Virginia,37.6096,-81.5492,21581,5.8,5,"34,881",6.00
-Adams,Adams,Adams County,55001,WI,Wisconsin,43.9696,-89.7704,20505,6.2,3.8,"46,002",6.00
-Ashland,Ashland,Ashland County,55003,WI,Wisconsin,46.3149,-90.678,16002,5,3.8,"46,418",6.00
-Barron,Barron,Barron County,55005,WI,Wisconsin,45.4237,-91.8483,46529,3.9,3.8,"56,898",6.00
-Bayfield,Bayfield,Bayfield County,55007,WI,Wisconsin,46.5237,-91.2009,16031,5.7,3.8,"53,902",6.00
-Brown,Brown,Brown County,55009,WI,Wisconsin,44.4525,-88.0037,267364,3.4,3.8,"59,279",6.00
-Buffalo,Buffalo,Buffalo County,55011,WI,Wisconsin,44.3798,-91.7545,13314,4.2,3.8,"53,031",6.00
-Burnett,Burnett,Burnett County,55013,WI,Wisconsin,45.8627,-92.3676,16356,5.3,3.8,"49,108",6.00
-Calumet,Calumet,Calumet County,55015,WI,Wisconsin,44.0816,-88.2181,52128,2.8,3.8,"57,182",6.00
-Chippewa,Chippewa,Chippewa County,55017,WI,Wisconsin,45.0694,-91.2799,65877,3.9,3.8,"53,415",6.00
-Clark,Clark,Clark County,55019,WI,Wisconsin,44.7347,-90.6121,34655,3.2,3.8,"50,128",6.00
-Columbia,Columbia,Columbia County,55021,WI,Wisconsin,43.4666,-89.3337,58219,3.4,3.8,"60,708",6.00
-Crawford,Crawford,Crawford County,55023,WI,Wisconsin,43.2395,-90.931,16167,4.4,3.8,"49,273",6.00
-Dane,Dane,Dane County,55025,WI,Wisconsin,43.0673,-89.4181,555474,2.8,3.8,"71,062",6.00
-Dodge,Dodge,Dodge County,55027,WI,Wisconsin,43.4163,-88.7075,89274,3.2,3.8,"51,287",6.00
-Door,Door,Door County,55029,WI,Wisconsin,44.9473,-87.3135,29713,4.4,3.8,"68,172",6.00
-Douglas,Douglas,Douglas County,55031,WI,Wisconsin,46.4329,-91.9162,44034,4.4,3.8,"49,872",6.00
-Dunn,Dunn,Dunn County,55033,WI,Wisconsin,44.9466,-91.8964,45254,3.6,3.8,"47,673",7.00
-Eau Claire,Eau Claire,Eau Claire County,55035,WI,Wisconsin,44.7268,-91.286,105206,3.2,3.8,"55,693",6.00
-Florence,Florence,Florence County,55037,WI,Wisconsin,45.8485,-88.3981,4542,4.8,3.8,"64,600",6.00
-Fond du Lac,Fond du Lac,Fond du Lac County,55039,WI,Wisconsin,43.7536,-88.4883,103890,3.2,3.8,"56,378",6.00
-Forest,Forest,Forest County,55041,WI,Wisconsin,45.6673,-88.7704,9184,6.7,3.8,"46,139",6.00
-Grant,Grant,Grant County,55043,WI,Wisconsin,42.8675,-90.7062,52210,3,3.8,"51,761",6.00
-Green,Green,Green County,55045,WI,Wisconsin,42.68,-89.6022,37098,3,3.8,"60,240",6.00
-Green Lake,Green Lake,Green Lake County,55047,WI,Wisconsin,43.8004,-89.0449,18990,4.3,3.8,"49,311",6.00
-Iowa,Iowa,Iowa County,55049,WI,Wisconsin,43.0005,-90.1354,23715,3.4,3.8,"57,445",6.00
-Iron,Iron,Iron County,55051,WI,Wisconsin,46.2623,-90.242,6074,6.4,3.8,"52,673",6.00
-Jackson,Jackson,Jackson County,55053,WI,Wisconsin,44.3192,-90.8053,21004,5.2,3.8,"49,697",6.00
-Jefferson,Jefferson,Jefferson County,55055,WI,Wisconsin,43.0208,-88.7759,84808,3.3,3.8,"53,863",6.00
-Juneau,Juneau,Juneau County,55057,WI,Wisconsin,43.9246,-90.1138,26595,4.3,3.8,"46,040",6.00
-Kenosha,Kenosha,Kenosha County,55059,WI,Wisconsin,42.5769,-88.0424,168743,4.3,3.8,"57,085",6.00
-Kewaunee,Kewaunee,Kewaunee County,55061,WI,Wisconsin,44.5161,-87.6153,20535,2.8,3.8,"54,422",6.00
-La Crosse,La Crosse,La Crosse County,55063,WI,Wisconsin,43.9066,-91.1152,120291,3,3.8,"58,301",6.00
-Lafayette,Lafayette,Lafayette County,55065,WI,Wisconsin,42.6605,-90.1317,16662,2.6,3.8,"52,194",6.00
-Langlade,Langlade,Langlade County,55067,WI,Wisconsin,45.2623,-89.0719,19469,4.5,3.8,"51,008",6.00
-Lincoln,Lincoln,Lincoln County,55069,WI,Wisconsin,45.3374,-89.7346,28378,3.7,3.8,"51,407",5.00
-Manitowoc,Manitowoc,Manitowoc County,55071,WI,Wisconsin,44.1199,-87.8097,81103,3.4,3.8,"53,085",6.00
-Marathon,Marathon,Marathon County,55073,WI,Wisconsin,44.8983,-89.7591,137597,3,3.8,"58,096",6.00
-Marinette,Marinette,Marinette County,55075,WI,Wisconsin,45.3833,-88.0337,41720,4.4,3.8,"51,265",6.00
-Marquette,Marquette,Marquette County,55077,WI,Wisconsin,43.8196,-89.3987,15515,4.4,3.8,"47,885",6.00
-Menominee,Menominee,Menominee County,55078,WI,Wisconsin,45.0044,-88.71,4318,8.6,3.8,"43,212",6.00
-Milwaukee,Milwaukee,Milwaukee County,55079,WI,Wisconsin,43.0072,-87.9669,939123,5.4,3.8,"55,927",6.00
-Monroe,Monroe,Monroe County,55081,WI,Wisconsin,43.9458,-90.6178,46091,3.2,3.8,"49,000",6.00
-Oconto,Oconto,Oconto County,55083,WI,Wisconsin,45.0264,-88.2697,38691,3.7,3.8,"53,114",5.00
-Oneida,Oneida,Oneida County,55085,WI,Wisconsin,45.7055,-89.5218,37468,4.3,3.8,"55,861",6.00
-Outagamie,Outagamie,Outagamie County,55087,WI,Wisconsin,44.4161,-88.4649,189620,3.1,3.8,"58,622",5.00
-Ozaukee,Ozaukee,Ozaukee County,55089,WI,Wisconsin,43.384,-87.9509,91029,3.1,3.8,"92,719",6.00
-Pepin,Pepin,Pepin County,55091,WI,Wisconsin,44.5829,-92.0015,7328,3.4,3.8,"57,620",6.00
-Pierce,Pierce,Pierce County,55093,WI,Wisconsin,44.7194,-92.4224,42204,3.4,3.8,"54,429",6.00
-Polk,Polk,Polk County,55095,WI,Wisconsin,45.4614,-92.4414,44806,4.2,3.8,"52,885",6.00
-Portage,Portage,Portage County,55097,WI,Wisconsin,44.476,-89.5014,70378,3.5,3.8,"53,435",6.00
-Price,Price,Price County,55099,WI,Wisconsin,45.6804,-90.3614,14003,4.2,3.8,"51,148",4.00
-Racine,Racine,Racine County,55101,WI,Wisconsin,42.7475,-88.0613,197379,4.7,3.8,"56,884",6.00
-Richland,Richland,Richland County,55103,WI,Wisconsin,43.3756,-90.4295,17353,3.5,3.8,"50,749",8.00
-Rock,Rock,Rock County,55105,WI,Wisconsin,42.6712,-89.0716,163522,4.4,3.8,"52,787",5.00
-Rusk,Rusk,Rusk County,55107,WI,Wisconsin,45.4751,-91.1332,14182,4.4,3.8,"51,844",6.00
-Sauk,Sauk,Sauk County,55111,WI,Wisconsin,43.4267,-89.9482,65428,3.4,3.8,"63,800",6.00
-Sawyer,Sawyer,Sawyer County,55113,WI,Wisconsin,45.88,-91.1445,17813,4,3.8,"60,631",
-Shawano,Shawano,Shawano County,55115,WI,Wisconsin,44.7891,-88.7654,40836,5.1,3.8,"50,445",
-Sheboygan,Sheboygan,Sheboygan County,55117,WI,Wisconsin,43.7212,-87.9454,117528,3.7,3.8,"49,746",
-St. Croix,St. Croix,St. Croix County,55109,WI,Wisconsin,45.034,-92.4526,92495,3.1,3.8,"58,425",
-Taylor,Taylor,Taylor County,55119,WI,Wisconsin,45.2116,-90.5012,19960,3.3,3.8,"49,783",
-Trempealeau,Trempealeau,Trempealeau County,55121,WI,Wisconsin,44.304,-91.3585,30504,3.7,3.8,"49,712",
-Vernon,Vernon,Vernon County,55123,WI,Wisconsin,43.5939,-90.8344,30719,3.2,3.8,"49,116",
-Vilas,Vilas,Vilas County,55125,WI,Wisconsin,46.0529,-89.5148,22813,4.7,3.8,"56,041",
-Walworth,Walworth,Walworth County,55127,WI,Wisconsin,42.6685,-88.5419,105945,3.6,3.8,"58,208",
-Washburn,Washburn,Washburn County,55129,WI,Wisconsin,45.8992,-91.7912,16561,4.5,3.8,"53,835",
-Washington,Washington,Washington County,55131,WI,Wisconsin,43.3685,-88.2307,136300,3.1,3.8,"66,103",
-Waukesha,Waukesha,Waukesha County,55133,WI,Wisconsin,43.0182,-88.3045,405332,3.1,3.8,"82,032",
-Waupaca,Waupaca,Waupaca County,55135,WI,Wisconsin,44.4705,-88.9648,51769,3.5,3.8,"52,622",
-Waushara,Waushara,Waushara County,55137,WI,Wisconsin,44.1131,-89.2429,24527,4.2,3.8,"46,929",
-Winnebago,Winnebago,Winnebago County,55139,WI,Wisconsin,44.0689,-88.6446,171304,3.2,3.8,"55,202",
-Wood,Wood,Wood County,55141,WI,Wisconsin,44.4553,-90.0416,74107,4.4,3.8,"53,122",
-Albany,Albany,Albany County,56001,WY,Wyoming,41.6545,-105.724,37311,3.3,4.5,"48,528",
-Big Horn,Big Horn,Big Horn County,56003,WY,Wyoming,44.5267,-107.995,11671,4.4,4.5,"47,259",
-Campbell,Campbell,Campbell County,56005,WY,Wyoming,44.2482,-105.548,46758,5.3,4.5,"56,008",
-Carbon,Carbon,Carbon County,56007,WY,Wyoming,41.6944,-106.931,14714,3.9,4.5,"64,804",
-Converse,Converse,Converse County,56009,WY,Wyoming,42.9723,-105.507,13702,4.9,4.5,"69,583",
-Crook,Crook,Crook County,56011,WY,Wyoming,44.5885,-104.57,7185,3.4,4.5,"51,825",
-Fremont,Fremont,Fremont County,56013,WY,Wyoming,43.0405,-108.63,39434,4.7,4.5,"51,452",
-Goshen,Goshen,Goshen County,56015,WY,Wyoming,42.0879,-104.353,12642,3.5,4.5,"50,633",
-Hot Springs,Hot Springs,Hot Springs County,56017,WY,Wyoming,43.719,-108.442,4673,3.9,4.5,"78,817",
-Johnson,Johnson,Johnson County,56019,WY,Wyoming,44.0388,-106.585,8457,4.1,4.5,"61,294",
-Laramie,Laramie,Laramie County,56021,WY,Wyoming,41.307,-104.69,99905,4,4.5,"58,646",
-Lincoln,Lincoln,Lincoln County,56023,WY,Wyoming,42.264,-110.656,19457,3.8,4.5,"61,945",
-Natrona,Natrona,Natrona County,56025,WY,Wyoming,42.9621,-106.799,79382,6.1,4.5,"70,175",
-Niobrara,Niobrara,Niobrara County,56027,WY,Wyoming,43.0564,-104.475,2486,3.6,4.5,"53,797",
-Park,Park,Park County,56029,WY,Wyoming,44.5205,-109.588,29664,4.1,4.5,"65,944",
-Platte,Platte,Platte County,56031,WY,Wyoming,42.1331,-104.966,8607,4,4.5,"53,368",
-Sheridan,Sheridan,Sheridan County,56033,WY,Wyoming,44.79,-106.879,30812,4.2,4.5,"64,449",
-Sublette,Sublette,Sublette County,56035,WY,Wyoming,42.7669,-109.915,8830,5.6,4.5,"65,620",
-Sweetwater,Sweetwater,Sweetwater County,56037,WY,Wyoming,41.6595,-108.88,42459,5.6,4.5,"56,934",
-Teton,Teton,Teton County,56039,WY,Wyoming,43.9346,-110.59,23319,3.2,4.5,"318,297",
-Uinta,Uinta,Uinta County,56041,WY,Wyoming,41.2876,-110.548,20514,5,4.5,"44,157",
-Washakie,Washakie,Washakie County,56043,WY,Wyoming,43.905,-107.683,7768,4,4.5,"60,235",
-Weston,Weston,Weston County,56045,WY,Wyoming,43.8404,-104.568,6891,3.2,4.5,"49,526",
+Mason,Mason,Logan County,54045,WV,West Virginia,37.8315,-81.9353,32786,6.6,5,"43,764",7.00
+Okanogan,Okanogan,Marion County,54049,WV,West Virginia,39.51,-80.2434,56256,8.2,5,"34,141",7.00
+Pacific,Pacific,Marshall County,54051,WV,West Virginia,39.8606,-80.6634,30813,5.2,5,"48,343",7.00
+Pend Oreille,Pend Oreille,Mason County,54053,WV,West Virginia,38.7697,-82.0266,25667,6.2,5,"47,456",6.00
+Pierce,Pierce,McDowell County,54047,WV,West Virginia,37.3785,-81.6536,19334,5.5,5,"42,126",6.00
+San Juan,San Juan,Mercer County,54055,WV,West Virginia,37.4055,-81.1114,59892,6,5,"44,564",6.00
+Skagit,Skagit,Mineral County,54057,WV,West Virginia,39.4147,-78.9438,27045,4.7,5,"48,155",7.00
+Skamania,Skamania,Mingo County,54059,WV,West Virginia,37.7264,-82.1347,23821,9,5,"37,396",6.00
+Snohomish,Snohomish,Monongalia County,54061,WV,West Virginia,39.6303,-80.0466,105695,3.9,5,"52,576",6.00
+Spokane,Spokane,Monroe County,54063,WV,West Virginia,37.5604,-80.5505,12492,3.6,5,"41,207",7.00
+Stevens,Stevens,Morgan County,54065,WV,West Virginia,39.5604,-78.2578,17144,3.5,5,"44,779",7.00
+Thurston,Thurston,Nicholas County,54067,WV,West Virginia,38.2917,-80.7993,24770,6,5,"40,915",6.00
+Wahkiakum,Wahkiakum,Ohio County,54069,WV,West Virginia,40.0969,-80.6189,42443,5.1,5,"61,486",6.00
+Walla Walla,Walla Walla,Pendleton County,54071,WV,West Virginia,38.6807,-79.3509,6249,3,5,"50,144",7.00
+Whatcom,Whatcom,Pleasants County,54073,WV,West Virginia,39.371,-81.1606,7623,7.2,5,"49,077",6.00
+Whitman,Whitman,Pocahontas County,54075,WV,West Virginia,38.3318,-80.0078,8006,5,5,"50,236",6.00
+Yakima,Yakima,Preston County,54077,WV,West Virginia,39.4693,-79.6682,34266,4.5,5,"42,091",6.00
+Barbour,Barbour,Putnam County,54079,WV,West Virginia,38.5086,-81.909,57385,4.2,5,"53,536",7.00
+Berkeley,Berkeley,Raleigh County,54081,WV,West Virginia,37.7714,-81.2487,74929,5.2,5,"47,265",7.00
+Boone,Boone,Randolph County,54083,WV,West Virginia,38.7747,-79.8758,28150,5.6,5,"45,453",7.00
+Braxton,Braxton,Ritchie County,54085,WV,West Virginia,39.1783,-81.063,8676,5.6,5,"52,040",7.00
+Brooke,Brooke,Roane County,54087,WV,West Virginia,38.714,-81.3483,14129,8.5,5,"39,963",7.00
+Cabell,Cabell,Summers County,54089,WV,West Virginia,37.6559,-80.8586,12125,4.7,5,"42,796",7.00
+Calhoun,Calhoun,Taylor County,54091,WV,West Virginia,39.336,-80.0462,16727,4.6,5,"47,328",6.00
+Clay,Clay,Tucker County,54093,WV,West Virginia,39.1136,-79.565,6822,5.4,5,"52,251",7.00
+Doddridge,Doddridge,Tyler County,54095,WV,West Virginia,39.4653,-80.8848,8397,8,5,"47,802",7.00
+Fayette,Fayette,Upshur County,54097,WV,West Virginia,38.8979,-80.2334,23965,6.2,5,"40,187",7.00
+Gilmer,Gilmer,Wayne County,54099,WV,West Virginia,38.1459,-82.427,39337,5.1,5,"41,080",7.00
+Grant,Grant,Webster County,54101,WV,West Virginia,38.4947,-80.4219,8415,6.2,5,"34,564",7.00
+Greenbrier,Greenbrier,Wetzel County,54103,WV,West Virginia,39.6053,-80.6391,14629,6.7,5,"43,357",6.00
+Hampshire,Hampshire,Wirt County,54105,WV,West Virginia,39.0224,-81.3787,5264,7.6,5,"40,858",7.00
+Hancock,Hancock,Wood County,54107,WV,West Virginia,39.2112,-81.515,84678,5.3,5,"52,329",6.00
+Hardy,Hardy,Wyoming County,54109,WV,West Virginia,37.6096,-81.5492,21581,5.8,5,"34,881",6.00
+Harrison,Harrison,Adams County,55001,WI,Wisconsin,43.9696,-89.7704,20505,6.2,3.8,"46,002",6.00
+Jackson,Jackson,Ashland County,55003,WI,Wisconsin,46.3149,-90.678,16002,5,3.8,"46,418",6.00
+Jefferson,Jefferson,Barron County,55005,WI,Wisconsin,45.4237,-91.8483,46529,3.9,3.8,"56,898",6.00
+Kanawha,Kanawha,Bayfield County,55007,WI,Wisconsin,46.5237,-91.2009,16031,5.7,3.8,"53,902",6.00
+Lewis,Lewis,Brown County,55009,WI,Wisconsin,44.4525,-88.0037,267364,3.4,3.8,"59,279",6.00
+Lincoln,Lincoln,Buffalo County,55011,WI,Wisconsin,44.3798,-91.7545,13314,4.2,3.8,"53,031",6.00
+Logan,Logan,Burnett County,55013,WI,Wisconsin,45.8627,-92.3676,16356,5.3,3.8,"49,108",6.00
+Marion,Marion,Calumet County,55015,WI,Wisconsin,44.0816,-88.2181,52128,2.8,3.8,"57,182",6.00
+Marshall,Marshall,Chippewa County,55017,WI,Wisconsin,45.0694,-91.2799,65877,3.9,3.8,"53,415",6.00
+Mason,Mason,Clark County,55019,WI,Wisconsin,44.7347,-90.6121,34655,3.2,3.8,"50,128",6.00
+McDowell,McDowell,Columbia County,55021,WI,Wisconsin,43.4666,-89.3337,58219,3.4,3.8,"60,708",6.00
+Mercer,Mercer,Crawford County,55023,WI,Wisconsin,43.2395,-90.931,16167,4.4,3.8,"49,273",6.00
+Mineral,Mineral,Dane County,55025,WI,Wisconsin,43.0673,-89.4181,555474,2.8,3.8,"71,062",6.00
+Mingo,Mingo,Dodge County,55027,WI,Wisconsin,43.4163,-88.7075,89274,3.2,3.8,"51,287",6.00
+Monongalia,Monongalia,Door County,55029,WI,Wisconsin,44.9473,-87.3135,29713,4.4,3.8,"68,172",6.00
+Monroe,Monroe,Douglas County,55031,WI,Wisconsin,46.4329,-91.9162,44034,4.4,3.8,"49,872",6.00
+Morgan,Morgan,Dunn County,55033,WI,Wisconsin,44.9466,-91.8964,45254,3.6,3.8,"47,673",6.00
+Nicholas,Nicholas,Eau Claire County,55035,WI,Wisconsin,44.7268,-91.286,105206,3.2,3.8,"55,693",6.00
+Ohio,Ohio,Florence County,55037,WI,Wisconsin,45.8485,-88.3981,4542,4.8,3.8,"64,600",6.00
+Pendleton,Pendleton,Fond du Lac County,55039,WI,Wisconsin,43.7536,-88.4883,103890,3.2,3.8,"56,378",6.00
+Pleasants,Pleasants,Forest County,55041,WI,Wisconsin,45.6673,-88.7704,9184,6.7,3.8,"46,139",6.00
+Pocahontas,Pocahontas,Grant County,55043,WI,Wisconsin,42.8675,-90.7062,52210,3,3.8,"51,761",6.00
+Preston,Preston,Green County,55045,WI,Wisconsin,42.68,-89.6022,37098,3,3.8,"60,240",6.00
+Putnam,Putnam,Green Lake County,55047,WI,Wisconsin,43.8004,-89.0449,18990,4.3,3.8,"49,311",6.00
+Raleigh,Raleigh,Iowa County,55049,WI,Wisconsin,43.0005,-90.1354,23715,3.4,3.8,"57,445",6.00
+Randolph,Randolph,Iron County,55051,WI,Wisconsin,46.2623,-90.242,6074,6.4,3.8,"52,673",6.00
+Ritchie,Ritchie,Jackson County,55053,WI,Wisconsin,44.3192,-90.8053,21004,5.2,3.8,"49,697",6.00
+Roane,Roane,Jefferson County,55055,WI,Wisconsin,43.0208,-88.7759,84808,3.3,3.8,"53,863",6.00
+Summers,Summers,Juneau County,55057,WI,Wisconsin,43.9246,-90.1138,26595,4.3,3.8,"46,040",6.00
+Taylor,Taylor,Kenosha County,55059,WI,Wisconsin,42.5769,-88.0424,168743,4.3,3.8,"57,085",6.00
+Tucker,Tucker,Kewaunee County,55061,WI,Wisconsin,44.5161,-87.6153,20535,2.8,3.8,"54,422",6.00
+Tyler,Tyler,La Crosse County,55063,WI,Wisconsin,43.9066,-91.1152,120291,3,3.8,"58,301",6.00
+Upshur,Upshur,Lafayette County,55065,WI,Wisconsin,42.6605,-90.1317,16662,2.6,3.8,"52,194",6.00
+Wayne,Wayne,Langlade County,55067,WI,Wisconsin,45.2623,-89.0719,19469,4.5,3.8,"51,008",6.00
+Webster,Webster,Lincoln County,55069,WI,Wisconsin,45.3374,-89.7346,28378,3.7,3.8,"51,407",6.00
+Wetzel,Wetzel,Manitowoc County,55071,WI,Wisconsin,44.1199,-87.8097,81103,3.4,3.8,"53,085",6.00
+Wirt,Wirt,Marathon County,55073,WI,Wisconsin,44.8983,-89.7591,137597,3,3.8,"58,096",6.00
+Wood,Wood,Marinette County,55075,WI,Wisconsin,45.3833,-88.0337,41720,4.4,3.8,"51,265",6.00
+Wyoming,Wyoming,Marquette County,55077,WI,Wisconsin,43.8196,-89.3987,15515,4.4,3.8,"47,885",6.00
+Adams,Adams,Menominee County,55078,WI,Wisconsin,45.0044,-88.71,4318,8.6,3.8,"43,212",6.00
+Ashland,Ashland,Milwaukee County,55079,WI,Wisconsin,43.0072,-87.9669,939123,5.4,3.8,"55,927",6.00
+Barron,Barron,Monroe County,55081,WI,Wisconsin,43.9458,-90.6178,46091,3.2,3.8,"49,000",6.00
+Bayfield,Bayfield,Oconto County,55083,WI,Wisconsin,45.0264,-88.2697,38691,3.7,3.8,"53,114",6.00
+Brown,Brown,Oneida County,55085,WI,Wisconsin,45.7055,-89.5218,37468,4.3,3.8,"55,861",6.00
+Buffalo,Buffalo,Outagamie County,55087,WI,Wisconsin,44.4161,-88.4649,189620,3.1,3.8,"58,622",6.00
+Burnett,Burnett,Ozaukee County,55089,WI,Wisconsin,43.384,-87.9509,91029,3.1,3.8,"92,719",6.00
+Calumet,Calumet,Pepin County,55091,WI,Wisconsin,44.5829,-92.0015,7328,3.4,3.8,"57,620",6.00
+Chippewa,Chippewa,Pierce County,55093,WI,Wisconsin,44.7194,-92.4224,42204,3.4,3.8,"54,429",6.00
+Clark,Clark,Polk County,55095,WI,Wisconsin,45.4614,-92.4414,44806,4.2,3.8,"52,885",6.00
+Columbia,Columbia,Portage County,55097,WI,Wisconsin,44.476,-89.5014,70378,3.5,3.8,"53,435",6.00
+Crawford,Crawford,Price County,55099,WI,Wisconsin,45.6804,-90.3614,14003,4.2,3.8,"51,148",6.00
+Dane,Dane,Racine County,55101,WI,Wisconsin,42.7475,-88.0613,197379,4.7,3.8,"56,884",6.00
+Dodge,Dodge,Richland County,55103,WI,Wisconsin,43.3756,-90.4295,17353,3.5,3.8,"50,749",6.00
+Door,Door,Rock County,55105,WI,Wisconsin,42.6712,-89.0716,163522,4.4,3.8,"52,787",6.00
+Douglas,Douglas,Rusk County,55107,WI,Wisconsin,45.4751,-91.1332,14182,4.4,3.8,"51,844",6.00
+Dunn,Dunn,Sauk County,55111,WI,Wisconsin,43.4267,-89.9482,65428,3.4,3.8,"63,800",7.00
+Eau Claire,Eau Claire,Sawyer County,55113,WI,Wisconsin,45.88,-91.1445,17813,4,3.8,"60,631",6.00
+Florence,Florence,Shawano County,55115,WI,Wisconsin,44.7891,-88.7654,40836,5.1,3.8,"50,445",6.00
+Fond du Lac,Fond du Lac,Sheboygan County,55117,WI,Wisconsin,43.7212,-87.9454,117528,3.7,3.8,"49,746",6.00
+Forest,Forest,St. Croix County,55109,WI,Wisconsin,45.034,-92.4526,92495,3.1,3.8,"58,425",6.00
+Grant,Grant,Taylor County,55119,WI,Wisconsin,45.2116,-90.5012,19960,3.3,3.8,"49,783",6.00
+Green,Green,Trempealeau County,55121,WI,Wisconsin,44.304,-91.3585,30504,3.7,3.8,"49,712",6.00
+Green Lake,Green Lake,Vernon County,55123,WI,Wisconsin,43.5939,-90.8344,30719,3.2,3.8,"49,116",6.00
+Iowa,Iowa,Vilas County,55125,WI,Wisconsin,46.0529,-89.5148,22813,4.7,3.8,"56,041",6.00
+Iron,Iron,Walworth County,55127,WI,Wisconsin,42.6685,-88.5419,105945,3.6,3.8,"58,208",6.00
+Jackson,Jackson,Washburn County,55129,WI,Wisconsin,45.8992,-91.7912,16561,4.5,3.8,"53,835",6.00
+Jefferson,Jefferson,Washington County,55131,WI,Wisconsin,43.3685,-88.2307,136300,3.1,3.8,"66,103",6.00
+Juneau,Juneau,Waukesha County,55133,WI,Wisconsin,43.0182,-88.3045,405332,3.1,3.8,"82,032",6.00
+Kenosha,Kenosha,Waupaca County,55135,WI,Wisconsin,44.4705,-88.9648,51769,3.5,3.8,"52,622",6.00
+Kewaunee,Kewaunee,Waushara County,55137,WI,Wisconsin,44.1131,-89.2429,24527,4.2,3.8,"46,929",6.00
+La Crosse,La Crosse,Winnebago County,55139,WI,Wisconsin,44.0689,-88.6446,171304,3.2,3.8,"55,202",6.00
+Lafayette,Lafayette,Wood County,55141,WI,Wisconsin,44.4553,-90.0416,74107,4.4,3.8,"53,122",6.00
+Langlade,Langlade,Albany County,56001,WY,Wyoming,41.6545,-105.724,37311,3.3,4.5,"48,528",6.00
+Lincoln,Lincoln,Big Horn County,56003,WY,Wyoming,44.5267,-107.995,11671,4.4,4.5,"47,259",5.00
+Manitowoc,Manitowoc,Campbell County,56005,WY,Wyoming,44.2482,-105.548,46758,5.3,4.5,"56,008",6.00
+Marathon,Marathon,Carbon County,56007,WY,Wyoming,41.6944,-106.931,14714,3.9,4.5,"64,804",6.00
+Marinette,Marinette,Converse County,56009,WY,Wyoming,42.9723,-105.507,13702,4.9,4.5,"69,583",6.00
+Marquette,Marquette,Crook County,56011,WY,Wyoming,44.5885,-104.57,7185,3.4,4.5,"51,825",6.00
+Menominee,Menominee,Fremont County,56013,WY,Wyoming,43.0405,-108.63,39434,4.7,4.5,"51,452",6.00
+Milwaukee,Milwaukee,Goshen County,56015,WY,Wyoming,42.0879,-104.353,12642,3.5,4.5,"50,633",6.00
+Monroe,Monroe,Hot Springs County,56017,WY,Wyoming,43.719,-108.442,4673,3.9,4.5,"78,817",6.00
+Oconto,Oconto,Johnson County,56019,WY,Wyoming,44.0388,-106.585,8457,4.1,4.5,"61,294",5.00
+Oneida,Oneida,Laramie County,56021,WY,Wyoming,41.307,-104.69,99905,4,4.5,"58,646",6.00
+Outagamie,Outagamie,Lincoln County,56023,WY,Wyoming,42.264,-110.656,19457,3.8,4.5,"61,945",5.00
+Ozaukee,Ozaukee,Natrona County,56025,WY,Wyoming,42.9621,-106.799,79382,6.1,4.5,"70,175",6.00
+Pepin,Pepin,Niobrara County,56027,WY,Wyoming,43.0564,-104.475,2486,3.6,4.5,"53,797",6.00
+Pierce,Pierce,Park County,56029,WY,Wyoming,44.5205,-109.588,29664,4.1,4.5,"65,944",6.00
+Polk,Polk,Platte County,56031,WY,Wyoming,42.1331,-104.966,8607,4,4.5,"53,368",6.00
+Portage,Portage,Sheridan County,56033,WY,Wyoming,44.79,-106.879,30812,4.2,4.5,"64,449",6.00
+Price,Price,Sublette County,56035,WY,Wyoming,42.7669,-109.915,8830,5.6,4.5,"65,620",4.00
+Racine,Racine,Sweetwater County,56037,WY,Wyoming,41.6595,-108.88,42459,5.6,4.5,"56,934",6.00
+Richland,Richland,Teton County,56039,WY,Wyoming,43.9346,-110.59,23319,3.2,4.5,"318,297",8.00
+Rock,Rock,Uinta County,56041,WY,Wyoming,41.2876,-110.548,20514,5,4.5,"44,157",5.00
+Rusk,Rusk,Washakie County,56043,WY,Wyoming,43.905,-107.683,7768,4,4.5,"60,235",6.00
+Sauk,Sauk,Weston County,56045,WY,Wyoming,43.8404,-104.568,6891,3.2,4.5,"49,526",6.00

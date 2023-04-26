@@ -39,5 +39,12 @@ RSpec.describe County, type: :model do
         expect(county.industry_estab_count).to eq(12)
       end
     end
+
+    describe '#industry_estab_count' do
+      it "mimics industry_estab_count with a different api key" do
+
+        expect(county.industry_estab_count2).to eq(12)
+      end
+    end
   end
 end

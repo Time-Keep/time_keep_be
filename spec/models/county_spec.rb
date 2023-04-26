@@ -47,7 +47,7 @@ RSpec.describe County, type: :model do
       it "mimics industry_estab_count with a different api key" do
 
         expect(county.establishment_count).to eq(0)
-        expect(county.industry_estab_count).to eq(12)
+        expect(county.industry_estab_count2).to eq(12)
         expect(county.establishment_count).to eq(12)
       end
     end

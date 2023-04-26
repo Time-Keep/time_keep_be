@@ -13,12 +13,13 @@ class County < ApplicationRecord
             :county_median_income,
             :tax_rate,
             presence: true
+  validate :establishment_count
 
   def industry_estab_count
-    EstabCountFetcher.fetch_count(self.lat, self.lon)
+    self.establishment_count = EstabCountFetcher.fetch_count(self.lat, self.lon)
   end
 
   def industry_estab_count2
-    EstabCountFetcher.fetch_count2(self.lat, self.lon)
+    self.establishment_count = EstabCountFetcher.fetch_count2(self.lat, self.lon)
   end
 end

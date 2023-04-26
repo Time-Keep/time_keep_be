@@ -3,7 +3,9 @@ services:
   db:
     image: postgres:latest
     environment:
-      POSTGRES_PASSWORD: TIME_KEEP_BE_DATABASE_PASSWORD
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 1234
+      POSTGRES_DB: time_keep_be_development
     volumes:
       - db-data:/var/lib/postgresql/data
     ports:
@@ -20,6 +22,6 @@ services:
     depends_on:
       - db
     environment:
-      - DATABASE_URL=postgres://postgres:TIME_KEEP_BE_DATABASE_PASSWORD@db:5432/postgres
+      - DATABASE_URL=postgres://postgres:1234@db:5432/postgres
 volumes:
   db-data:

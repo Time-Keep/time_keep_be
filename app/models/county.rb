@@ -17,4 +17,8 @@ class County < ApplicationRecord
   def industry_estab_count
     EstabCountFetcher.fetch_count(self.lat, self.lon)
   end
+
+  def industry_estab_count2
+    EstabCountFetcher.fetch_count2(self.lat, self.lon)
+  end
 end

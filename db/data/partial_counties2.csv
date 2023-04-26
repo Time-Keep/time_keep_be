@@ -1,0 +1,1393 @@
+county,county_ascii,county_full,county_fips,state_id,state_name,lat,lon,population,county_unemployment_rate,state_unemployment,county_median_income,tax_rate
+Douglas,Douglas,Douglas County,32005,NV,Nevada,38.9123,-119.616,49158,3.3,7.2,"52,754",7.10
+Elko,Elko,Elko County,32007,NV,Nevada,41.1457,-115.358,53420,3.8,7.2,"55,007",7.10
+Esmeralda,Esmeralda,Esmeralda County,32009,NV,Nevada,37.7846,-117.632,987,2.6,7.2,"49,606",6.85
+Eureka,Eureka,Eureka County,32011,NV,Nevada,39.9838,-116.269,1603,3.4,7.2,"53,564",6.85
+Humboldt,Humboldt,Humboldt County,32013,NV,Nevada,41.4068,-118.112,17218,3.6,7.2,"72,511",7.10
+Lander,Lander,Lander County,32015,NV,Nevada,39.9337,-117.038,5729,3.4,7.2,"53,269",7.10
+Lincoln,Lincoln,Lincoln County,32017,NV,Nevada,37.6433,-114.878,4600,5.2,7.2,"48,247",7.10
+Lyon,Lyon,Lyon County,32019,NV,Nevada,39.0206,-119.189,58029,3.8,7.2,"48,836",7.60
+Mineral,Mineral,Mineral County,32021,NV,Nevada,38.5386,-118.435,4552,6.1,7.2,"42,796",6.85
+Nye,Nye,Nye County,32023,NV,Nevada,38.0423,-116.472,50096,3.6,7.2,"39,688",7.60
+Pershing,Pershing,Pershing County,32027,NV,Nevada,40.4404,-118.404,6668,4.6,7.2,"77,775",7.10
+Storey,Storey,Storey County,32029,NV,Nevada,39.447,-119.529,4047,4.3,7.2,"71,436",7.60
+Washoe,Washoe,Washoe County,32031,NV,Nevada,40.6655,-119.664,479758,3,7.2,"56,241",8.27
+White Pine,White Pine,White Pine County,32033,NV,Nevada,39.4421,-114.902,9192,4.8,7.2,"60,445",7.73
+Belknap,Belknap,Belknap County,33001,NH,New Hampshire,43.5179,-71.4227,63395,3.7,3.5,"71,958",0
+Carroll,Carroll,Carroll County,33003,NH,New Hampshire,43.8738,-71.2031,49961,3.8,3.5,"69,803",0
+Cheshire,Cheshire,Cheshire County,33005,NH,New Hampshire,42.9193,-72.2512,76473,3.9,3.5,"64,870",0
+Coos,Coos,Coos County,33007,NH,New Hampshire,44.6896,-71.3056,31360,4.4,3.5,"52,132",0
+Grafton,Grafton,Grafton County,33009,NH,New Hampshire,43.9407,-71.8208,91025,3.3,3.5,"74,813",0
+Hillsborough,Hillsborough,Hillsborough County,33011,NH,New Hampshire,42.9153,-71.7161,420504,3.6,3.5,"71,849",0
+Merrimack,Merrimack,Merrimack County,33013,NH,New Hampshire,43.2975,-71.6802,152983,3.2,3.5,"68,222",0
+Rockingham,Rockingham,Rockingham County,33015,NH,New Hampshire,42.9875,-71.1254,312771,3.5,3.5,"88,303",0
+Strafford,Strafford,Strafford County,33017,NH,New Hampshire,43.2969,-71.0289,130598,3.3,3.5,"61,139",0
+Sullivan,Sullivan,Sullivan County,33019,NH,New Hampshire,43.3613,-72.2221,43105,3.3,3.5,"63,225",0
+Atlantic,Atlantic,Atlantic County,34001,NJ,New Jersey,39.4777,-74.661,273865,9.5,6.3,"58,310",6.63
+Bergen,Bergen,Bergen County,34003,NJ,New Jersey,40.9597,-74.0742,952979,6,6.3,"97,343",6.63
+Burlington,Burlington,Burlington County,34005,NJ,New Jersey,39.8777,-74.6681,460102,5.3,6.3,"69,496",6.63
+Camden,Camden,Camden County,34007,NJ,New Jersey,39.8035,-74.9597,521194,6.8,6.3,"61,642",6.63
+Cape May,Cape May,Cape May County,34009,NJ,New Jersey,39.1496,-74.8002,95488,8.9,6.3,"72,010",6.63
+Cumberland,Cumberland,Cumberland County,34011,NJ,New Jersey,39.3738,-75.1107,154921,7.7,6.3,"47,559",8.63
+Essex,Essex,Essex County,34013,NJ,New Jersey,40.7872,-74.247,852720,8,6.3,"74,310",6.63
+Gloucester,Gloucester,Gloucester County,34015,NJ,New Jersey,39.7173,-75.1414,300821,6,6.3,"62,553",6.63
+Hudson,Hudson,Hudson County,34017,NJ,New Jersey,40.7371,-74.0779,713264,6.8,6.3,"72,046",6.63
+Hunterdon,Hunterdon,Hunterdon County,34019,NJ,New Jersey,40.5673,-74.9122,128807,4.6,6.3,"100,288",6.63
+Mercer,Mercer,Mercer County,34021,NJ,New Jersey,40.2834,-74.7018,384951,5.2,6.3,"77,911",6.63
+Middlesex,Middlesex,Middlesex County,34023,NJ,New Jersey,40.4392,-74.4117,858770,5.7,6.3,"70,221",6.63
+Monmouth,Monmouth,Monmouth County,34025,NJ,New Jersey,40.2603,-74.2213,642160,5.5,6.3,"92,119",6.63
+Morris,Morris,Morris County,34027,NJ,New Jersey,40.862,-74.5445,508347,5,6.3,"107,767",6.63
+Ocean,Ocean,Ocean County,34029,NJ,New Jersey,39.8855,-74.2813,630057,6,6.3,"60,823",6.63
+Passaic,Passaic,Passaic County,34031,NJ,New Jersey,41.0343,-74.3008,521067,8.4,6.3,"59,559",6.63
+Salem,Salem,Salem County,34033,NJ,New Jersey,39.5876,-75.3491,64752,7.3,6.3,"57,547",6.63
+Somerset,Somerset,Somerset County,34035,NJ,New Jersey,40.5635,-74.6163,343950,5.1,6.3,"113,975",6.63
+Sussex,Sussex,Sussex County,34037,NJ,New Jersey,41.1393,-74.6908,144492,5.9,6.3,"71,059",6.63
+Union,Union,Union County,34039,NJ,New Jersey,40.6601,-74.3087,571963,6.7,6.3,"77,007",6.63
+Warren,Warren,Warren County,34041,NJ,New Jersey,40.8572,-74.9973,109354,5.5,6.3,"63,041",6.63
+Bernalillo,Bernalillo,Bernalillo County,35001,NM,New Mexico,35.0514,-106.67,674919,6.2,6.8,"53,616",8.00
+Catron,Catron,Catron County,35003,NM,New Mexico,33.9152,-108.405,3581,6.2,6.8,"37,990",7.88
+Chaves,Chaves,Chaves County,35005,NM,New Mexico,33.3633,-104.467,65014,7.1,6.8,"45,577",7.77
+Cibola,Cibola,Cibola County,35006,NM,New Mexico,34.9125,-108,27284,9.3,6.8,"34,627",8.00
+Colfax,Colfax,Colfax County,35007,NM,New Mexico,36.6061,-104.647,12406,5.9,6.8,"47,563",8.38
+Curry,Curry,Curry County,35009,NM,New Mexico,34.5742,-103.347,48716,4.9,6.8,"52,015",8.06
+De Baca,De Baca,De Baca County,35011,NM,New Mexico,34.3425,-104.412,1873,5.1,6.8,"56,384",7.94
+Doña Ana,Dona Ana,Doña Ana County,35013,NM,New Mexico,32.3526,-106.833,218157,6.6,6.8,"45,045",8.50
+Eddy,Eddy,Eddy County,35015,NM,New Mexico,32.4714,-104.304,61096,6.4,6.8,"62,888",7.77
+Grant,Grant,Grant County,35017,NM,New Mexico,32.7389,-108.382,28178,7.3,6.8,"48,537",8.24
+Guadalupe,Guadalupe,Guadalupe County,35019,NM,New Mexico,34.8633,-104.791,4465,7,6.8,"43,255",8.49
+Harding,Harding,Harding County,35021,NM,New Mexico,35.8579,-103.82,533,4.6,6.8,"49,695",7.27
+Hidalgo,Hidalgo,Hidalgo County,35023,NM,New Mexico,31.914,-108.715,4214,5.4,6.8,"51,465",7.63
+Lea,Lea,Lea County,35025,NM,New Mexico,32.7921,-103.413,72743,9.6,6.8,"48,578",7.31
+Lincoln,Lincoln,Lincoln County,35027,NM,New Mexico,33.7453,-105.459,20084,7.5,6.8,"47,703",8.31
+Los Alamos,Los Alamos,Los Alamos County,35028,NM,New Mexico,35.8693,-106.307,19169,3,6.8,"81,306",7.19
+Luna,Luna,Luna County,35029,NM,New Mexico,32.1822,-107.75,25282,15.2,6.8,"38,494",8.38
+McKinley,McKinley,McKinley County,35031,NM,New Mexico,35.5807,-108.262,72946,9.6,6.8,"34,939",8.19
+Mora,Mora,Mora County,35033,NM,New Mexico,36.0105,-104.945,4232,6.2,6.8,"51,939",7.65
+Otero,Otero,Otero County,35035,NM,New Mexico,32.6132,-105.742,67298,6.6,6.8,"41,657",8.00
+Quay,Quay,Quay County,35037,NM,New Mexico,35.1043,-103.55,8675,7.1,6.8,"44,798",8.25
+Rio Arriba,Rio Arriba,Rio Arriba County,35039,NM,New Mexico,36.5096,-106.693,40347,7,6.8,"42,467",8.94
+Roosevelt,Roosevelt,Roosevelt County,35041,NM,New Mexico,34.0212,-103.48,19223,5.6,6.8,"45,456",8.06
+San Juan,San Juan,San Juan County,35045,NM,New Mexico,36.5085,-108.321,122912,6.6,6.8,"51,807",8.31
+San Miguel,San Miguel,San Miguel County,35047,NM,New Mexico,35.4805,-104.816,27357,8,6.8,"41,735",8.27
+Sandoval,Sandoval,Sandoval County,35043,NM,New Mexico,35.6886,-106.866,147327,7.3,6.8,"44,889",8.19
+Santa Fe,Santa Fe,Santa Fe County,35049,NM,New Mexico,35.5069,-105.976,153632,6.2,6.8,"69,528",8.94
+Sierra,Sierra,Sierra County,35051,NM,New Mexico,33.1305,-107.192,11512,8.1,6.8,"49,778",8.50
+Socorro,Socorro,Socorro County,35053,NM,New Mexico,34.0072,-106.93,16605,6.3,6.8,"42,389",7.69
+Taos,Taos,Taos County,35055,NM,New Mexico,36.5783,-105.631,34322,8.9,6.8,"44,709",8.81
+Torrance,Torrance,Torrance County,35057,NM,New Mexico,34.6405,-105.851,15150,7.9,6.8,"41,423",8.06
+Union,Union,Union County,35059,NM,New Mexico,36.4816,-103.471,4122,4.2,6.8,"41,350",8.00
+Valencia,Valencia,Valencia County,35061,NM,New Mexico,34.7155,-106.809,75992,6.9,6.8,"43,485",8.55
+Albany,Albany,Albany County,36001,NY,New York,42.6002,-73.9736,314679,4.4,6.9,"70,947",8.00
+Allegany,Allegany,Allegany County,36003,NY,New York,42.2574,-78.0276,46654,5,6.9,"42,569",8.50
+Bronx,Bronx,Bronx County,36005,NY,New York,40.8501,-73.866,1468262,13.6,6.9,"46,834",8.88
+Broome,Broome,Broome County,36007,NY,New York,42.1602,-75.8196,198591,5.2,6.9,"50,657",8.00
+Cattaraugus,Cattaraugus,Cattaraugus County,36009,NY,New York,42.2486,-78.6788,77211,5.3,6.9,"46,775",8.75
+Cayuga,Cayuga,Cayuga County,36011,NY,New York,42.9175,-76.5545,76644,4.7,6.9,"51,431",8.00
+Chautauqua,Chautauqua,Chautauqua County,36013,NY,New York,42.2281,-79.3663,128042,5.6,6.9,"47,642",8.00
+Chemung,Chemung,Chemung County,36015,NY,New York,42.1413,-76.76,84456,5.3,6.9,"52,360",8.00
+Chenango,Chenango,Chenango County,36017,NY,New York,42.4935,-75.6116,47407,4.4,6.9,"50,568",8.00
+Clinton,Clinton,Clinton County,36019,NY,New York,44.7462,-73.6782,80095,4.6,6.9,"50,625",8.00
+Columbia,Columbia,Columbia County,36021,NY,New York,42.2501,-73.6318,61587,3.8,6.9,"65,426",8.13
+Cortland,Cortland,Cortland County,36023,NY,New York,42.595,-76.0703,46984,5.1,6.9,"48,617",8.00
+Delaware,Delaware,Delaware County,36025,NY,New York,42.1981,-74.9665,44644,4.6,6.9,"48,644",8.00
+Dutchess,Dutchess,Dutchess County,36027,NY,New York,41.7652,-73.7429,296012,4.4,6.9,"67,256",8.38
+Erie,Erie,Erie County,36029,NY,New York,42.764,-78.7323,949715,5.5,6.9,"57,625",8.75
+Essex,Essex,Essex County,36031,NY,New York,44.1172,-73.7726,37501,4.7,6.9,"54,109",8.00
+Franklin,Franklin,Franklin County,36033,NY,New York,44.5929,-74.3038,47996,4.7,6.9,"48,658",8.00
+Fulton,Fulton,Fulton County,36035,NY,New York,43.1138,-74.4222,53588,5.5,6.9,"51,558",8.25
+Genesee,Genesee,Genesee County,36037,NY,New York,43.0009,-78.1937,58387,4.3,6.9,"50,662",8.75
+Greene,Greene,Greene County,36039,NY,New York,42.2765,-74.1227,48026,4.9,6.9,"55,805",8.00
+Hamilton,Hamilton,Hamilton County,36041,NY,New York,43.6611,-74.4974,5068,4.4,6.9,"54,556",8.25
+Herkimer,Herkimer,Herkimer County,36043,NY,New York,43.4193,-74.9624,60596,5.8,6.9,"51,946",8.75
+Jefferson,Jefferson,Jefferson County,36045,NY,New York,44.0495,-75.921,117634,5,6.9,"53,130",8.00
+Kings,Kings,Kings County,36047,NY,New York,40.6395,-73.9385,2712360,10.1,6.9,"61,851",8.88
+Lewis,Lewis,Lewis County,36049,NY,New York,43.7851,-75.4486,26681,5,6.9,"54,629",8.75
+Livingston,Livingston,Livingston County,36051,NY,New York,42.7281,-77.7755,62253,4.3,6.9,"52,209",8.50
+Madison,Madison,Madison County,36053,NY,New York,42.9128,-75.6696,68466,4.5,6.9,"54,766",8.75
+Monroe,Monroe,Monroe County,36055,NY,New York,43.1464,-77.6961,757332,5.2,6.9,"60,046",8.00
+Montgomery,Montgomery,Montgomery County,36057,NY,New York,42.9023,-74.4397,49539,5.7,6.9,"48,821",8.25
+Nassau,Nassau,Nassau County,36059,NY,New York,40.7328,-73.5865,1391678,4.5,6.9,"99,597",8.88
+New York,New York,New York County,36061,NY,New York,40.7785,-73.9674,1669127,7.6,6.9,"195,543",8.88
+Niagara,Niagara,Niagara County,36063,NY,New York,43.2001,-78.7452,212808,5.7,6.9,"53,137",8.75
+Oneida,Oneida,Oneida County,36065,NY,New York,43.2418,-75.4358,232034,5.1,6.9,"53,172",8.75
+Onondaga,Onondaga,Onondaga County,36067,NY,New York,43.0058,-76.1946,474621,4.9,6.9,"60,992",8.00
+Ontario,Ontario,Ontario County,36069,NY,New York,42.8528,-77.2998,112060,4.3,6.9,"62,051",8.00
+Orange,Orange,Orange County,36071,NY,New York,41.4022,-74.3056,398277,4.7,6.9,"58,883",8.38
+Orleans,Orleans,Orleans County,36073,NY,New York,43.2521,-78.2312,40588,5.2,6.9,"46,322",8.00
+Oswego,Oswego,Oswego County,36075,NY,New York,43.4269,-76.1413,118019,5.5,6.9,"48,574",8.75
+Otsego,Otsego,Otsego County,36077,NY,New York,42.6338,-75.0326,58952,4.4,6.9,"53,431",8.25
+Putnam,Putnam,Putnam County,36079,NY,New York,41.4267,-73.7495,97960,4.2,6.9,"78,754",8.38
+Queens,Queens,Queens County,36081,NY,New York,40.7023,-73.8203,2393104,9.6,6.9,"58,646",8.88
+Rensselaer,Rensselaer,Rensselaer County,36083,NY,New York,42.7111,-73.5097,161125,4.4,6.9,"58,126",8.00
+Richmond,Richmond,Richmond County,36085,NY,New York,40.5808,-74.1524,493194,8.7,6.9,"65,113",8.88
+Rockland,Rockland,Rockland County,36087,NY,New York,41.1525,-74.0242,336485,4.4,6.9,"69,173",8.38
+Saratoga,Saratoga,Saratoga County,36091,NY,New York,43.1074,-73.8639,235010,5.1,6.9,"45,626",8.00
+Schenectady,Schenectady,Schenectady County,36093,NY,New York,42.8181,-74.0586,157515,3.8,6.9,"75,651",8.00
+Schoharie,Schoharie,Schoharie County,36095,NY,New York,42.5882,-74.4421,29936,4.9,6.9,"62,484",8.00
+Schuyler,Schuyler,Schuyler County,36097,NY,New York,42.3938,-76.8752,17920,4.5,6.9,"52,027",8.00
+Seneca,Seneca,Seneca County,36099,NY,New York,42.7811,-76.8238,33900,4.9,6.9,"49,811",8.00
+St. Lawrence,St. Lawrence,St. Lawrence County,36089,NY,New York,44.4964,-75.0691,108836,4.7,6.9,"47,269",8.00
+Steuben,Steuben,Steuben County,36101,NY,New York,42.2678,-77.3838,94153,5,6.9,"54,238",8.50
+Suffolk,Suffolk,Suffolk County,36103,NY,New York,40.8686,-72.8448,1522998,4.6,6.9,"81,309",8.63
+Sullivan,Sullivan,Sullivan County,36105,NY,New York,41.7164,-74.7681,78230,4.9,6.9,"53,874",8.13
+Tioga,Tioga,Tioga County,36107,NY,New York,42.1703,-76.3063,48567,4.4,6.9,"53,919",8.00
+Tompkins,Tompkins,Tompkins County,36109,NY,New York,42.452,-76.4736,105638,3.7,6.9,"51,377",8.00
+Ulster,Ulster,Ulster County,36111,NY,New York,41.8881,-74.2586,181862,4.7,6.9,"60,557",8.13
+Warren,Warren,Warren County,36113,NY,New York,43.561,-73.846,65692,4.9,6.9,"62,392",8.00
+Washington,Washington,Washington County,36115,NY,New York,43.3137,-73.4308,61504,4.6,6.9,"49,202",8.00
+Wayne,Wayne,Wayne County,36117,NY,New York,43.1566,-77.0294,91332,4.5,6.9,"53,499",8.00
+Westchester,Westchester,Westchester County,36119,NY,New York,41.1624,-73.7561,999723,4.8,6.9,"119,705",8.88
+Wyoming,Wyoming,Wyoming County,36121,NY,New York,42.7024,-78.2245,40679,4.5,6.9,"49,062",8.75
+Yates,Yates,Yates County,36123,NY,New York,42.6335,-77.1055,24808,3.8,6.9,"48,934",8.00
+Alamance,Alamance,Alamance County,37001,NC,North Carolina,36.0437,-79.3994,169185,4.8,4.8,"48,118",7.50
+Alexander,Alexander,Alexander County,37003,NC,North Carolina,35.921,-81.177,36491,4.2,4.8,"46,513",7.00
+Alleghany,Alleghany,Alleghany County,37005,NC,North Carolina,36.4916,-81.1271,10910,4.6,4.8,"45,206",7.00
+Anson,Anson,Anson County,37007,NC,North Carolina,34.9738,-80.1027,22388,6.3,4.8,"47,744",7.00
+Ashe,Ashe,Ashe County,37009,NC,North Carolina,36.4341,-81.5003,26598,4,4.8,"44,203",7.00
+Avery,Avery,Avery County,37011,NC,North Carolina,36.0765,-81.9226,17747,3.9,4.8,"43,022",6.75
+Beaufort,Beaufort,Beaufort County,37013,NC,North Carolina,35.494,-76.8598,44898,4.8,4.8,"54,165",7.00
+Bertie,Bertie,Bertie County,37015,NC,North Carolina,36.0662,-76.9787,18105,5.9,4.8,"48,377",7.00
+Bladen,Bladen,Bladen County,37017,NC,North Carolina,34.6146,-78.5637,30105,5.8,4.8,"47,567",7.00
+Brunswick,Brunswick,Brunswick County,37019,NC,North Carolina,34.071,-78.2377,133789,6,4.8,"55,361",6.75
+Buncombe,Buncombe,Buncombe County,37021,NC,North Carolina,35.6112,-82.5301,266981,4.2,4.8,"57,895",7.00
+Burke,Burke,Burke County,37023,NC,North Carolina,35.7496,-81.7048,87829,4.5,4.8,"44,798",7.00
+Cabarrus,Cabarrus,Cabarrus County,37025,NC,North Carolina,35.3868,-80.5519,221200,4.4,4.8,"53,647",7.25
+Caldwell,Caldwell,Caldwell County,37027,NC,North Carolina,35.953,-81.5464,80705,4.9,4.8,"43,856",7.00
+Camden,Camden,Camden County,37029,NC,North Carolina,36.3877,-76.2064,10353,3.9,4.8,"55,457",6.75
+Carteret,Carteret,Carteret County,37031,NC,North Carolina,34.8357,-76.6589,67944,4.1,4.8,"60,741",7.00
+Caswell,Caswell,Caswell County,37033,NC,North Carolina,36.3932,-79.3335,22785,5.3,4.8,"42,247",7.50
+Catawba,Catawba,Catawba County,37035,NC,North Carolina,35.662,-81.2151,159852,4.7,4.8,"53,333",7.00
+Chatham,Chatham,Chatham County,37037,NC,North Carolina,35.7026,-79.2553,75070,3.6,4.8,"75,624",7.50
+Cherokee,Cherokee,Cherokee County,37039,NC,North Carolina,35.1339,-84.0635,28515,5,4.8,"40,485",7.00
+Chowan,Chowan,Chowan County,37041,NC,North Carolina,36.1508,-76.6079,13796,4.9,4.8,"50,460",6.75
+Clay,Clay,Clay County,37043,NC,North Carolina,35.0572,-83.7502,10997,4.9,4.8,"43,300",7.00
+Cleveland,Cleveland,Cleveland County,37045,NC,North Carolina,35.3341,-81.5555,98898,5.3,4.8,"45,544",7.00
+Columbus,Columbus,Columbus County,37047,NC,North Carolina,34.2656,-78.655,51474,6.3,4.8,"44,729",6.75
+Craven,Craven,Craven County,37049,NC,North Carolina,35.1249,-77.0939,101405,4.7,4.8,"54,135",7.00
+Cumberland,Cumberland,Cumberland County,37051,NC,North Carolina,35.0487,-78.8277,333582,6.9,4.8,"46,992",7.00
+Currituck,Currituck,Currituck County,37053,NC,North Carolina,36.4031,-76.0059,27575,4.1,4.8,"57,320",6.75
+Dare,Dare,Dare County,37055,NC,North Carolina,35.7805,-75.7982,36718,6,4.8,"68,887",6.75
+Davidson,Davidson,Davidson County,37057,NC,North Carolina,35.7933,-80.2128,168002,4.5,4.8,"48,086",7.00
+Davie,Davie,Davie County,37059,NC,North Carolina,35.9291,-80.5445,42543,4.3,4.8,"57,591",6.75
+Duplin,Duplin,Duplin County,37061,NC,North Carolina,34.9365,-77.933,49836,4.4,4.8,"51,968",7.00
+Durham,Durham,Durham County,37063,NC,North Carolina,36.036,-78.8766,320146,4.1,4.8,"60,330",7.50
+Edgecombe,Edgecombe,Edgecombe County,37065,NC,North Carolina,35.9129,-77.5971,49609,8.5,4.8,"45,069",7.00
+Forsyth,Forsyth,Forsyth County,37067,NC,North Carolina,36.1306,-80.2563,380583,4.9,4.8,"56,378",7.00
+Franklin,Franklin,Franklin County,37069,NC,North Carolina,36.0827,-78.2857,67598,4.7,4.8,"44,996",7.25
+Gaston,Gaston,Gaston County,37071,NC,North Carolina,35.2944,-81.1803,226097,5.2,4.8,"48,508",7.00
+Gates,Gates,Gates County,37073,NC,North Carolina,36.4449,-76.7005,10584,4.3,4.8,"50,100",6.75
+Graham,Graham,Graham County,37075,NC,North Carolina,35.3502,-83.8335,8089,6.9,4.8,"43,178",7.00
+Granville,Granville,Granville County,37077,NC,North Carolina,36.304,-78.6527,60854,4,4.8,"46,504",7.25
+Greene,Greene,Greene County,37079,NC,North Carolina,35.485,-77.6758,20524,4.1,4.8,"39,564",7.00
+Guilford,Guilford,Guilford County,37081,NC,North Carolina,36.0795,-79.7889,537113,5.6,4.8,"54,651",7.00
+Halifax,Halifax,Halifax County,37083,NC,North Carolina,36.2574,-77.6517,49291,7.5,4.8,"44,948",7.00
+Harnett,Harnett,Harnett County,37085,NC,North Carolina,35.3688,-78.8693,133074,5.3,4.8,"43,484",7.25
+Haywood,Haywood,Haywood County,37087,NC,North Carolina,35.556,-82.9822,61695,4.2,4.8,"49,639",7.00
+Henderson,Henderson,Henderson County,37089,NC,North Carolina,35.3363,-82.48,115613,4.1,4.8,"52,634",7.00
+Hertford,Hertford,Hertford County,37091,NC,North Carolina,36.3591,-76.982,22010,6.5,4.8,"41,973",7.00
+Hoke,Hoke,Hoke County,37093,NC,North Carolina,35.0175,-79.2373,52169,6.4,4.8,"41,652",7.00
+Hyde,Hyde,Hyde County,37095,NC,North Carolina,35.5305,-76.2509,4697,6.5,4.8,"49,175",6.75
+Iredell,Iredell,Iredell County,37097,NC,North Carolina,35.8071,-80.8734,183965,4.6,4.8,"60,791",7.00
+Jackson,Jackson,Jackson County,37099,NC,North Carolina,35.2876,-83.1408,42983,4.5,4.8,"43,362",7.00
+Johnston,Johnston,Johnston County,37101,NC,North Carolina,35.5178,-78.3657,211320,4.2,4.8,"48,950",7.25
+Jones,Jones,Jones County,37103,NC,North Carolina,35.0217,-77.3552,9326,4.2,4.8,"50,245",7.00
+Lee,Lee,Lee County,37105,NC,North Carolina,35.4752,-79.1715,62676,5.4,4.8,"49,136",7.00
+Lenoir,Lenoir,Lenoir County,37107,NC,North Carolina,35.2388,-77.6412,55344,5,4.8,"50,363",7.00
+Lincoln,Lincoln,Lincoln County,37109,NC,North Carolina,35.4856,-81.2235,85670,4.1,4.8,"55,368",7.00
+Macon,Macon,Macon County,37113,NC,North Carolina,35.1505,-83.4222,36532,4.5,4.8,"42,960",7.00
+Madison,Madison,Madison County,37115,NC,North Carolina,35.858,-82.7058,21269,4.2,4.8,"48,875",7.00
+Martin,Martin,Martin County,37117,NC,North Carolina,35.8432,-77.1092,22213,4.3,4.8,"43,064",7.00
+McDowell,McDowell,McDowell County,37111,NC,North Carolina,35.6817,-82.0493,44527,5.5,4.8,"43,176",7.00
+Mecklenburg,Mecklenburg,Mecklenburg County,37119,NC,North Carolina,35.2467,-80.8328,1100984,4.9,4.8,"71,836",7.25
+Mitchell,Mitchell,Mitchell County,37121,NC,North Carolina,36.0133,-82.1636,14951,5.1,4.8,"43,973",6.75
+Montgomery,Montgomery,Montgomery County,37123,NC,North Carolina,35.3325,-79.9055,25891,4.7,4.8,"46,916",7.00
+Moore,Moore,Moore County,37125,NC,North Carolina,35.3106,-79.4814,98618,4.6,4.8,"60,775",7.00
+Nash,Nash,Nash County,37127,NC,North Carolina,35.9673,-77.9864,94628,6.3,4.8,"50,714",7.00
+New Hanover,New Hanover,New Hanover County,37129,NC,North Carolina,34.2328,-77.8847,225175,4.2,4.8,"57,693",7.00
+Northampton,Northampton,Northampton County,37131,NC,North Carolina,36.4178,-77.3969,17917,6.2,4.8,"46,742",7.00
+Onslow,Onslow,Onslow County,37133,NC,North Carolina,34.7321,-77.4321,201597,5.1,4.8,"50,869",7.00
+Orange,Orange,Orange County,37135,NC,North Carolina,36.0611,-79.1207,147376,3.5,4.8,"74,994",7.50
+Pamlico,Pamlico,Pamlico County,37137,NC,North Carolina,35.1435,-76.7407,12293,4.3,4.8,"53,355",6.75
+Pasquotank,Pasquotank,Pasquotank County,37139,NC,North Carolina,36.2955,-76.284,40240,5.4,4.8,"47,034",7.00
+Pender,Pender,Pender County,37141,NC,North Carolina,34.5248,-77.9051,59964,4.2,4.8,"48,665",7.00
+Perquimans,Perquimans,Perquimans County,37143,NC,North Carolina,36.2059,-76.4411,13002,5.3,4.8,"51,577",7.00
+Person,Person,Person County,37145,NC,North Carolina,36.39,-78.9718,38999,5,4.8,"46,879",7.50
+Pitt,Pitt,Pitt County,37147,NC,North Carolina,35.5933,-77.3745,170600,5,4.8,"53,200",7.00
+Polk,Polk,Polk County,37149,NC,North Carolina,35.2793,-82.1697,19413,4.7,4.8,"59,482",7.00
+Randolph,Randolph,Randolph County,37151,NC,North Carolina,35.7103,-79.806,143735,4.7,4.8,"45,777",7.00
+Richmond,Richmond,Richmond County,37153,NC,North Carolina,35.0059,-79.7479,43301,7.3,4.8,"44,562",7.00
+Robeson,Robeson,Robeson County,37155,NC,North Carolina,34.6402,-79.1039,118836,7.6,4.8,"41,780",7.00
+Rockingham,Rockingham,Rockingham County,37157,NC,North Carolina,36.396,-79.775,90903,5.5,4.8,"45,049",7.00
+Rowan,Rowan,Rowan County,37159,NC,North Carolina,35.6394,-80.5247,145784,5,4.8,"46,763",7.00
+Rutherford,Rutherford,Rutherford County,37161,NC,North Carolina,35.4026,-81.9198,64592,6.5,4.8,"42,376",7.00
+Sampson,Sampson,Sampson County,37163,NC,North Carolina,34.9916,-78.3714,59468,4.5,4.8,"45,841",7.00
+Scotland,Scotland,Scotland County,37165,NC,North Carolina,34.8409,-79.4804,34345,9.5,4.8,"42,171",7.00
+Stanly,Stanly,Stanly County,37167,NC,North Carolina,35.3119,-80.251,62148,4.4,4.8,"46,827",7.00
+Stokes,Stokes,Stokes County,37169,NC,North Carolina,36.4019,-80.2397,44588,4.2,4.8,"46,159",7.00
+Surry,Surry,Surry County,37171,NC,North Carolina,36.4146,-80.688,71439,4.4,4.8,"46,963",7.00
+Swain,Swain,Swain County,37173,NC,North Carolina,35.4868,-83.4928,14166,4.5,4.8,"49,421",7.00
+Transylvania,Transylvania,Transylvania County,37175,NC,North Carolina,35.2021,-82.7982,32979,4.1,4.8,"52,252",7.00
+Tyrrell,Tyrrell,Tyrrell County,37177,NC,North Carolina,35.8172,-76.209,3436,7,4.8,"47,379",6.75
+Union,Union,Union County,37179,NC,North Carolina,34.9884,-80.5307,235699,3.9,4.8,"63,777",7.25
+Vance,Vance,Vance County,37181,NC,North Carolina,36.3649,-78.4079,42650,7.9,4.8,"44,399",6.75
+Wake,Wake,Wake County,37183,NC,North Carolina,35.7903,-78.6503,1112883,4,4.8,"71,205",7.50
+Warren,Warren,Warren County,37185,NC,North Carolina,36.3965,-78.1067,18889,7.7,4.8,"38,740",7.00
+Washington,Washington,Washington County,37187,NC,North Carolina,35.8226,-76.5775,11183,6.9,4.8,"46,846",6.75
+Watauga,Watauga,Watauga County,37189,NC,North Carolina,36.2311,-81.6964,54077,3.7,4.8,"46,766",7.00
+Wayne,Wayne,Wayne County,37191,NC,North Carolina,35.364,-78.004,117692,5,4.8,"49,881",7.00
+Wilkes,Wilkes,Wilkes County,37193,NC,North Carolina,36.2062,-81.163,66335,4.7,4.8,"46,169",7.00
+Wilson,Wilson,Wilson County,37195,NC,North Carolina,35.7051,-77.9187,78844,6.7,4.8,"48,642",7.00
+Yadkin,Yadkin,Yadkin County,37197,NC,North Carolina,36.1605,-80.6652,37198,4.2,4.8,"46,172",7.00
+Yancey,Yancey,Yancey County,37199,NC,North Carolina,35.8989,-82.3076,18357,4.3,4.8,"41,892",7.00
+Adams,Adams,Adams County,38001,ND,North Dakota,46.0968,-102.528,2237,3.4,3.7,"57,586",5.00
+Barnes,Barnes,Barnes County,38003,ND,North Dakota,46.9361,-98.0716,10869,3.1,3.7,"66,463",8.00
+Benson,Benson,Benson County,38005,ND,North Dakota,48.0694,-99.366,6090,5,3.7,"55,282",7.00
+Billings,Billings,Billings County,38007,ND,North Dakota,47.0236,-103.376,839,2.9,3.7,"92,571",8.00
+Bottineau,Bottineau,Bottineau County,38009,ND,North Dakota,48.7922,-100.833,6442,4.8,3.7,"69,935",7.00
+Bowman,Bowman,Bowman County,38011,ND,North Dakota,46.1126,-103.521,3024,2.5,3.7,"77,069",5.00
+Burke,Burke,Burke County,38013,ND,North Dakota,48.791,-102.518,2177,4.3,3.7,"72,515",7.00
+Burleigh,Burleigh,Burleigh County,38015,ND,North Dakota,46.9774,-100.469,97895,3.1,3.7,"66,017",7.00
+Cass,Cass,Cass County,38017,ND,North Dakota,46.933,-97.248,182992,2.9,3.7,"65,803",8.00
+Cavalier,Cavalier,Cavalier County,38019,ND,North Dakota,48.7723,-98.4648,3725,3.1,3.7,"88,700",7.00
+Dickey,Dickey,Dickey County,38021,ND,North Dakota,46.1102,-98.5047,5013,2.7,3.7,"73,312",7.00
+Divide,Divide,Divide County,38023,ND,North Dakota,48.8149,-103.487,2196,2.4,3.7,"66,208",8.00
+Dunn,Dunn,Dunn County,38025,ND,North Dakota,47.3568,-102.618,4054,3.3,3.7,"80,976",7.00
+Eddy,Eddy,Eddy County,38027,ND,North Dakota,47.7176,-98.9016,2378,4,3.7,"72,571",8.00
+Emmons,Emmons,Emmons County,38029,ND,North Dakota,46.2851,-100.239,3316,4.6,3.7,"72,883",7.00
+Foster,Foster,Foster County,38031,ND,North Dakota,47.4571,-98.883,3396,2.8,3.7,"75,732",7.00
+Golden Valley,Golden Valley,Golden Valley County,38033,ND,North Dakota,46.9402,-103.847,1812,2.7,3.7,"52,279",7.00
+Grand Forks,Grand Forks,Grand Forks County,38035,ND,North Dakota,47.9219,-97.4569,73101,3.2,3.7,"58,132",8.00
+Grant,Grant,Grant County,38037,ND,North Dakota,46.3583,-101.64,2351,2.7,3.7,"57,313",7.00
+Griggs,Griggs,Griggs County,38039,ND,North Dakota,47.4573,-98.237,2242,2.8,3.7,"73,012",7.00
+Hettinger,Hettinger,Hettinger County,38041,ND,North Dakota,46.4325,-102.46,2502,3.2,3.7,"58,160",8.00
+Kidder,Kidder,Kidder County,38043,ND,North Dakota,46.9801,-99.7801,2397,5.2,3.7,"74,589",8.00
+LaMoure,LaMoure,LaMoure County,38045,ND,North Dakota,46.4569,-98.5355,4173,2.3,3.7,"72,712",8.00
+Logan,Logan,Logan County,38047,ND,North Dakota,46.4573,-99.4774,1814,3,3.7,"68,365",7.00
+McHenry,McHenry,McHenry County,38049,ND,North Dakota,48.2346,-100.636,5420,4.3,3.7,"72,140",7.00
+McIntosh,McIntosh,McIntosh County,38051,ND,North Dakota,46.1118,-99.4412,2568,3.5,3.7,"80,675",7.00
+McKenzie,McKenzie,McKenzie County,38053,ND,North Dakota,47.7402,-103.395,13762,5.5,3.7,"72,258",7.00
+McLean,McLean,McLean County,38055,ND,North Dakota,47.6069,-101.322,9788,3.7,3.7,"76,889",8.00
+Mercer,Mercer,Mercer County,38057,ND,North Dakota,47.3092,-101.832,8405,4.7,3.7,"65,113",7.00
+Morton,Morton,Morton County,38059,ND,North Dakota,46.7161,-101.281,32916,3.8,3.7,"58,630",8.00
+Mountrail,Mountrail,Mountrail County,38061,ND,North Dakota,48.2013,-102.356,9717,3.5,3.7,"72,419",7.00
+Nelson,Nelson,Nelson County,38063,ND,North Dakota,47.9217,-98.192,3035,3.7,3.7,"70,971",7.00
+Oliver,Oliver,Oliver County,38065,ND,North Dakota,47.1153,-101.34,1850,3.8,3.7,"63,441",7.00
+Pembina,Pembina,Pembina County,38067,ND,North Dakota,48.7675,-97.5518,6912,4.8,3.7,"75,974",8.00
+Pierce,Pierce,Pierce County,38069,ND,North Dakota,48.2496,-99.9718,4038,3.4,3.7,"66,733",7.00
+Ramsey,Ramsey,Ramsey County,38071,ND,North Dakota,48.2689,-98.7201,11638,3.3,3.7,"59,490",8.00
+Ransom,Ransom,Ransom County,38073,ND,North Dakota,46.4562,-97.6574,5679,2.6,3.7,"64,827",8.00
+Renville,Renville,Renville County,38075,ND,North Dakota,48.719,-101.658,2328,3.4,3.7,"78,282",7.00
+Richland,Richland,Richland County,38077,ND,North Dakota,46.2646,-96.9483,16546,2.7,3.7,"59,919",8.00
+Rolette,Rolette,Rolette County,38079,ND,North Dakota,48.7725,-99.8409,12508,10.6,3.7,"52,939",7.00
+Sargent,Sargent,Sargent County,38081,ND,North Dakota,46.1078,-97.6306,3839,2.7,3.7,"74,799",8.00
+Sheridan,Sheridan,Sheridan County,38083,ND,North Dakota,47.5755,-100.346,1328,5.3,3.7,"78,328",7.00
+Sioux,Sioux,Sioux County,38085,ND,North Dakota,46.1127,-101.04,3993,3.5,3.7,"36,445",6.00
+Slope,Slope,Slope County,38087,ND,North Dakota,46.4472,-103.46,775,2.8,3.7,"80,270",5.00
+Stark,Stark,Stark County,38089,ND,North Dakota,46.8107,-102.655,32710,4.7,3.7,"62,553",8.00
+Steele,Steele,Steele County,38091,ND,North Dakota,47.4562,-97.7246,1870,3,3.7,"86,280",8.00
+Stutsman,Stutsman,Stutsman County,38093,ND,North Dakota,46.9793,-98.9588,21678,3,3.7,"61,388",8.00
+Towner,Towner,Towner County,38095,ND,North Dakota,48.6855,-99.2457,2190,3.3,3.7,"80,665",7.00
+Traill,Traill,Traill County,38097,ND,North Dakota,47.4542,-97.1616,8008,3,3.7,"65,364",8.00
+Walsh,Walsh,Walsh County,38099,ND,North Dakota,48.3695,-97.7213,10631,4.6,3.7,"65,961",8.00
+Ward,Ward,Ward County,38101,ND,North Dakota,48.2217,-101.542,69686,4.3,3.7,"59,893",8.00
+Wells,Wells,Wells County,38103,ND,North Dakota,47.5875,-99.661,4031,4.2,3.7,"82,108",7.00
+Williams,Williams,Williams County,38105,ND,North Dakota,48.3437,-103.48,38460,6.7,3.7,"63,689",9.00
+Adams,Adams,Adams County,39001,OH,Ohio,38.8455,-83.4721,27564,6.3,5.1,"43,092",7.00
+Allen,Allen,Allen County,39003,OH,Ohio,40.7715,-84.1058,102462,5.7,5.1,"50,353",7.00
+Ashland,Ashland,Ashland County,39005,OH,Ohio,40.846,-82.2707,52658,4.3,5.1,"45,594",7.00
+Ashtabula,Ashtabula,Ashtabula County,39007,OH,Ohio,41.7074,-80.7483,97869,5.5,5.1,"46,280",7.00
+Athens,Athens,Athens County,39009,OH,Ohio,39.3339,-82.0452,62933,5.6,5.1,"40,663",7.00
+Auglaize,Auglaize,Auglaize County,39011,OH,Ohio,40.5609,-84.2217,46282,3.7,5.1,"54,964",7.00
+Belmont,Belmont,Belmont County,39013,OH,Ohio,40.0158,-80.9885,67077,6.1,5.1,"45,375",7.00
+Brown,Brown,Brown County,39015,OH,Ohio,38.9338,-83.8673,43694,5.3,5.1,"45,795",7.00
+Butler,Butler,Butler County,39017,OH,Ohio,39.4386,-84.5756,387830,4.5,5.1,"55,636",8.00
+Carroll,Carroll,Carroll County,39019,OH,Ohio,40.5796,-81.0897,26866,5.7,5.1,"48,319",7.00
+Champaign,Champaign,Champaign County,39021,OH,Ohio,40.1377,-83.7695,38678,4.4,5.1,"50,151",7.00
+Clark,Clark,Clark County,39023,OH,Ohio,39.9168,-83.7838,136032,5.3,5.1,"47,929",8.00
+Clermont,Clermont,Clermont County,39025,OH,Ohio,39.0476,-84.1517,207650,4.3,5.1,"64,895",8.00
+Clinton,Clinton,Clinton County,39027,OH,Ohio,39.4149,-83.8084,42046,5.5,5.1,"52,090",7.00
+Columbiana,Columbiana,Columbiana County,39029,OH,Ohio,40.7684,-80.7772,102331,5.7,5.1,"45,580",8.00
+Coshocton,Coshocton,Coshocton County,39031,OH,Ohio,40.3017,-81.92,36621,5.8,5.1,"42,403",8.00
+Crawford,Crawford,Crawford County,39033,OH,Ohio,40.8508,-82.9198,41939,5.8,5.1,"45,755",7.00
+Cuyahoga,Cuyahoga,Cuyahoga County,39035,OH,Ohio,41.4243,-81.6586,1263667,6.5,5.1,"62,790",8.00
+Darke,Darke,Darke County,39037,OH,Ohio,40.1333,-84.6194,51839,3.9,5.1,"51,549",7.00
+Defiance,Defiance,Defiance County,39039,OH,Ohio,41.3239,-84.4905,38329,4.7,5.1,"47,933",7.00
+Delaware,Delaware,Delaware County,39041,OH,Ohio,40.2784,-83.0049,211121,3.6,5.1,"83,603",8.00
+Erie,Erie,Erie County,39043,OH,Ohio,41.3641,-82.6194,75560,6.3,5.1,"58,239",7.00
+Fairfield,Fairfield,Fairfield County,39045,OH,Ohio,39.7516,-82.6306,157622,4.3,5.1,"55,185",8.00
+Fayette,Fayette,Fayette County,39047,OH,Ohio,39.5599,-83.4561,28897,4.8,5.1,"47,851",7.00
+Franklin,Franklin,Franklin County,39049,OH,Ohio,39.9695,-83.0093,1313598,5,5.1,"58,689",8.00
+Fulton,Fulton,Fulton County,39051,OH,Ohio,41.6018,-84.1301,42709,4.7,5.1,"52,995",7.00
+Gallia,Gallia,Gallia County,39053,OH,Ohio,38.8247,-82.3169,29369,5.6,5.1,"47,674",7.00
+Geauga,Geauga,Geauga County,39055,OH,Ohio,41.4996,-81.1786,95408,4.1,5.1,"78,294",7.00
+Greene,Greene,Greene County,39057,OH,Ohio,39.6915,-83.8899,167043,4.3,5.1,"58,363",8.00
+Guernsey,Guernsey,Guernsey County,39059,OH,Ohio,40.052,-81.4943,38542,5.6,5.1,"48,667",8.00
+Hamilton,Hamilton,Hamilton County,39061,OH,Ohio,39.1955,-84.5428,826790,4.9,5.1,"67,845",8.00
+Hancock,Hancock,Hancock County,39063,OH,Ohio,41.0019,-83.6665,75139,4.1,5.1,"58,966",7.00
+Hardin,Hardin,Hardin County,39065,OH,Ohio,40.6616,-83.6595,30738,5.2,5.1,"40,636",7.00
+Harrison,Harrison,Harrison County,39067,OH,Ohio,40.2938,-81.0911,14623,6.2,5.1,"45,968",7.00
+Henry,Henry,Henry County,39069,OH,Ohio,41.3339,-84.0682,27618,5.2,5.1,"52,568",8.00
+Highland,Highland,Highland County,39071,OH,Ohio,39.1847,-83.601,43162,5.6,5.1,"44,454",7.00
+Hocking,Hocking,Hocking County,39073,OH,Ohio,39.4971,-82.4792,28180,4.8,5.1,"46,421",7.00
+Holmes,Holmes,Holmes County,39075,OH,Ohio,40.5612,-81.9293,44166,2.8,5.1,"54,118",8.00
+Huron,Huron,Huron County,39077,OH,Ohio,41.1463,-82.598,58583,5.8,5.1,"48,213",7.00
+Jackson,Jackson,Jackson County,39079,OH,Ohio,39.0196,-82.6184,32531,6.1,5.1,"42,680",7.00
+Jefferson,Jefferson,Jefferson County,39081,OH,Ohio,40.385,-80.761,65620,6.5,5.1,"47,413",7.00
+Knox,Knox,Knox County,39083,OH,Ohio,40.3988,-82.4215,62399,4,5.1,"52,034",8.00
+Lake,Lake,Lake County,39085,OH,Ohio,41.6963,-81.2373,232202,5.1,5.1,"58,960",8.00
+Lawrence,Lawrence,Lawrence County,39087,OH,Ohio,38.5984,-82.5368,58570,5.1,5.1,"46,838",7.00
+Licking,Licking,Licking County,39089,OH,Ohio,40.0916,-82.4831,177454,4.1,5.1,"54,525",8.00
+Logan,Logan,Logan County,39091,OH,Ohio,40.3885,-83.7658,45997,4.1,5.1,"50,151",7.00
+Lorain,Lorain,Lorain County,39093,OH,Ohio,41.2957,-82.151,311737,5.8,5.1,"54,452",8.00
+Lucas,Lucas,Lucas County,39095,OH,Ohio,41.6197,-83.6588,431212,6.2,5.1,"54,105",8.00
+Madison,Madison,Madison County,39097,OH,Ohio,39.894,-83.4002,43947,3.8,5.1,"50,124",8.00
+Mahoning,Mahoning,Mahoning County,39099,OH,Ohio,41.0146,-80.7763,229044,6.3,5.1,"50,968",8.00
+Marion,Marion,Marion County,39101,OH,Ohio,40.5872,-83.1609,65515,4.7,5.1,"43,814",7.00
+Medina,Medina,Medina County,39103,OH,Ohio,41.1176,-81.8997,181448,4.3,5.1,"64,371",8.00
+Meigs,Meigs,Meigs County,39105,OH,Ohio,39.0822,-82.0229,22361,6.6,5.1,"43,469",7.00
+Mercer,Mercer,Mercer County,39107,OH,Ohio,40.5399,-84.6294,42154,3.1,5.1,"59,089",7.00
+Miami,Miami,Miami County,39109,OH,Ohio,40.0535,-84.2289,107899,4.3,5.1,"54,947",8.00
+Monroe,Monroe,Monroe County,39111,OH,Ohio,39.7274,-81.0829,13514,7.3,5.1,"43,844",7.00
+Montgomery,Montgomery,Montgomery County,39113,OH,Ohio,39.7547,-84.2907,536136,5.6,5.1,"54,822",8.00
+Morgan,Morgan,Morgan County,39115,OH,Ohio,39.6204,-81.8527,13955,6.2,5.1,"43,249",7.00
+Morrow,Morrow,Morrow County,39117,OH,Ohio,40.5241,-82.7941,34892,4.5,5.1,"49,162",7.00
+Muskingum,Muskingum,Muskingum County,39119,OH,Ohio,39.9654,-81.9444,86346,5.1,5.1,"49,160",8.00
+Noble,Noble,Noble County,39121,OH,Ohio,39.7659,-81.4556,14166,6.8,5.1,"32,713",7.00
+Ottawa,Ottawa,Ottawa County,39123,OH,Ohio,41.5378,-83.1434,40479,6.1,5.1,"61,102",8.00
+Paulding,Paulding,Paulding County,39125,OH,Ohio,41.1166,-84.5802,18858,4.3,5.1,"48,972",7.00
+Perry,Perry,Perry County,39127,OH,Ohio,39.7371,-82.2361,35439,5.6,5.1,"46,028",7.00
+Pickaway,Pickaway,Pickaway County,39129,OH,Ohio,39.6419,-83.0244,58458,4.5,5.1,"49,425",8.00
+Pike,Pike,Pike County,39131,OH,Ohio,39.0773,-83.0668,27271,6.3,5.1,"46,730",7.00
+Portage,Portage,Portage County,39133,OH,Ohio,41.1677,-81.1974,161897,4.7,5.1,"51,995",8.00
+Preble,Preble,Preble County,39135,OH,Ohio,39.7415,-84.648,41027,4.1,5.1,"48,600",8.00
+Putnam,Putnam,Putnam County,39137,OH,Ohio,41.0221,-84.1317,34395,3.4,5.1,"57,868",7.00
+Richland,Richland,Richland County,39139,OH,Ohio,40.7747,-82.5365,124504,5.6,5.1,"46,366",7.00
+Ross,Ross,Ross County,39141,OH,Ohio,39.3376,-83.057,77205,4.8,5.1,"45,596",7.00
+Sandusky,Sandusky,Sandusky County,39143,OH,Ohio,41.3562,-83.1464,59013,5.2,5.1,"48,982",7.00
+Scioto,Scioto,Scioto County,39145,OH,Ohio,38.8039,-82.9929,74392,6.2,5.1,"46,946",7.00
+Seneca,Seneca,Seneca County,39147,OH,Ohio,41.1239,-83.1277,55166,4.7,5.1,"47,605",7.00
+Shelby,Shelby,Shelby County,39149,OH,Ohio,40.3316,-84.2048,48307,4.2,5.1,"52,547",7.00
+Stark,Stark,Stark County,39151,OH,Ohio,40.8139,-81.3656,374712,5.2,5.1,"52,426",8.00
+Summit,Summit,Summit County,39153,OH,Ohio,41.126,-81.5322,540567,5.4,5.1,"60,771",8.00
+Trumbull,Trumbull,Trumbull County,39155,OH,Ohio,41.3172,-80.7611,202199,6.4,5.1,"46,356",8.00
+Tuscarawas,Tuscarawas,Tuscarawas County,39157,OH,Ohio,40.4409,-81.4738,93025,4.6,5.1,"50,625",8.00
+Union,Union,Union County,39159,OH,Ohio,40.2994,-83.3716,61769,3.5,5.1,"64,967",8.00
+Van Wert,Van Wert,Van Wert County,39161,OH,Ohio,40.8554,-84.5861,28808,3.9,5.1,"49,328",7.00
+Vinton,Vinton,Vinton County,39163,OH,Ohio,39.251,-82.4853,12853,6.2,5.1,"42,290",7.00
+Warren,Warren,Warren County,39165,OH,Ohio,39.4277,-84.1668,239556,4,5.1,"69,581",8.00
+Washington,Washington,Washington County,39167,OH,Ohio,39.4553,-81.4953,59942,5.5,5.1,"50,549",7.00
+Wayne,Wayne,Wayne County,39169,OH,Ohio,40.8289,-81.888,116858,3.6,5.1,"52,817",7.00
+Williams,Williams,Williams County,39171,OH,Ohio,41.5603,-84.5882,37026,4.3,5.1,"49,310",7.00
+Wood,Wood,Wood County,39173,OH,Ohio,41.3617,-83.623,131930,4.3,5.1,"53,892",8.00
+Wyandot,Wyandot,Wyandot County,39175,OH,Ohio,40.8424,-83.3044,21933,3.5,5.1,"54,342",7.00
+Adair,Adair,Adair County,40001,OK,Oklahoma,35.8839,-94.6587,19839,3.7,3.8,"41,496",11.00
+Alfalfa,Alfalfa,Alfalfa County,40003,OK,Oklahoma,36.731,-98.324,5744,2.3,3.8,"43,695",10.00
+Atoka,Atoka,Atoka County,40005,OK,Oklahoma,34.3736,-96.0378,14080,4.7,3.8,"36,195",11.00
+Beaver,Beaver,Beaver County,40007,OK,Oklahoma,36.7497,-100.477,5100,1.7,3.8,"65,668",10.00
+Beckham,Beckham,Beckham County,40009,OK,Oklahoma,35.2687,-99.682,22349,4.3,3.8,"40,147",10.00
+Blaine,Blaine,Blaine County,40011,OK,Oklahoma,35.8752,-98.4334,8799,3,3.8,"53,081",10.00
+Bryan,Bryan,Bryan County,40013,OK,Oklahoma,33.9623,-96.2598,45809,3.3,3.8,"43,871",9.00
+Caddo,Caddo,Caddo County,40015,OK,Oklahoma,35.1744,-98.3751,27253,3.7,3.8,"45,452",11.00
+Canadian,Canadian,Canadian County,40017,OK,Oklahoma,35.5424,-97.9824,151174,3.2,3.8,"50,309",10.00
+Carter,Carter,Carter County,40019,OK,Oklahoma,34.2509,-97.2858,48102,4.4,3.8,"48,733",10.00
+Cherokee,Cherokee,Cherokee County,40021,OK,Oklahoma,35.9067,-94.9997,47307,4.1,3.8,"40,638",10.00
+Choctaw,Choctaw,Choctaw County,40023,OK,Oklahoma,34.0266,-95.5522,14307,5.2,3.8,"40,395",10.00
+Cimarron,Cimarron,Cimarron County,40025,OK,Oklahoma,36.7483,-102.518,2271,1.8,3.8,"68,769",10.00
+Cleveland,Cleveland,Cleveland County,40027,OK,Oklahoma,35.2031,-97.3265,292110,3.2,3.8,"49,946",10.00
+Coal,Coal,Coal County,40029,OK,Oklahoma,34.5882,-96.2978,5294,4.5,3.8,"44,170",10.00
+Comanche,Comanche,Comanche County,40031,OK,Oklahoma,34.6621,-98.4717,121502,4.1,3.8,"47,650",9.00
+Cotton,Cotton,Cotton County,40033,OK,Oklahoma,34.2902,-98.3722,5603,4.1,3.8,"51,300",10.00
+Craig,Craig,Craig County,40035,OK,Oklahoma,36.7618,-95.2085,14172,3.6,3.8,"43,958",10.00
+Creek,Creek,Creek County,40037,OK,Oklahoma,35.9026,-96.3709,71879,4.2,3.8,"47,927",11.00
+Custer,Custer,Custer County,40039,OK,Oklahoma,35.6388,-99.0015,28564,3.2,3.8,"46,226",11.00
+Delaware,Delaware,Delaware County,40041,OK,Oklahoma,36.4082,-94.8026,40688,3.3,3.8,"40,950",11.00
+Dewey,Dewey,Dewey County,40043,OK,Oklahoma,35.9876,-99.0079,4548,2.7,3.8,"53,807",10.00
+Ellis,Ellis,Ellis County,40045,OK,Oklahoma,36.2184,-99.7546,3813,2.8,3.8,"57,564",11.00
+Garfield,Garfield,Garfield County,40047,OK,Oklahoma,36.3791,-97.7827,62628,3.4,3.8,"48,861",9.00
+Garvin,Garvin,Garvin County,40049,OK,Oklahoma,34.7046,-97.3093,25949,3.8,3.8,"48,690",10.00
+Grady,Grady,Grady County,40051,OK,Oklahoma,35.0169,-97.8841,54739,3.5,3.8,"47,840",10.00
+Grant,Grant,Grant County,40053,OK,Oklahoma,36.7961,-97.7861,4166,2.5,3.8,"60,177",10.00
+Greer,Greer,Greer County,40055,OK,Oklahoma,34.9357,-99.5608,5548,5.1,3.8,"35,502",10.00
+Harmon,Harmon,Harmon County,40057,OK,Oklahoma,34.7441,-99.8462,2540,2.5,3.8,"51,088",12.00
+Harper,Harper,Harper County,40059,OK,Oklahoma,36.7888,-99.6673,3358,2.5,3.8,"54,555",10.00
+Haskell,Haskell,Haskell County,40061,OK,Oklahoma,35.2248,-95.1166,11711,5.2,3.8,"42,506",10.00
+Hughes,Hughes,Hughes County,40063,OK,Oklahoma,35.0484,-96.2502,13406,5.2,3.8,"46,703",11.00
+Jackson,Jackson,Jackson County,40065,OK,Oklahoma,34.588,-99.4148,24960,2.8,3.8,"49,372",10.00
+Jefferson,Jefferson,Jefferson County,40067,OK,Oklahoma,34.111,-97.8358,5491,4,3.8,"41,152",10.00
+Johnston,Johnston,Johnston County,40069,OK,Oklahoma,34.3165,-96.6606,10446,4.6,3.8,"43,246",10.00
+Kay,Kay,Kay County,40071,OK,Oklahoma,36.818,-97.1439,44019,4.3,3.8,"47,817",11.00
+Kingfisher,Kingfisher,Kingfisher County,40073,OK,Oklahoma,35.9454,-97.9421,15272,2.6,3.8,"67,299",11.00
+Kiowa,Kiowa,Kiowa County,40075,OK,Oklahoma,34.9164,-98.9809,8518,3.3,3.8,"45,875",9.00
+Latimer,Latimer,Latimer County,40077,OK,Oklahoma,34.876,-95.2504,9555,7.3,3.8,"40,932",10.00
+Le Flore,Le Flore,Le Flore County,40079,OK,Oklahoma,34.9003,-94.7034,48436,4.7,3.8,"40,214",11.00
+Lincoln,Lincoln,Lincoln County,40081,OK,Oklahoma,35.703,-96.8809,33650,3.5,3.8,"44,687",10.00
+Logan,Logan,Logan County,40083,OK,Oklahoma,35.9193,-97.4433,49005,3.3,3.8,"48,559",9.00
+Love,Love,Love County,40085,OK,Oklahoma,33.9499,-97.2441,10105,2.6,3.8,"43,592",10.00
+Major,Major,Major County,40093,OK,Oklahoma,36.3116,-98.5359,7753,3.1,3.8,"53,330",10.00
+Marshall,Marshall,Marshall County,40095,OK,Oklahoma,34.0245,-96.7691,15361,4.4,3.8,"42,574",10.00
+Mayes,Mayes,Mayes County,40097,OK,Oklahoma,36.3019,-95.2307,39303,6.1,3.8,"42,241",11.00
+McClain,McClain,McClain County,40087,OK,Oklahoma,35.0093,-97.4443,41258,3.1,3.8,"47,185",10.00
+McCurtain,McCurtain,McCurtain County,40089,OK,Oklahoma,34.1154,-94.7713,31112,3.7,3.8,"43,325",10.00
+McIntosh,McIntosh,McIntosh County,40091,OK,Oklahoma,35.3736,-95.6668,19105,3.7,3.8,"44,615",11.00
+Murray,Murray,Murray County,40099,OK,Oklahoma,34.4823,-97.0679,13874,3.9,3.8,"48,831",10.00
+Muskogee,Muskogee,Muskogee County,40101,OK,Oklahoma,35.6161,-95.3795,66881,4.3,3.8,"43,699",11.00
+Noble,Noble,Noble County,40103,OK,Oklahoma,36.3886,-97.2305,11020,2.5,3.8,"51,172",11.00
+Nowata,Nowata,Nowata County,40105,OK,Oklahoma,36.7985,-95.6174,9484,3.5,3.8,"46,337",10.00
+Okfuskee,Okfuskee,Okfuskee County,40107,OK,Oklahoma,35.4655,-96.3228,11444,4.9,3.8,"37,839",12.00
+Oklahoma,Oklahoma,Oklahoma County,40109,OK,Oklahoma,35.5515,-97.4072,790938,4.1,3.8,"63,151",10.00
+Okmulgee,Okmulgee,Okmulgee County,40111,OK,Oklahoma,35.6466,-95.9643,37046,5.2,3.8,"41,808",11.00
+Osage,Osage,Osage County,40113,OK,Oklahoma,36.6292,-96.3985,46140,4.2,3.8,"42,015",10.00
+Ottawa,Ottawa,Ottawa County,40115,OK,Oklahoma,36.8355,-94.8104,30568,3.2,3.8,"45,484",11.00
+Pawnee,Pawnee,Pawnee County,40117,OK,Oklahoma,36.3169,-96.6992,15687,4.1,3.8,"43,859",11.00
+Payne,Payne,Payne County,40119,OK,Oklahoma,36.0773,-96.9756,81817,3.2,3.8,"43,952",10.00
+Pittsburg,Pittsburg,Pittsburg County,40121,OK,Oklahoma,34.9239,-95.7484,43836,5.2,3.8,"42,102",11.00
+Pontotoc,Pontotoc,Pontotoc County,40123,OK,Oklahoma,34.728,-96.6844,38102,3.3,3.8,"51,619",10.00
+Pottawatomie,Pottawatomie,Pottawatomie County,40125,OK,Oklahoma,35.2066,-96.9484,72331,3.9,3.8,"46,730",10.00
+Pushmataha,Pushmataha,Pushmataha County,40127,OK,Oklahoma,34.4162,-95.3759,10891,4.2,3.8,"39,442",11.00
+Roger Mills,Roger Mills,Roger Mills County,40129,OK,Oklahoma,35.6883,-99.6958,3477,2.9,3.8,"50,590",9.00
+Rogers,Rogers,Rogers County,40131,OK,Oklahoma,36.3715,-95.6043,94637,3.5,3.8,"52,142",10.00
+Seminole,Seminole,Seminole County,40133,OK,Oklahoma,35.1675,-96.6155,23798,5.1,3.8,"41,119",10.00
+Sequoyah,Sequoyah,Sequoyah County,40135,OK,Oklahoma,35.4953,-94.7552,39652,4.3,3.8,"42,780",10.00
+Stephens,Stephens,Stephens County,40137,OK,Oklahoma,34.4856,-97.8515,42983,4.5,3.8,"48,328",9.00
+Texas,Texas,Texas County,40139,OK,Oklahoma,36.7479,-101.49,21448,1.8,3.8,"58,194",10.00
+Tillman,Tillman,Tillman County,40141,OK,Oklahoma,34.3728,-98.9242,7070,4.2,3.8,"40,610",11.00
+Tulsa,Tulsa,Tulsa County,40143,OK,Oklahoma,36.1211,-95.9415,664084,4,3.8,"66,535",11.00
+Wagoner,Wagoner,Wagoner County,40145,OK,Oklahoma,35.9611,-95.5212,80509,3.5,3.8,"47,142",10.00
+Washington,Washington,Washington County,40147,OK,Oklahoma,36.7152,-95.9044,52382,3.8,3.8,"78,103",9.00
+Washita,Washita,Washita County,40149,OK,Oklahoma,35.2904,-98.9922,11014,4.3,3.8,"40,961",11.00
+Woods,Woods,Woods County,40151,OK,Oklahoma,36.7669,-98.8651,8731,2.1,3.8,"50,198",10.00
+Woodward,Woodward,Woodward County,40153,OK,Oklahoma,36.4227,-99.2651,20591,4.2,3.8,"41,180",9.00
+Baker,Baker,Baker County,41001,OR,Oregon,44.7091,-117.675,16539,5.1,5.2,"48,107",0.00
+Benton,Benton,Benton County,41003,OR,Oregon,44.4918,-123.429,94667,3.9,5.2,"54,174",0.00
+Clackamas,Clackamas,Clackamas County,41005,OR,Oregon,45.188,-122.221,418577,4.8,5.2,"71,504",0.00
+Clatsop,Clatsop,Clatsop County,41007,OR,Oregon,45.995,-123.656,40720,6,5.2,"52,250",0.00
+Columbia,Columbia,Columbia County,41009,OR,Oregon,45.9438,-123.088,52381,5.8,5.2,"53,573",0.00
+Coos,Coos,Coos County,41011,OR,Oregon,43.1742,-124.059,64619,6.3,5.2,"55,759",0.00
+Crook,Crook,Crook County,41013,OR,Oregon,44.1422,-120.357,24300,6.7,5.2,"50,708",0.00
+Curry,Curry,Curry County,41015,OR,Oregon,42.4576,-124.157,23234,6.7,5.2,"53,044",0.00
+Deschutes,Deschutes,Deschutes County,41017,OR,Oregon,43.915,-121.228,194964,5.3,5.2,"67,743",0.00
+Douglas,Douglas,Douglas County,41019,OR,Oregon,43.2797,-123.167,110680,5.8,5.2,"50,595",0.00
+Gilliam,Gilliam,Gilliam County,41021,OR,Oregon,45.3783,-120.211,1954,4.8,5.2,"63,645",0.00
+Grant,Grant,Grant County,41023,OR,Oregon,44.4916,-119.007,7225,6.7,5.2,"50,870",0.00
+Harney,Harney,Harney County,41025,OR,Oregon,43.0641,-118.968,7454,5.1,5.2,"49,257",0.00
+Hood River,Hood River,Hood River County,41027,OR,Oregon,45.519,-121.651,23915,4.5,5.2,"65,127",0.00
+Jackson,Jackson,Jackson County,41029,OR,Oregon,42.4322,-122.729,221662,5.4,5.2,"56,842",0.00
+Jefferson,Jefferson,Jefferson County,41031,OR,Oregon,44.6294,-121.176,24232,6.5,5.2,"43,145",0.00
+Josephine,Josephine,Josephine County,41033,OR,Oregon,42.3655,-123.556,87686,6.2,5.2,"54,466",0.00
+Klamath,Klamath,Klamath County,41035,OR,Oregon,42.6864,-121.65,68899,6.7,5.2,"48,050",0.00
+Lake,Lake,Lake County,41037,OR,Oregon,42.7934,-120.387,8119,5.5,5.2,"47,066",0.00
+Lane,Lane,Lane County,41039,OR,Oregon,43.9386,-122.848,380532,5.5,5.2,"55,146",0.00
+Lincoln,Lincoln,Lincoln County,41041,OR,Oregon,44.642,-123.868,49866,6.8,5.2,"52,482",0.00
+Linn,Linn,Linn County,41043,OR,Oregon,44.4886,-122.534,127200,5.6,5.2,"52,695",0.00
+Malheur,Malheur,Malheur County,41045,OR,Oregon,43.1934,-117.623,31313,4.4,5.2,"38,923",0.00
+Marion,Marion,Marion County,41047,OR,Oregon,44.9033,-122.585,344037,5.1,5.2,"53,791",0.00
+Morrow,Morrow,Morrow County,41049,OR,Oregon,45.419,-119.584,11964,4.6,5.2,"51,670",0.00
+Multnomah,Multnomah,Multnomah County,41051,OR,Oregon,45.5468,-122.415,810011,5.6,5.2,"70,331",0.00
+Polk,Polk,Polk County,41053,OR,Oregon,44.9035,-123.413,86347,4.8,5.2,"49,781",0.00
+Sherman,Sherman,Sherman County,41055,OR,Oregon,45.4052,-120.689,1784,4.3,5.2,"67,558",0.00
+Tillamook,Tillamook,Tillamook County,41057,OR,Oregon,45.4637,-123.713,27129,5.5,5.2,"51,643",0.00
+Umatilla,Umatilla,Umatilla County,41059,OR,Oregon,45.5919,-118.737,79509,5.2,5.2,"48,439",0.00
+Union,Union,Union County,41061,OR,Oregon,45.3102,-118.009,26255,5.6,5.2,"50,053",0.00
+Wallowa,Wallowa,Wallowa County,41063,OR,Oregon,45.5799,-117.181,7330,5.4,5.2,"52,999",0.00
+Wasco,Wasco,Wasco County,41065,OR,Oregon,45.16,-121.168,26603,5.2,5.2,"52,527",0.00
+Washington,Washington,Washington County,41067,OR,Oregon,45.56,-123.098,596969,4.4,5.2,"71,537",0.00
+Wheeler,Wheeler,Wheeler County,41069,OR,Oregon,44.7261,-120.028,1477,3.3,5.2,"42,637",0.00
+Yamhill,Yamhill,Yamhill County,41071,OR,Oregon,45.2326,-123.308,107024,4.7,5.2,"55,802",0.00
+Adams,Adams,Adams County,42001,PA,Pennsylvania,39.8715,-77.2179,103782,4.4,6.3,"55,752",6.00
+Allegheny,Allegheny,Allegheny County,42003,PA,Pennsylvania,40.4688,-79.9812,1246116,6.1,6.3,"70,580",7.00
+Armstrong,Armstrong,Armstrong County,42005,PA,Pennsylvania,40.8121,-79.4646,65967,7.6,6.3,"54,198",7.00
+Beaver,Beaver,Beaver County,42007,PA,Pennsylvania,40.6823,-80.3493,168260,7.2,6.3,"56,452",7.00
+Bedford,Bedford,Bedford County,42009,PA,Pennsylvania,40.0065,-78.4903,47729,5.9,6.3,"49,916",6.00
+Berks,Berks,Berks County,42011,PA,Pennsylvania,40.4163,-75.926,426967,6.6,6.3,"57,970",6.00
+Blair,Blair,Blair County,42013,PA,Pennsylvania,40.4811,-78.3484,123132,6,6.3,"54,470",6.00
+Bradford,Bradford,Bradford County,42015,PA,Pennsylvania,41.7887,-76.5154,60233,5.6,6.3,"49,063",6.00
+Bucks,Bucks,Bucks County,42017,PA,Pennsylvania,40.337,-75.1069,643872,5.3,6.3,"83,011",8.00
+Butler,Butler,Butler County,42019,PA,Pennsylvania,40.912,-79.9133,192561,5.6,6.3,"67,203",7.00
+Cambria,Cambria,Cambria County,42021,PA,Pennsylvania,40.4952,-78.7135,134048,7,6.3,"49,472",6.00
+Cameron,Cameron,Cameron County,42023,PA,Pennsylvania,41.4367,-78.204,4596,7.7,6.3,"54,352",6.00
+Carbon,Carbon,Carbon County,42025,PA,Pennsylvania,40.9182,-75.7088,64792,6.7,6.3,"59,317",6.00
+Centre,Centre,Centre County,42027,PA,Pennsylvania,40.9193,-77.8199,158879,4.6,6.3,"54,994",6.00
+Chester,Chester,Chester County,42029,PA,Pennsylvania,39.9731,-75.7484,531704,4.2,6.3,"95,483",6.00
+Clarion,Clarion,Clarion County,42031,PA,Pennsylvania,41.1924,-79.421,37571,6.5,6.3,"49,611",6.00
+Clearfield,Clearfield,Clearfield County,42033,PA,Pennsylvania,41,-78.4742,80667,7,6.3,"52,478",6.00
+Clinton,Clinton,Clinton County,42035,PA,Pennsylvania,41.2341,-77.6382,37824,6.7,6.3,"49,312",6.00
+Columbia,Columbia,Columbia County,42037,PA,Pennsylvania,41.0486,-76.4052,65013,5.9,6.3,"50,176",6.00
+Crawford,Crawford,Crawford County,42039,PA,Pennsylvania,41.6847,-80.1062,84495,6.7,6.3,"48,431",6.00
+Cumberland,Cumberland,Cumberland County,42041,PA,Pennsylvania,40.1636,-77.2655,257333,4.6,6.3,"63,650",6.00
+Dauphin,Dauphin,Dauphin County,42043,PA,Pennsylvania,40.4154,-76.7795,284199,6.3,6.3,"58,741",6.00
+Delaware,Delaware,Delaware County,42045,PA,Pennsylvania,39.9167,-75.3991,573883,6.3,6.3,"77,180",8.00
+Elk,Elk,Elk County,42047,PA,Pennsylvania,41.4251,-78.6491,31037,6.9,6.3,"51,653",6.00
+Erie,Erie,Erie County,42049,PA,Pennsylvania,41.9925,-80.0327,271903,7.3,6.3,"52,747",6.00
+Fayette,Fayette,Fayette County,42051,PA,Pennsylvania,39.9201,-79.6474,129443,8.7,6.3,"51,007",6.00
+Forest,Forest,Forest County,42053,PA,Pennsylvania,41.513,-79.236,7121,8.3,6.3,"29,573",6.00
+Franklin,Franklin,Franklin County,42055,PA,Pennsylvania,39.9274,-77.7213,155592,5.1,6.3,"55,139",6.00
+Fulton,Fulton,Fulton County,42057,PA,Pennsylvania,39.9254,-78.1127,14529,6.3,6.3,"49,929",6.00
+Greene,Greene,Greene County,42059,PA,Pennsylvania,39.8538,-80.2229,36248,7.3,6.3,"50,266",6.00
+Huntingdon,Huntingdon,Huntingdon County,42061,PA,Pennsylvania,40.417,-77.9812,44458,7.3,6.3,"46,331",6.00
+Indiana,Indiana,Indiana County,42063,PA,Pennsylvania,40.652,-79.0876,83620,7.1,6.3,"47,945",6.00
+Jefferson,Jefferson,Jefferson County,42065,PA,Pennsylvania,41.1282,-78.9994,44491,6.5,6.3,"50,240",6.00
+Juniata,Juniata,Juniata County,42067,PA,Pennsylvania,40.5311,-77.4022,23607,5,6.3,"56,422",6.00
+Lackawanna,Lackawanna,Lackawanna County,42069,PA,Pennsylvania,41.4367,-75.6092,215529,6.9,6.3,"54,380",6.00
+Lancaster,Lancaster,Lancaster County,42071,PA,Pennsylvania,40.0424,-76.2477,550480,4.9,6.3,"61,547",6.00
+Lawrence,Lawrence,Lawrence County,42073,PA,Pennsylvania,40.9912,-80.3347,86311,7.6,6.3,"51,611",6.00
+Lebanon,Lebanon,Lebanon County,42075,PA,Pennsylvania,40.3672,-76.4577,142486,5.5,6.3,"55,803",6.00
+Lehigh,Lehigh,Lehigh County,42077,PA,Pennsylvania,40.6127,-75.5923,372492,6.8,6.3,"62,537",6.00
+Luzerne,Luzerne,Luzerne County,42079,PA,Pennsylvania,41.177,-75.9892,324825,8.3,6.3,"52,300",6.00
+Lycoming,Lycoming,Lycoming County,42081,PA,Pennsylvania,41.3434,-77.0645,114274,6.7,6.3,"50,464",6.00
+McKean,McKean,McKean County,42083,PA,Pennsylvania,41.8076,-78.569,40652,6.9,6.3,"51,169",6.00
+Mercer,Mercer,Mercer County,42085,PA,Pennsylvania,41.3022,-80.2577,111216,7.1,6.3,"49,311",6.00
+Mifflin,Mifflin,Mifflin County,42087,PA,Pennsylvania,40.6104,-77.617,46156,6.1,6.3,"46,768",6.00
+Monroe,Monroe,Monroe County,42089,PA,Pennsylvania,41.0581,-75.3395,168128,7.7,6.3,"53,118",6.00
+Montgomery,Montgomery,Montgomery County,42091,PA,Pennsylvania,40.2108,-75.3673,850890,5,6.3,"88,671",6.00
+Montour,Montour,Montour County,42093,PA,Pennsylvania,41.0279,-76.6586,18198,4.4,6.3,"64,548",6.00
+Northampton,Northampton,Northampton County,42095,PA,Pennsylvania,40.7542,-75.3076,311359,5.9,6.3,"63,256",8.00
+Northumberland,Northumberland,Northumberland County,42097,PA,Pennsylvania,40.852,-76.7095,91853,6.8,6.3,"49,525",6.00
+Perry,Perry,Perry County,42099,PA,Pennsylvania,40.3984,-77.2623,45879,4.7,6.3,"53,700",6.00
+Philadelphia,Philadelphia,Philadelphia County,42101,PA,Pennsylvania,40.0077,-75.1339,1596865,9.2,6.3,"60,869",6.00
+Pike,Pike,Pike County,42103,PA,Pennsylvania,41.332,-75.0338,58345,7.3,6.3,"56,008",6.00
+Potter,Potter,Potter County,42105,PA,Pennsylvania,41.7449,-77.8958,16478,6.8,6.3,"51,432",8.00
+Schuylkill,Schuylkill,Schuylkill County,42107,PA,Pennsylvania,40.7058,-76.216,143308,6.8,6.3,"49,451",6.00
+Snyder,Snyder,Snyder County,42109,PA,Pennsylvania,40.7698,-77.0702,39877,5.2,6.3,"50,846",6.00
+Somerset,Somerset,Somerset County,42111,PA,Pennsylvania,39.9725,-79.0283,74331,6.7,6.3,"48,135",6.00
+Sullivan,Sullivan,Sullivan County,42113,PA,Pennsylvania,41.4462,-76.5122,5935,7.4,6.3,"55,564",6.00
+Susquehanna,Susquehanna,Susquehanna County,42115,PA,Pennsylvania,41.8214,-75.8007,38892,5.5,6.3,"55,354",6.00
+Tioga,Tioga,Tioga County,42117,PA,Pennsylvania,41.7722,-77.2543,41089,6.6,6.3,"47,572",6.00
+Union,Union,Union County,42119,PA,Pennsylvania,40.963,-77.0622,43094,4.7,6.3,"50,630",6.00
+Venango,Venango,Venango County,42121,PA,Pennsylvania,41.401,-79.758,50810,6.8,6.3,"50,691",6.00
+Warren,Warren,Warren County,42123,PA,Pennsylvania,41.8145,-79.2741,38791,6.7,6.3,"49,356",6.00
+Washington,Washington,Washington County,42125,PA,Pennsylvania,40.1894,-80.2483,209090,6.6,6.3,"65,452",6.00
+Wayne,Wayne,Wayne County,42127,PA,Pennsylvania,41.6487,-75.3033,51244,6.6,6.3,"52,351",6.00
+Westmoreland,Westmoreland,Westmoreland County,42129,PA,Pennsylvania,40.3109,-79.4668,355107,6.3,6.3,"59,874",7.00
+Wyoming,Wyoming,Wyoming County,42131,PA,Pennsylvania,41.5184,-76.0164,26389,6.3,6.3,"55,902",6.00
+York,York,York County,42133,PA,Pennsylvania,39.92,-76.7265,454605,5.4,6.3,"57,870",7.00
+Bristol,Bristol,Bristol County,44001,RI,Rhode Island,41.7173,-71.284,50672,4.7,5.6,"87,810",7.00
+Kent,Kent,Kent County,44003,RI,Rhode Island,41.6722,-71.593,169345,5.2,5.6,"67,906",7.00
+Newport,Newport,Newport County,44005,RI,Rhode Island,41.5566,-71.2365,85525,4.9,5.6,"84,054",7.00
+Providence,Providence,Providence County,44007,RI,Rhode Island,41.8721,-71.58,656672,6,5.6,"56,429",7.00
+Washington,Washington,Washington County,44009,RI,Rhode Island,41.4697,-71.6226,129735,4.9,5.6,"77,855",7.00
+Abbeville,Abbeville,Abbeville County,45001,SC,South Carolina,34.2226,-82.4593,24374,4.5,4,"40,596",8.00
+Aiken,Aiken,Aiken County,45003,SC,South Carolina,33.5443,-81.6347,168045,3.4,4,"51,057",8.00
+Allendale,Allendale,Allendale County,45005,SC,South Carolina,32.9881,-81.3582,8304,7.8,4,"41,814",8.00
+Anderson,Anderson,Anderson County,45007,SC,South Carolina,34.5193,-82.6378,202223,3.7,4,"46,894",8.00
+Bamberg,Bamberg,Bamberg County,45009,SC,South Carolina,33.2148,-81.0542,13525,7.5,4,"41,081",8.00
+Barnwell,Barnwell,Barnwell County,45011,SC,South Carolina,33.2661,-81.4349,20801,6.5,4,"41,828",8.00
+Beaufort,Beaufort,Beaufort County,45013,SC,South Carolina,32.3855,-80.7302,186007,3.5,4,"70,166",8.00
+Berkeley,Berkeley,Berkeley County,45015,SC,South Carolina,33.1973,-79.9522,224806,3.6,4,"48,919",9.00
+Calhoun,Calhoun,Calhoun County,45017,SC,South Carolina,33.6749,-80.7803,14198,4.5,4,"50,375",8.00
+Charleston,Charleston,Charleston County,45019,SC,South Carolina,32.8346,-79.9531,404946,3.6,4,"73,032",9.00
+Cherokee,Cherokee,Cherokee County,45021,SC,South Carolina,35.0481,-81.6206,56204,5.1,4,"40,230",8.00
+Chester,Chester,Chester County,45023,SC,South Carolina,34.692,-81.1595,32273,5.9,4,"43,169",8.00
+Chesterfield,Chesterfield,Chesterfield County,45025,SC,South Carolina,34.6398,-80.1587,43655,4.5,4,"39,538",8.00
+Clarendon,Clarendon,Clarendon County,45027,SC,South Carolina,33.6658,-80.2164,31613,4.9,4,"44,874",8.00
+Colleton,Colleton,Colleton County,45029,SC,South Carolina,32.8636,-80.6669,38520,4.4,4,"42,481",8.00
+Darlington,Darlington,Darlington County,45031,SC,South Carolina,34.3325,-79.9577,63433,4.5,4,"47,845",8.00
+Dillon,Dillon,Dillon County,45033,SC,South Carolina,34.3915,-79.3789,28527,5.8,4,"39,567",8.00
+Dorchester,Dorchester,Dorchester County,45035,SC,South Carolina,33.0793,-80.4067,160180,3.6,4,"46,857",9.00
+Edgefield,Edgefield,Edgefield County,45037,SC,South Carolina,33.7722,-81.9664,25938,3.4,4,"45,299",8.00
+Fairfield,Fairfield,Fairfield County,45039,SC,South Carolina,34.3951,-81.1212,21186,5.8,4,"48,634",8.00
+Florence,Florence,Florence County,45041,SC,South Carolina,34.0245,-79.703,137276,4.1,4,"51,554",8.00
+Georgetown,Georgetown,Georgetown County,45043,SC,South Carolina,33.4342,-79.3324,62992,4.8,4,"57,656",8.00
+Greenville,Greenville,Greenville County,45045,SC,South Carolina,34.8941,-82.3706,519178,3.4,4,"55,442",8.00
+Greenwood,Greenwood,Greenwood County,45047,SC,South Carolina,34.1537,-82.1259,69338,4.5,4,"44,723",8.00
+Hampton,Hampton,Hampton County,45049,SC,South Carolina,32.7763,-81.1407,19227,3.6,4,"41,689",8.00
+Horry,Horry,Horry County,45051,SC,South Carolina,33.9214,-78.9966,344865,5.1,4,"46,817",9.00
+Jasper,Jasper,Jasper County,45053,SC,South Carolina,32.4374,-81.0317,28363,3.4,4,"41,531",8.00
+Kershaw,Kershaw,Kershaw County,45055,SC,South Carolina,34.3388,-80.5902,64989,3.7,4,"50,635",8.00
+Lancaster,Lancaster,Lancaster County,45057,SC,South Carolina,34.6867,-80.7054,94653,4.4,4,"55,033",8.00
+Laurens,Laurens,Laurens County,45059,SC,South Carolina,34.4834,-82.0057,67148,4.3,4,"41,245",8.00
+Lee,Lee,Lee County,45061,SC,South Carolina,34.1633,-80.2545,16730,5.6,4,"41,364",8.00
+Lexington,Lexington,Lexington County,45063,SC,South Carolina,33.9023,-81.2722,291723,3,4,"55,304",8.00
+Marion,Marion,Marion County,45067,SC,South Carolina,34.0801,-79.3625,29585,4.8,4,"44,391",8.00
+Marlboro,Marlboro,Marlboro County,45069,SC,South Carolina,34.602,-79.6786,26912,6.6,4,"41,519",8.00
+McCormick,McCormick,McCormick County,45065,SC,South Carolina,33.8995,-82.31,9584,7.8,4,"37,933",8.00
+Newberry,Newberry,Newberry County,45071,SC,South Carolina,34.2898,-81.6001,37842,3.3,4,"46,917",8.00
+Oconee,Oconee,Oconee County,45073,SC,South Carolina,34.7535,-83.0659,77932,3.6,4,"52,336",7.00
+Orangeburg,Orangeburg,Orangeburg County,45075,SC,South Carolina,33.439,-80.8003,84909,7.1,4,"42,376",9.00
+Pickens,Pickens,Pickens County,45077,SC,South Carolina,34.8873,-82.7253,129617,3.5,4,"43,842",7.00
+Richland,Richland,Richland County,45079,SC,South Carolina,34.0218,-80.9031,414719,4.1,4,"52,980",8.00
+Saluda,Saluda,Saluda County,45081,SC,South Carolina,34.0061,-81.7268,19008,3.1,4,"44,503",8.00
+Spartanburg,Spartanburg,Spartanburg County,45083,SC,South Carolina,34.9309,-81.9908,322864,4,4,"50,596",8.00
+Sumter,Sumter,Sumter County,45085,SC,South Carolina,33.9162,-80.3822,105537,4.6,4,"47,046",8.00
+Union,Union,Union County,45087,SC,South Carolina,34.6895,-81.6191,27306,6.5,4,"40,821",8.00
+Williamsburg,Williamsburg,Williamsburg County,45089,SC,South Carolina,33.6199,-79.7277,31279,6.1,4,"40,746",8.00
+York,York,York County,45091,SC,South Carolina,34.9748,-81.1845,276569,3.7,4,"56,566",8.00
+Aurora,Aurora,Aurora County,46003,SD,South Dakota,43.718,-98.5616,2649,2.4,3.1,"54,512",7.00
+Beadle,Beadle,Beadle County,46005,SD,South Dakota,44.4145,-98.2781,18959,2.8,3.1,"55,409",7.00
+Bennett,Bennett,Bennett County,46007,SD,South Dakota,43.195,-101.664,3411,4.3,3.1,"46,894",7.00
+Bon Homme,Bon Homme,Bon Homme County,46009,SD,South Dakota,42.9885,-97.8846,7020,2.8,3.1,"47,665",7.00
+Brookings,Brookings,Brookings County,46011,SD,South Dakota,44.3697,-96.7905,34315,3.2,3.1,"53,860",7.00
+Brown,Brown,Brown County,46013,SD,South Dakota,45.5898,-98.3516,38471,3,3.1,"66,044",7.00
+Brule,Brule,Brule County,46015,SD,South Dakota,43.7181,-99.0809,5247,2.5,3.1,"59,267",7.00
+Buffalo,Buffalo,Buffalo County,46017,SD,South Dakota,44.0763,-99.2048,1974,5.4,3.1,"32,773",5.00
+Butte,Butte,Butte County,46019,SD,South Dakota,44.9058,-103.508,10167,3.4,3.1,"45,885",7.00
+Campbell,Campbell,Campbell County,46021,SD,South Dakota,45.7712,-100.052,1548,3.4,3.1,"79,723",7.00
+Charles Mix,Charles Mix,Charles Mix County,46023,SD,South Dakota,43.2079,-98.5879,9346,3.7,3.1,"50,673",7.00
+Clark,Clark,Clark County,46025,SD,South Dakota,44.8582,-97.7295,3791,3.7,3.1,"71,383",7.00
+Clay,Clay,Clay County,46027,SD,South Dakota,42.9146,-96.9756,14816,3,3.1,"47,288",7.00
+Codington,Codington,Codington County,46029,SD,South Dakota,44.9779,-97.1886,28289,3.1,3.1,"59,387",7.00
+Corson,Corson,Corson County,46031,SD,South Dakota,45.7086,-101.197,3965,4.7,3.1,"38,834",7.00
+Custer,Custer,Custer County,46033,SD,South Dakota,43.6776,-103.452,8360,4,3.1,"59,756",7.00
+Davison,Davison,Davison County,46035,SD,South Dakota,43.6747,-98.146,19944,2.8,3.1,"59,258",7.00
+Day,Day,Day County,46037,SD,South Dakota,45.3671,-97.6074,5487,4.3,3.1,"65,558",8.00
+Deuel,Deuel,Deuel County,46039,SD,South Dakota,44.76,-96.668,4283,4.2,3.1,"62,580",7.00
+Dewey,Dewey,Dewey County,46041,SD,South Dakota,45.1566,-100.872,5343,5.9,3.1,"54,255",7.00
+Douglas,Douglas,Douglas County,46043,SD,South Dakota,43.3869,-98.3661,2838,2.5,3.1,"67,626",7.00
+Edmunds,Edmunds,Edmunds County,46045,SD,South Dakota,45.4188,-99.2153,4005,2.7,3.1,"77,988",7.00
+Fall River,Fall River,Fall River County,46047,SD,South Dakota,43.2394,-103.528,6979,4,3.1,"51,225",7.00
+Faulk,Faulk,Faulk County,46049,SD,South Dakota,45.071,-99.1453,2157,2.7,3.1,"80,152",7.00
+Grant,Grant,Grant County,46051,SD,South Dakota,45.1719,-96.7677,7550,3.4,3.1,"63,935",7.00
+Gregory,Gregory,Gregory County,46053,SD,South Dakota,43.1924,-99.1856,4004,2.8,3.1,"57,305",7.00
+Haakon,Haakon,Haakon County,46055,SD,South Dakota,44.2944,-101.54,1868,2.8,3.1,"74,530",7.00
+Hamlin,Hamlin,Hamlin County,46057,SD,South Dakota,44.6738,-97.1883,6127,2.4,3.1,"57,440",7.00
+Hand,Hand,Hand County,46059,SD,South Dakota,44.5478,-99.0049,3061,2.5,3.1,"75,506",7.00
+Hanson,Hanson,Hanson County,46061,SD,South Dakota,43.6748,-97.7873,3429,4,3.1,"77,579",7.00
+Harding,Harding,Harding County,46063,SD,South Dakota,45.5803,-103.496,1179,2.8,3.1,"60,414",7.00
+Hughes,Hughes,Hughes County,46065,SD,South Dakota,44.389,-99.996,17829,2.4,3.1,"61,666",7.00
+Hutchinson,Hutchinson,Hutchinson County,46067,SD,South Dakota,43.3349,-97.7544,7412,3.1,3.1,"65,945",7.00
+Hyde,Hyde,Hyde County,46069,SD,South Dakota,44.5473,-99.4871,1381,2.6,3.1,"70,095",7.00
+Jackson,Jackson,Jackson County,46071,SD,South Dakota,43.6942,-101.628,2868,4.4,3.1,"39,102",7.00
+Jerauld,Jerauld,Jerauld County,46073,SD,South Dakota,44.0663,-98.6297,1811,2.2,3.1,"62,655",7.00
+Jones,Jones,Jones County,46075,SD,South Dakota,43.9606,-100.69,916,3.4,3.1,"86,307",7.00
+Kingsbury,Kingsbury,Kingsbury County,46077,SD,South Dakota,44.3696,-97.4915,5131,2.9,3.1,"70,430",7.00
+Lake,Lake,Lake County,46079,SD,South Dakota,44.0221,-97.1294,11358,3,3.1,"69,817",7.00
+Lawrence,Lawrence,Lawrence County,46081,SD,South Dakota,44.3586,-103.792,25687,3,3.1,"60,510",7.00
+Lincoln,Lincoln,Lincoln County,46083,SD,South Dakota,43.2789,-96.7218,63233,2.4,3.1,"77,245",7.00
+Lyman,Lyman,Lyman County,46085,SD,South Dakota,43.8958,-99.8474,3746,4.4,3.1,"57,365",7.00
+Marshall,Marshall,Marshall County,46091,SD,South Dakota,45.7586,-97.5986,4373,2.8,3.1,"67,402",7.00
+McCook,McCook,McCook County,46087,SD,South Dakota,43.6743,-97.3684,5676,4.2,3.1,"65,047",7.00
+McPherson,McPherson,McPherson County,46089,SD,South Dakota,45.7664,-99.2214,2245,3.5,3.1,"72,571",7.00
+Meade,Meade,Meade County,46093,SD,South Dakota,44.5668,-102.717,29561,3,3.1,"50,972",7.00
+Mellette,Mellette,Mellette County,46095,SD,South Dakota,43.5813,-100.76,1916,4.5,3.1,"43,805",7.00
+Miner,Miner,Miner County,46097,SD,South Dakota,44.0219,-97.6102,2293,3.1,3.1,"65,438",7.00
+Minnehaha,Minnehaha,Minnehaha County,46099,SD,South Dakota,43.6742,-96.7915,194884,2.9,3.1,"69,693",7.00
+Moody,Moody,Moody County,46101,SD,South Dakota,44.022,-96.6709,6335,2.8,3.1,"65,719",7.00
+Oglala Lakota,Oglala Lakota,Oglala Lakota County,46102,SD,South Dakota,43.3355,-102.552,13835,8.7,3.1,"34,333",7.00
+Pennington,Pennington,Pennington County,46103,SD,South Dakota,44.0037,-102.824,108707,3.2,3.1,"64,035",7.00
+Perkins,Perkins,Perkins County,46105,SD,South Dakota,45.4904,-102.476,2977,3.1,3.1,"50,692",7.00
+Potter,Potter,Potter County,46107,SD,South Dakota,45.0645,-99.9572,2613,3,3.1,"87,031",7.00
+Roberts,Roberts,Roberts County,46109,SD,South Dakota,45.6296,-96.9461,10254,4.6,3.1,"50,205",7.00
+Sanborn,Sanborn,Sanborn County,46111,SD,South Dakota,44.0234,-98.0913,2371,3,3.1,"64,677",5.00
+Spink,Spink,Spink County,46115,SD,South Dakota,44.938,-98.3462,6408,3.2,3.1,"76,434",7.00
+Stanley,Stanley,Stanley County,46117,SD,South Dakota,44.4123,-100.736,2963,3,3.1,"78,300",7.00
+Sully,Sully,Sully County,46119,SD,South Dakota,44.7156,-100.132,1279,3.8,3.1,"106,241",7.00
+Todd,Todd,Todd County,46121,SD,South Dakota,43.1934,-100.718,9434,4.8,3.1,"35,663",7.00
+Tripp,Tripp,Tripp County,46123,SD,South Dakota,43.3459,-99.884,5615,2.4,3.1,"60,022",7.00
+Turner,Turner,Turner County,46125,SD,South Dakota,43.3109,-97.1487,8621,2.7,3.1,"73,093",7.00
+Union,Union,Union County,46127,SD,South Dakota,42.8325,-96.656,16424,3.6,3.1,"134,811",7.00
+Walworth,Walworth,Walworth County,46129,SD,South Dakota,45.4299,-100.032,5355,5.5,3.1,"58,681",7.00
+Yankton,Yankton,Yankton County,46135,SD,South Dakota,43.009,-97.3948,23213,2.7,3.1,"59,224",7.00
+Ziebach,Ziebach,Ziebach County,46137,SD,South Dakota,44.9804,-101.666,2479,4.5,3.1,"30,532",7.00
+Anderson,Anderson,Anderson County,47001,TN,Tennessee,36.1185,-84.1985,76683,3.8,4.3,"50,901",10.00
+Bedford,Bedford,Bedford County,47003,TN,Tennessee,35.5138,-86.4589,49754,4.1,4.3,"46,083",10.00
+Benton,Benton,Benton County,47005,TN,Tennessee,36.0698,-88.0683,15872,4.8,4.3,"40,963",10.00
+Bledsoe,Bledsoe,Bledsoe County,47007,TN,Tennessee,35.5964,-85.2051,14863,5.2,4.3,"33,675",10.00
+Blount,Blount,Blount County,47009,TN,Tennessee,35.6872,-83.9255,134042,3.4,4.3,"52,596",10.00
+Bradley,Bradley,Bradley County,47011,TN,Tennessee,35.1541,-84.8596,107845,4.1,4.3,"46,409",10.00
+Campbell,Campbell,Campbell County,47013,TN,Tennessee,36.4035,-84.1494,39388,4.8,4.3,"42,471",10.00
+Cannon,Cannon,Cannon County,47015,TN,Tennessee,35.8087,-86.0617,14309,3.4,4.3,"44,419",10.00
+Carroll,Carroll,Carroll County,47017,TN,Tennessee,35.9732,-88.4503,28370,4.6,4.3,"40,502",10.00
+Carter,Carter,Carter County,47019,TN,Tennessee,36.2928,-82.1275,56314,4.2,4.3,"40,739",10.00
+Cheatham,Cheatham,Cheatham County,47021,TN,Tennessee,36.2611,-87.0868,40878,3.1,4.3,"54,069",10.00
+Chester,Chester,Chester County,47023,TN,Tennessee,35.4218,-88.6134,17278,3.3,4.3,"41,568",10.00
+Claiborne,Claiborne,Claiborne County,47025,TN,Tennessee,36.4859,-83.6604,31958,4.1,4.3,"42,542",9.00
+Clay,Clay,Clay County,47027,TN,Tennessee,36.5511,-85.5439,7568,5.3,4.3,"40,338",10.00
+Cocke,Cocke,Cocke County,47029,TN,Tennessee,35.9254,-83.1212,35896,5.5,4.3,"40,384",10.00
+Coffee,Coffee,Coffee County,47031,TN,Tennessee,35.4906,-86.0748,57227,4.1,4.3,"46,299",10.00
+Crockett,Crockett,Crockett County,47033,TN,Tennessee,35.8135,-89.1395,14012,3.6,4.3,"49,729",10.00
+Cumberland,Cumberland,Cumberland County,47035,TN,Tennessee,35.9504,-84.9984,60568,4.8,4.3,"44,295",10.00
+Davidson,Davidson,Davidson County,47037,TN,Tennessee,36.1695,-86.7847,708490,4.2,4.3,"82,087",10.00
+Decatur,Decatur,Decatur County,47039,TN,Tennessee,35.603,-88.1088,11460,5.7,4.3,"48,912",10.00
+DeKalb,DeKalb,DeKalb County,47041,TN,Tennessee,35.9799,-85.8328,19875,4.5,4.3,"47,634",10.00
+Dickson,Dickson,Dickson County,47043,TN,Tennessee,36.149,-87.3567,54000,3.4,4.3,"50,218",10.00
+Dyer,Dyer,Dyer County,47045,TN,Tennessee,36.0592,-89.4137,36975,4.6,4.3,"51,559",10.00
+Fayette,Fayette,Fayette County,47047,TN,Tennessee,35.1971,-89.4144,41584,4.1,4.3,"68,153",10.00
+Fentress,Fentress,Fentress County,47049,TN,Tennessee,36.3805,-84.9324,18385,4,4.3,"40,402",10.00
+Franklin,Franklin,Franklin County,47051,TN,Tennessee,35.155,-86.0922,42528,3.8,4.3,"45,975",10.00
+Gibson,Gibson,Gibson County,47053,TN,Tennessee,35.9966,-88.9326,50278,4.3,4.3,"46,449",10.00
+Giles,Giles,Giles County,47055,TN,Tennessee,35.2021,-87.0348,30197,4.3,4.3,"43,321",10.00
+Grainger,Grainger,Grainger County,47057,TN,Tennessee,36.2763,-83.5096,23377,4.2,4.3,"41,569",10.00
+Greene,Greene,Greene County,47059,TN,Tennessee,36.1753,-82.8458,69926,4.4,4.3,"41,796",10.00
+Grundy,Grundy,Grundy County,47061,TN,Tennessee,35.3884,-85.7226,13471,5.4,4.3,"39,349",10.00
+Hamblen,Hamblen,Hamblen County,47063,TN,Tennessee,36.2171,-83.2667,64184,4,4.3,"45,234",10.00
+Hamilton,Hamilton,Hamilton County,47065,TN,Tennessee,35.1808,-85.1648,363790,4,4.3,"60,089",10.00
+Hancock,Hancock,Hancock County,47067,TN,Tennessee,36.5236,-83.2219,6695,4.8,4.3,"34,135",10.00
+Hardeman,Hardeman,Hardeman County,47069,TN,Tennessee,35.2068,-88.9931,25612,6,4.3,"35,485",10.00
+Hardin,Hardin,Hardin County,47071,TN,Tennessee,35.1987,-88.1845,26722,4.5,4.3,"45,053",10.00
+Hawkins,Hawkins,Hawkins County,47073,TN,Tennessee,36.4412,-82.9447,56803,4.4,4.3,"41,436",10.00
+Haywood,Haywood,Haywood County,47075,TN,Tennessee,35.5832,-89.2838,17912,5.9,4.3,"41,503",10.00
+Henderson,Henderson,Henderson County,47077,TN,Tennessee,35.6542,-88.388,27800,4.4,4.3,"44,357",10.00
+Henry,Henry,Henry County,47079,TN,Tennessee,36.3318,-88.3013,32298,4,4.3,"49,852",10.00
+Hickman,Hickman,Hickman County,47081,TN,Tennessee,35.8032,-87.4733,24848,3.5,4.3,"41,689",10.00
+Houston,Houston,Houston County,47083,TN,Tennessee,36.286,-87.7171,8238,4.8,4.3,"39,128",10.00
+Humphreys,Humphreys,Humphreys County,47085,TN,Tennessee,36.0408,-87.7756,18956,3.9,4.3,"44,127",10.00
+Jackson,Jackson,Jackson County,47087,TN,Tennessee,36.3592,-85.6732,11626,4.3,4.3,"38,953",10.00
+Jefferson,Jefferson,Jefferson County,47089,TN,Tennessee,36.051,-83.4463,54358,4.1,4.3,"44,330",10.00
+Johnson,Johnson,Johnson County,47091,TN,Tennessee,36.4549,-81.8518,17912,3.5,4.3,"37,936",10.00
+Knox,Knox,Knox County,47093,TN,Tennessee,35.9932,-83.9371,475286,3.3,4.3,"59,934",10.00
+Lake,Lake,Lake County,47095,TN,Tennessee,36.3352,-89.4935,7187,6,4.3,"29,534",10.00
+Lauderdale,Lauderdale,Lauderdale County,47097,TN,Tennessee,35.7605,-89.6305,25406,6,4.3,"39,733",10.00
+Lawrence,Lawrence,Lawrence County,47099,TN,Tennessee,35.2174,-87.3956,43967,4.3,4.3,"41,310",10.00
+Lewis,Lewis,Lewis County,47101,TN,Tennessee,35.5273,-87.4931,12485,4.7,4.3,"41,476",10.00
+Lincoln,Lincoln,Lincoln County,47103,TN,Tennessee,35.1405,-86.589,35042,4.1,4.3,"48,683",10.00
+Loudon,Loudon,Loudon County,47105,TN,Tennessee,35.7348,-84.3119,54349,3.4,4.3,"60,642",10.00
+Macon,Macon,Macon County,47111,TN,Tennessee,36.532,-86.0073,24954,4.5,4.3,"43,715",10.00
+Madison,Madison,Madison County,47113,TN,Tennessee,35.6081,-88.8385,98373,5.3,4.3,"38,354",10.00
+Marion,Marion,Marion County,47115,TN,Tennessee,35.1293,-85.622,28679,3.7,4.3,"39,669",10.00
+Marshall,Marshall,Marshall County,47117,TN,Tennessee,35.4689,-86.765,33909,4.5,4.3,"51,004",10.00
+Maury,Maury,Maury County,47119,TN,Tennessee,35.6169,-87.077,99011,4.3,4.3,"46,559",10.00
+McMinn,McMinn,McMinn County,47107,TN,Tennessee,35.4248,-84.6175,53065,4.5,4.3,"47,446",10.00
+McNairy,McNairy,McNairy County,47109,TN,Tennessee,35.1755,-88.5636,25916,4.7,4.3,"52,041",10.00
+Meigs,Meigs,Meigs County,47121,TN,Tennessee,35.5129,-84.8133,12622,4.9,4.3,"39,452",10.00
+Monroe,Monroe,Monroe County,47123,TN,Tennessee,35.4427,-84.2527,46041,3.8,4.3,"42,276",10.00
+Montgomery,Montgomery,Montgomery County,47125,TN,Tennessee,36.4969,-87.3828,216172,4.5,4.3,"48,104",10.00
+Moore,Moore,Moore County,47127,TN,Tennessee,35.2846,-86.3587,6481,2.6,4.3,"48,015",10.00
+Morgan,Morgan,Morgan County,47129,TN,Tennessee,36.135,-84.6492,21158,4.3,4.3,"39,005",10.00
+Obion,Obion,Obion County,47131,TN,Tennessee,36.3582,-89.1488,30722,4.7,4.3,"48,493",10.00
+Overton,Overton,Overton County,47133,TN,Tennessee,36.345,-85.2881,22364,3.6,4.3,"40,959",10.00
+Perry,Perry,Perry County,47135,TN,Tennessee,35.6426,-87.859,8313,7.2,4.3,"38,404",10.00
+Pickett,Pickett,Pickett County,47137,TN,Tennessee,36.5584,-85.0749,5021,3.8,4.3,"45,308",10.00
+Polk,Polk,Polk County,47139,TN,Tennessee,35.1199,-84.5233,17502,4.1,4.3,"39,180",10.00
+Putnam,Putnam,Putnam County,47141,TN,Tennessee,36.1408,-85.4952,78955,3.7,4.3,"47,536",10.00
+Rhea,Rhea,Rhea County,47143,TN,Tennessee,35.6087,-84.9244,32723,4.8,4.3,"42,174",10.00
+Roane,Roane,Roane County,47145,TN,Tennessee,35.8479,-84.5232,53313,4,4.3,"49,972",10.00
+Robertson,Robertson,Robertson County,47147,TN,Tennessee,36.5255,-86.8706,72309,3.3,4.3,"51,097",10.00
+Rutherford,Rutherford,Rutherford County,47149,TN,Tennessee,35.8427,-86.4168,335595,3.4,4.3,"49,411",10.00
+Scott,Scott,Scott County,47151,TN,Tennessee,36.4285,-84.5035,21855,5.1,4.3,"37,333",9.00
+Sequatchie,Sequatchie,Sequatchie County,47153,TN,Tennessee,35.3712,-85.4106,15727,4.4,4.3,"43,709",10.00
+Sevier,Sevier,Sevier County,47155,TN,Tennessee,35.7847,-83.5242,98088,3.9,4.3,"49,012",10.00
+Shelby,Shelby,Shelby County,47157,TN,Tennessee,35.1842,-89.894,929178,6.8,4.3,"59,212",10.00
+Smith,Smith,Smith County,47159,TN,Tennessee,36.2505,-85.9567,19820,3.3,4.3,"48,602",10.00
+Stewart,Stewart,Stewart County,47161,TN,Tennessee,36.5012,-87.8384,13569,4.1,4.3,"48,205",10.00
+Sullivan,Sullivan,Sullivan County,47163,TN,Tennessee,36.5129,-82.3042,157843,4.2,4.3,"50,418",10.00
+Sumner,Sumner,Sumner County,47165,TN,Tennessee,36.4694,-86.4604,193036,3.3,4.3,"59,105",10.00
+Tipton,Tipton,Tipton County,47167,TN,Tennessee,35.4973,-89.7566,60868,4.3,4.3,"49,219",10.00
+Trousdale,Trousdale,Trousdale County,47169,TN,Tennessee,36.3921,-86.1568,11463,3.7,4.3,"36,454",10.00
+Unicoi,Unicoi,Unicoi County,47171,TN,Tennessee,36.1107,-82.4323,17891,4.9,4.3,"43,044",10.00
+Union,Union,Union County,47173,TN,Tennessee,36.2879,-83.8375,19597,4,4.3,"40,349",9.00
+Van Buren,Van Buren,Van Buren County,47175,TN,Tennessee,35.696,-85.4526,6083,5,4.3,"36,669",10.00
+Warren,Warren,Warren County,47177,TN,Tennessee,35.6787,-85.7785,40801,4.7,4.3,"41,296",10.00
+Washington,Washington,Washington County,47179,TN,Tennessee,36.2933,-82.4974,132067,3.6,4.3,"52,089",10.00
+Wayne,Wayne,Wayne County,47181,TN,Tennessee,35.2399,-87.7881,16350,4.1,4.3,"35,726",10.00
+Weakley,Weakley,Weakley County,47183,TN,Tennessee,36.2983,-88.7178,32948,3.8,4.3,"45,366",10.00
+White,White,White County,47185,TN,Tennessee,35.9264,-85.4552,27134,3.9,4.3,"40,770",10.00
+Williamson,Williamson,Williamson County,47187,TN,Tennessee,35.8938,-86.8987,242386,2.5,4.3,"107,698",10.00
+Wilson,Wilson,Wilson County,47189,TN,Tennessee,36.1549,-86.2977,144748,3.2,4.3,"59,229",10.00
+Anderson,Anderson,Anderson County,48001,TX,Texas,31.8133,-95.6525,58133,4.8,5.7,"42,444",8.00
+Andrews,Andrews,Andrews County,48003,TX,Texas,32.305,-102.638,18184,5.9,5.7,"52,943",8.00
+Angelina,Angelina,Angelina County,48005,TX,Texas,31.2548,-94.6119,86584,6.5,5.7,"46,170",8.00
+Aransas,Aransas,Aransas County,48007,TX,Texas,28.1249,-96.9934,24149,7.3,5.7,"59,878",8.00
+Archer,Archer,Archer County,48009,TX,Texas,33.6153,-98.6877,8616,4.2,5.7,"60,101",8.00
+Armstrong,Armstrong,Armstrong County,48011,TX,Texas,34.9649,-101.357,1980,3.6,5.7,"61,382",8.00
+Atascosa,Atascosa,Atascosa County,48013,TX,Texas,28.8935,-98.5272,48684,6.2,5.7,"46,737",8.00
+Austin,Austin,Austin County,48015,TX,Texas,29.887,-96.2779,30132,5.5,5.7,"58,284",8.00
+Bailey,Bailey,Bailey County,48017,TX,Texas,34.0686,-102.83,6968,4.9,5.7,"51,709",8.00
+Bandera,Bandera,Bandera County,48019,TX,Texas,29.7472,-99.2463,20839,4.7,5.7,"58,706",8.00
+Bastrop,Bastrop,Bastrop County,48021,TX,Texas,30.1036,-97.312,94887,4.5,5.7,"44,230",8.00
+Baylor,Baylor,Baylor County,48023,TX,Texas,33.6165,-99.2135,3491,3.4,5.7,"58,779",8.00
+Bee,Bee,Bee County,48025,TX,Texas,28.4174,-97.7412,31191,8.7,5.7,"34,738",8.00
+Bell,Bell,Bell County,48027,TX,Texas,31.0373,-97.4788,364703,5.7,5.7,"49,405",8.00
+Bexar,Bexar,Bexar County,48029,TX,Texas,29.4489,-98.52,1990522,5.4,5.7,"51,780",8.00
+Blanco,Blanco,Blanco County,48031,TX,Texas,30.2664,-98.3999,11313,3.3,5.7,"66,088",8.00
+Borden,Borden,Borden County,48033,TX,Texas,32.7436,-101.432,550,2.4,5.7,"101,470",6.00
+Bosque,Bosque,Bosque County,48035,TX,Texas,31.9004,-97.6343,18275,4.6,5.7,"50,943",8.00
+Bowie,Bowie,Bowie County,48037,TX,Texas,33.4458,-94.4234,92957,5.8,5.7,"47,792",8.00
+Brazoria,Brazoria,Brazoria County,48039,TX,Texas,29.1897,-95.4521,368575,6.9,5.7,"56,360",8.00
+Brazos,Brazos,Brazos County,48041,TX,Texas,30.6608,-96.3024,231095,4.1,5.7,"46,702",8.00
+Brewster,Brewster,Brewster County,48043,TX,Texas,29.8119,-103.252,9501,4.5,5.7,"53,014",8.00
+Briscoe,Briscoe,Briscoe County,48045,TX,Texas,34.5303,-101.209,1266,4.7,5.7,"58,862",8.00
+Brooks,Brooks,Brooks County,48047,TX,Texas,27.0316,-98.2187,7100,9.2,5.7,"43,437",8.00
+Brown,Brown,Brown County,48049,TX,Texas,31.7742,-98.9998,38085,5.2,5.7,"46,028",8.00
+Burleson,Burleson,Burleson County,48051,TX,Texas,30.4925,-96.6215,17687,5,5.7,"57,482",8.00
+Burnet,Burnet,Burnet County,48053,TX,Texas,30.7884,-98.1823,48424,3.7,5.7,"59,381",8.00
+Caldwell,Caldwell,Caldwell County,48055,TX,Texas,29.8368,-97.6199,45286,4.9,5.7,"41,642",8.00
+Calhoun,Calhoun,Calhoun County,48057,TX,Texas,28.5067,-96.602,20367,4.9,5.7,"60,589",8.00
+Callahan,Callahan,Callahan County,48059,TX,Texas,32.2976,-99.3735,13781,4.6,5.7,"50,963",8.00
+Cameron,Cameron,Cameron County,48061,TX,Texas,26.1333,-97.5182,420554,8.2,5.7,"37,861",8.00
+Camp,Camp,Camp County,48063,TX,Texas,32.9732,-94.9785,12498,5.9,5.7,"46,705",8.00
+Carson,Carson,Carson County,48065,TX,Texas,35.4035,-101.354,5856,3.9,5.7,"56,357",8.00
+Cass,Cass,Cass County,48067,TX,Texas,33.0775,-94.3435,28692,6.7,5.7,"46,101",8.00
+Castro,Castro,Castro County,48069,TX,Texas,34.5299,-102.262,7450,3.5,5.7,"81,900",8.00
+Chambers,Chambers,Chambers County,48071,TX,Texas,29.7384,-94.6101,45257,8.3,5.7,"60,591",8.00
+Cherokee,Cherokee,Cherokee County,48073,TX,Texas,31.837,-95.1652,50564,6.4,5.7,"43,376",8.00
+Childress,Childress,Childress County,48075,TX,Texas,34.5291,-100.208,6784,3.6,5.7,"39,953",8.00
+Clay,Clay,Clay County,48077,TX,Texas,33.7855,-98.2085,10236,4.9,5.7,"51,938",8.00
+Cochran,Cochran,Cochran County,48079,TX,Texas,33.6042,-102.829,2553,6.3,5.7,"62,305",8.00
+Coke,Coke,Coke County,48081,TX,Texas,31.8886,-100.53,3288,4.8,5.7,"48,804",8.00
+Coleman,Coleman,Coleman County,48083,TX,Texas,31.7732,-99.4536,7848,6,5.7,"54,822",8.00
+Collin,Collin,Collin County,48085,TX,Texas,33.188,-96.5724,1039812,4.3,5.7,"77,006",8.00
+Collingsworth,Collingsworth,Collingsworth County,48087,TX,Texas,34.9648,-100.27,2948,4.3,5.7,"54,140",8.00
+Colorado,Colorado,Colorado County,48089,TX,Texas,29.6208,-96.5263,20559,4.8,5.7,"59,219",8.00
+Comal,Comal,Comal County,48091,TX,Texas,29.8082,-98.2783,156257,4.5,5.7,"67,063",8.00
+Comanche,Comanche,Comanche County,48093,TX,Texas,31.948,-98.5582,13540,4.6,5.7,"50,112",8.00
+Concho,Concho,Concho County,48095,TX,Texas,31.3266,-99.864,3181,4.2,5.7,"38,635",8.00
+Cooke,Cooke,Cooke County,48097,TX,Texas,33.6393,-97.2126,41215,5,5.7,"59,800",8.00
+Coryell,Coryell,Coryell County,48099,TX,Texas,31.3909,-97.7993,81692,5.7,5.7,"37,476",8.00
+Cottle,Cottle,Cottle County,48101,TX,Texas,34.0776,-100.279,1560,4.6,5.7,"73,613",8.00
+Crane,Crane,Crane County,48103,TX,Texas,31.4286,-102.516,4654,9.6,5.7,"54,119",8.00
+Crockett,Crockett,Crockett County,48105,TX,Texas,30.7231,-101.412,2939,6.7,5.7,"57,013",7.00
+Crosby,Crosby,Crosby County,48107,TX,Texas,33.6147,-101.3,5265,5.6,5.7,"52,897",8.00
+Culberson,Culberson,Culberson County,48109,TX,Texas,31.447,-104.517,2209,4.8,5.7,"71,297",8.00
+Dallam,Dallam,Dallam County,48111,TX,Texas,36.2779,-102.602,7135,2.6,5.7,"70,511",8.00
+Dallas,Dallas,Dallas County,48113,TX,Texas,32.7666,-96.7778,2604722,5.6,5.7,"72,218",8.00
+Dawson,Dawson,Dawson County,48115,TX,Texas,32.7426,-101.948,12371,7,5.7,"46,139",8.00
+Deaf Smith,Deaf Smith,Deaf Smith County,48117,TX,Texas,34.966,-102.605,18675,3.7,5.7,"60,615",8.00
+Delta,Delta,Delta County,48119,TX,Texas,33.3863,-95.6723,5251,4.9,5.7,"47,471",8.00
+Denton,Denton,Denton County,48121,TX,Texas,33.2055,-97.1168,885012,4.4,5.7,"68,773",8.00
+DeWitt,DeWitt,DeWitt County,48123,TX,Texas,29.0821,-97.3567,19834,4.8,5.7,"66,916",8.00
+Dickens,Dickens,Dickens County,48125,TX,Texas,33.6165,-100.779,1569,5.1,5.7,"50,869",8.00
+Dimmit,Dimmit,Dimmit County,48127,TX,Texas,28.4226,-99.7566,8840,5.7,5.7,"55,771",8.00
+Donley,Donley,Donley County,48129,TX,Texas,34.9654,-100.814,3266,4.1,5.7,"50,574",8.00
+Duval,Duval,Duval County,48131,TX,Texas,27.6814,-98.5089,10001,8.3,5.7,"51,887",8.00
+Eastland,Eastland,Eastland County,48133,TX,Texas,32.3271,-98.8323,17785,5.8,5.7,"66,400",8.00
+Ector,Ector,Ector County,48135,TX,Texas,31.8692,-102.543,161258,8.3,5.7,"53,610",8.00
+Edwards,Edwards,Edwards County,48137,TX,Texas,29.9827,-100.305,1366,4.3,5.7,"73,981",8.00
+El Paso,El Paso,El Paso County,48141,TX,Texas,31.7686,-106.235,860485,4.5,5.7,"53,393",8.00
+Ellis,Ellis,Ellis County,48139,TX,Texas,32.3484,-96.7947,187984,6.2,5.7,"44,064",8.00
+Erath,Erath,Erath County,48143,TX,Texas,32.2363,-98.2179,42288,4.5,5.7,"46,906",8.00
+Falls,Falls,Falls County,48145,TX,Texas,31.2533,-96.9359,17074,5.3,5.7,"43,658",8.00
+Fannin,Fannin,Fannin County,48147,TX,Texas,33.5938,-96.1069,35453,4,5.7,"46,449",8.00
+Fayette,Fayette,Fayette County,48149,TX,Texas,29.8768,-96.9198,24445,4.3,5.7,"65,339",8.00
+Fisher,Fisher,Fisher County,48151,TX,Texas,32.7428,-100.402,3720,4.2,5.7,"57,245",8.00
+Floyd,Floyd,Floyd County,48153,TX,Texas,34.0724,-101.303,5478,5.8,5.7,"53,292",8.00
+Foard,Foard,Foard County,48155,TX,Texas,33.9746,-99.778,1087,3.4,5.7,"61,279",8.00
+Fort Bend,Fort Bend,Fort Bend County,48157,TX,Texas,29.5275,-95.7709,806497,5.9,5.7,"65,797",8.00
+Franklin,Franklin,Franklin County,48159,TX,Texas,33.1755,-95.2184,10413,4.4,5.7,"51,926",8.00
+Freestone,Freestone,Freestone County,48161,TX,Texas,31.7049,-96.1491,19478,7.2,5.7,"44,014",8.00
+Frio,Frio,Frio County,48163,TX,Texas,28.8678,-99.1082,18428,4.8,5.7,"39,898",8.00
+Gaines,Gaines,Gaines County,48165,TX,Texas,32.7407,-102.635,21167,4.6,5.7,"50,616",8.00
+Galveston,Galveston,Galveston County,48167,TX,Texas,29.3945,-94.9635,347084,6.7,5.7,"60,071",8.00
+Garza,Garza,Garza County,48169,TX,Texas,33.1799,-101.299,5734,5,5.7,"36,426",8.00
+Gillespie,Gillespie,Gillespie County,48171,TX,Texas,30.3181,-98.9465,26730,3.3,5.7,"78,039",8.00
+Glasscock,Glasscock,Glasscock County,48173,TX,Texas,31.8694,-101.521,1221,2.9,5.7,"124,963",7.00
+Goliad,Goliad,Goliad County,48175,TX,Texas,28.6571,-97.4264,7085,6.6,5.7,"55,947",8.00
+Gonzales,Gonzales,Gonzales County,48177,TX,Texas,29.4567,-97.4925,19720,4.3,5.7,"57,578",8.00
+Gray,Gray,Gray County,48179,TX,Texas,35.4012,-100.813,21398,6.7,5.7,"49,815",8.00
+Grayson,Grayson,Grayson County,48181,TX,Texas,33.6268,-96.6777,134205,4.6,5.7,"52,055",8.00
+Gregg,Gregg,Gregg County,48183,TX,Texas,32.4805,-94.817,123744,6.5,5.7,"52,958",8.00
+Grimes,Grimes,Grimes County,48185,TX,Texas,30.5435,-95.9855,28878,6.7,5.7,"41,914",8.00
+Guadalupe,Guadalupe,Guadalupe County,48187,TX,Texas,29.5831,-97.9486,169477,4.4,5.7,"52,190",8.00
+Hale,Hale,Hale County,48189,TX,Texas,34.0705,-101.827,32879,6.1,5.7,"43,543",8.00
+Hall,Hall,Hall County,48191,TX,Texas,34.5308,-100.681,2875,5.4,5.7,"48,706",8.00
+Hamilton,Hamilton,Hamilton County,48193,TX,Texas,31.7048,-98.1107,8211,4.1,5.7,"77,672",8.00
+Hansford,Hansford,Hansford County,48195,TX,Texas,36.2774,-101.355,5332,3,5.7,"77,093",8.00
+Hardeman,Hardeman,Hardeman County,48197,TX,Texas,34.2902,-99.7457,3567,4.3,5.7,"54,847",8.00
+Hardin,Hardin,Hardin County,48199,TX,Texas,30.3324,-94.3902,56124,8,5.7,"52,544",8.00
+Harris,Harris,Harris County,48201,TX,Texas,29.8577,-95.3936,4697957,6.5,5.7,"65,869",8.00
+Harrison,Harrison,Harrison County,48203,TX,Texas,32.5481,-94.3715,68674,6.6,5.7,"47,928",8.00
+Hartley,Hartley,Hartley County,48205,TX,Texas,35.84,-102.603,5465,2.1,5.7,"75,790",7.00
+Haskell,Haskell,Haskell County,48207,TX,Texas,33.1782,-99.7303,5420,3.9,5.7,"54,321",8.00
+Hays,Hays,Hays County,48209,TX,Texas,30.0579,-98.0312,234573,4.1,5.7,"56,097",8.00
+Hemphill,Hemphill,Hemphill County,48211,TX,Texas,35.8376,-100.271,3450,4.3,5.7,"75,731",8.00
+Henderson,Henderson,Henderson County,48213,TX,Texas,32.2119,-95.8536,81717,5.1,5.7,"48,594",8.00
+Hidalgo,Hidalgo,Hidalgo County,48215,TX,Texas,26.3969,-98.1812,865677,9.3,5.7,"34,503",8.00
+Hill,Hill,Hill County,48217,TX,Texas,31.9907,-97.1324,35686,5,5.7,"49,968",8.00
+Hockley,Hockley,Hockley County,48219,TX,Texas,33.6076,-102.343,21670,6,5.7,"52,586",8.00
+Hood,Hood,Hood County,48221,TX,Texas,32.4299,-97.8323,60521,5.2,5.7,"60,912",8.00
+Hopkins,Hopkins,Hopkins County,48223,TX,Texas,33.1496,-95.564,36666,4.3,5.7,"50,272",8.00
+Houston,Houston,Houston County,48225,TX,Texas,31.3177,-95.4227,22288,4.8,5.7,"48,835",8.00
+Howard,Howard,Howard County,48227,TX,Texas,32.3062,-101.436,34620,6.5,5.7,"51,007",8.00
+Hudspeth,Hudspeth,Hudspeth County,48229,TX,Texas,31.4562,-105.387,3322,5.8,5.7,"42,500",7.00
+Hunt,Hunt,Hunt County,48231,TX,Texas,33.1236,-96.0855,98783,5.1,5.7,"46,801",8.00
+Hutchinson,Hutchinson,Hutchinson County,48233,TX,Texas,35.84,-101.355,20801,6,5.7,"50,130",8.00
+Irion,Irion,Irion County,48235,TX,Texas,31.3039,-100.982,1555,4.9,5.7,"78,988",7.00
+Jack,Jack,Jack County,48237,TX,Texas,33.2335,-98.1725,8494,5.5,5.7,"45,263",8.00
+Jackson,Jackson,Jackson County,48239,TX,Texas,28.9542,-96.5776,14971,5,5.7,"51,971",8.00
+Jasper,Jasper,Jasper County,48241,TX,Texas,30.744,-94.0251,33369,9.7,5.7,"49,475",8.00
+Jeff Davis,Jeff Davis,Jeff Davis County,48243,TX,Texas,30.7154,-104.14,2021,4.3,5.7,"59,302",8.00
+Jefferson,Jefferson,Jefferson County,48245,TX,Texas,29.8841,-94.1629,256755,10,5.7,"48,243",8.00
+Jim Hogg,Jim Hogg,Jim Hogg County,48247,TX,Texas,27.0434,-98.6973,4864,8.8,5.7,"43,336",8.00
+Jim Wells,Jim Wells,Jim Wells County,48249,TX,Texas,27.7314,-98.0899,39203,10.2,5.7,"50,892",8.00
+Johnson,Johnson,Johnson County,48251,TX,Texas,32.379,-97.3665,177022,4.9,5.7,"51,619",8.00
+Jones,Jones,Jones County,48253,TX,Texas,32.7399,-99.8788,19721,6.2,5.7,"38,914",8.00
+Karnes,Karnes,Karnes County,48255,TX,Texas,28.9057,-97.8594,14823,5.2,5.7,"73,144",8.00
+Kaufman,Kaufman,Kaufman County,48257,TX,Texas,32.5993,-96.2878,140145,4.9,5.7,"49,494",8.00
+Kendall,Kendall,Kendall County,48259,TX,Texas,29.9447,-98.7115,43842,3.8,5.7,"96,628",8.00
+Kenedy,Kenedy,Kenedy County,48261,TX,Texas,26.9285,-97.7017,169,6,5.7,"47,141",6.00
+Kent,Kent,Kent County,48263,TX,Texas,33.1813,-100.778,632,2.9,5.7,"55,725",7.00
+Kerr,Kerr,Kerr County,48265,TX,Texas,30.0615,-99.35,52411,4.5,5.7,"61,401",8.00
+Kimble,Kimble,Kimble County,48267,TX,Texas,30.4868,-99.7487,4295,4.1,5.7,"54,345",8.00
+King,King,King County,48269,TX,Texas,33.6165,-100.256,229,0.9,5.7,"91,930",6.00
+Kinney,Kinney,Kinney County,48271,TX,Texas,29.3502,-100.418,3199,5.5,5.7,"42,929",8.00
+Kleberg,Kleberg,Kleberg County,48273,TX,Texas,27.4337,-97.7273,31015,7.1,5.7,"45,818",8.00
+Knox,Knox,Knox County,48275,TX,Texas,33.6061,-99.7414,3384,4.7,5.7,"50,320",8.00
+La Salle,La Salle,La Salle County,48283,TX,Texas,28.3452,-99.0995,6956,5.5,5.7,"50,699",8.00
+Lamar,Lamar,Lamar County,48277,TX,Texas,33.6673,-95.5712,49932,5,5.7,"54,689",8.00
+Lamb,Lamb,Lamb County,48279,TX,Texas,34.0686,-102.352,13147,4.8,5.7,"58,507",8.00
+Lampasas,Lampasas,Lampasas County,48281,TX,Texas,31.1962,-98.2415,21443,4.3,5.7,"52,652",8.00
+Lavaca,Lavaca,Lavaca County,48285,TX,Texas,29.3843,-96.9302,20287,4.5,5.7,"62,375",8.00
+Lee,Lee,Lee County,48287,TX,Texas,30.3107,-96.9657,17393,4.3,5.7,"56,674",8.00
+Leon,Leon,Leon County,48289,TX,Texas,31.2965,-95.9957,15877,7.1,5.7,"53,179",8.00
+Liberty,Liberty,Liberty County,48291,TX,Texas,30.1516,-94.8122,89948,9.2,5.7,"42,813",8.00
+Limestone,Limestone,Limestone County,48293,TX,Texas,31.5455,-96.5805,22252,6.2,5.7,"47,439",8.00
+Lipscomb,Lipscomb,Lipscomb County,48295,TX,Texas,36.2776,-100.273,3138,3.7,5.7,"102,569",8.00
+Live Oak,Live Oak,Live Oak County,48297,TX,Texas,28.3514,-98.1248,11378,6.8,5.7,"46,134",8.00
+Llano,Llano,Llano County,48299,TX,Texas,30.7058,-98.6841,21246,4.8,5.7,"59,689",8.00
+Loving,Loving,Loving County,48301,TX,Texas,31.8493,-103.58,83,0.9,5.7,"115,158",6.00
+Lubbock,Lubbock,Lubbock County,48303,TX,Texas,33.6102,-101.821,308580,4.5,5.7,"50,881",8.00
+Lynn,Lynn,Lynn County,48305,TX,Texas,33.1768,-101.816,5587,4.3,5.7,"58,496",8.00
+Madison,Madison,Madison County,48313,TX,Texas,30.9655,-95.9284,13579,6.5,5.7,"45,744",8.00
+Marion,Marion,Marion County,48315,TX,Texas,32.798,-94.3572,9748,4.9,5.7,"49,512",8.00
+Martin,Martin,Martin County,48317,TX,Texas,32.306,-101.951,5213,2.3,5.7,"110,273",8.00
+Mason,Mason,Mason County,48319,TX,Texas,30.7177,-99.2261,3948,6.2,5.7,"40,859",8.00
+Matagorda,Matagorda,Matagorda County,48321,TX,Texas,28.8212,-96.011,36323,6.9,5.7,"47,582",8.00
+Maverick,Maverick,Maverick County,48323,TX,Texas,28.7426,-100.315,57769,4.8,5.7,"84,121",8.00
+McCulloch,McCulloch,McCulloch County,48307,TX,Texas,31.1989,-99.3476,7676,4.7,5.7,"57,094",8.00
+McLennan,McLennan,McLennan County,48309,TX,Texas,31.5524,-97.2018,258031,8.3,5.7,"50,775",8.00
+McMullen,McMullen,McMullen County,48311,TX,Texas,28.3526,-98.5678,729,12.7,5.7,"38,448",6.00
+Medina,Medina,Medina County,48325,TX,Texas,29.3557,-99.1101,50458,5,5.7,"50,076",8.00
+Menard,Menard,Menard County,48327,TX,Texas,30.8898,-99.8206,1981,4.8,5.7,"47,390",8.00
+Midland,Midland,Midland County,48329,TX,Texas,31.8691,-102.032,166964,5.7,5.7,"126,738",8.00
+Milam,Milam,Milam County,48331,TX,Texas,30.7863,-96.9768,24895,5.8,5.7,"45,286",8.00
+Mills,Mills,Mills County,48333,TX,Texas,31.4952,-98.5954,4520,4.4,5.7,"51,712",8.00
+Mitchell,Mitchell,Mitchell County,48335,TX,Texas,32.3062,-100.921,8903,7.1,5.7,"35,417",8.00
+Montague,Montague,Montague County,48337,TX,Texas,33.6757,-97.7246,19850,5.1,5.7,"45,716",8.00
+Montgomery,Montgomery,Montgomery County,48339,TX,Texas,30.3002,-95.503,607999,5.8,5.7,"68,974",8.00
+Moore,Moore,Moore County,48341,TX,Texas,35.8377,-101.893,21494,3.3,5.7,"56,634",8.00
+Morris,Morris,Morris County,48343,TX,Texas,33.1135,-94.7326,11988,10.5,5.7,"47,226",8.00
+Motley,Motley,Motley County,48345,TX,Texas,34.0741,-100.78,1269,5.1,5.7,"41,754",8.00
+Nacogdoches,Nacogdoches,Nacogdoches County,48347,TX,Texas,31.616,-94.6159,64822,5.5,5.7,"46,246",8.00
+Navarro,Navarro,Navarro County,48349,TX,Texas,32.047,-96.4725,51908,5.1,5.7,"45,616",8.00
+Newton,Newton,Newton County,48351,TX,Texas,30.7863,-93.7448,12532,10.4,5.7,"43,123",8.00
+Nolan,Nolan,Nolan County,48353,TX,Texas,32.3035,-100.406,14727,4.8,5.7,"52,629",8.00
+Nueces,Nueces,Nueces County,48355,TX,Texas,27.7254,-97.6134,353594,6.9,5.7,"52,852",8.00
+Ochiltree,Ochiltree,Ochiltree County,48357,TX,Texas,36.2784,-100.816,10063,4.6,5.7,"64,247",8.00
+Oldham,Oldham,Oldham County,48359,TX,Texas,35.405,-102.603,2251,3.5,5.7,"72,126",8.00
+Orange,Orange,Orange County,48361,TX,Texas,30.1213,-93.8939,85045,9,5.7,"48,912",8.00
+Palo Pinto,Palo Pinto,Palo Pinto County,48363,TX,Texas,32.7532,-98.313,28303,5.7,5.7,"52,042",8.00
+Panola,Panola,Panola County,48365,TX,Texas,32.1624,-94.3056,22583,6.7,5.7,"53,292",8.00
+Parker,Parker,Parker County,48367,TX,Texas,32.7776,-97.8051,144803,4.4,5.7,"65,358",8.00
+Parmer,Parmer,Parmer County,48369,TX,Texas,34.5301,-102.785,9874,2.9,5.7,"63,512",8.00
+Pecos,Pecos,Pecos County,48371,TX,Texas,30.781,-102.724,15202,7.1,5.7,"43,661",8.00
+Polk,Polk,Polk County,48373,TX,Texas,30.7927,-94.83,49372,8,5.7,"47,994",8.00
+Potter,Potter,Potter County,48375,TX,Texas,35.4013,-101.894,119043,4.3,5.7,"55,764",8.00
+Presidio,Presidio,Presidio County,48377,TX,Texas,29.9998,-104.241,6328,10.5,5.7,"61,776",8.00
+Rains,Rains,Rains County,48379,TX,Texas,32.8703,-95.7934,12013,3.9,5.7,"41,563",8.00
+Randall,Randall,Randall County,48381,TX,Texas,34.9659,-101.897,139176,3.5,5.7,"56,381",8.00
+Reagan,Reagan,Reagan County,48383,TX,Texas,31.3661,-101.523,3363,7.7,5.7,"61,077",8.00
+Real,Real,Real County,48385,TX,Texas,29.8318,-99.8222,2852,5.9,5.7,"55,449",8.00
+Red River,Red River,Red River County,48387,TX,Texas,33.6207,-95.0503,11685,5.9,5.7,"53,818",8.00
+Reeves,Reeves,Reeves County,48389,TX,Texas,31.323,-103.693,14584,5.9,5.7,"52,811",8.00
+Refugio,Refugio,Refugio County,48391,TX,Texas,28.3253,-97.1656,6822,6.7,5.7,"54,475",8.00
+Roberts,Roberts,Roberts County,48393,TX,Texas,35.8384,-100.814,724,4.3,5.7,"56,868",8.00
+Robertson,Robertson,Robertson County,48395,TX,Texas,31.027,-96.5129,16839,5.3,5.7,"52,894",8.00
+Rockwall,Rockwall,Rockwall County,48397,TX,Texas,32.8978,-96.4079,105227,4.3,5.7,"70,833",8.00
+Runnels,Runnels,Runnels County,48399,TX,Texas,31.8311,-99.9762,9887,4.1,5.7,"51,307",8.00
+Rusk,Rusk,Rusk County,48401,TX,Texas,32.1077,-94.7618,52542,6,5.7,"44,874",8.00
+Sabine,Sabine,Sabine County,48403,TX,Texas,31.3432,-93.8518,9974,9.5,5.7,"44,900",8.00
+San Augustine,San Augustine,San Augustine County,48405,TX,Texas,31.3942,-94.1682,7964,8.2,5.7,"50,573",8.00
+San Jacinto,San Jacinto,San Jacinto County,48407,TX,Texas,30.5795,-95.1669,27380,7.4,5.7,"46,477",8.00
+San Patricio,San Patricio,San Patricio County,48409,TX,Texas,28.0092,-97.5188,68600,8.8,5.7,"51,392",8.00
+San Saba,San Saba,San Saba County,48411,TX,Texas,31.1552,-98.8176,5775,4.7,5.7,"43,735",8.00
+Schleicher,Schleicher,Schleicher County,48413,TX,Texas,30.8974,-100.538,2547,5.5,5.7,"51,775",8.00
+Scurry,Scurry,Scurry County,48415,TX,Texas,32.7463,-100.916,16985,6.7,5.7,"47,138",8.00
+Shackelford,Shackelford,Shackelford County,48417,TX,Texas,32.7359,-99.3541,3145,4,5.7,"93,075",8.00
+Shelby,Shelby,Shelby County,48419,TX,Texas,31.7924,-94.145,24254,5.4,5.7,"54,640",8.00
+Sherman,Sherman,Sherman County,48421,TX,Texas,36.2777,-101.893,2357,3,5.7,"122,945",8.00
+Smith,Smith,Smith County,48423,TX,Texas,32.375,-95.2692,231429,5.1,5.7,"60,284",8.00
+Somervell,Somervell,Somervell County,48425,TX,Texas,32.2222,-97.7744,9170,5.2,5.7,"54,826",8.00
+Starr,Starr,Starr County,48427,TX,Texas,26.5621,-98.7387,65568,16.2,5.7,"34,933",8.00
+Stephens,Stephens,Stephens County,48429,TX,Texas,32.7359,-98.8362,9142,4.9,5.7,"48,498",8.00
+Sterling,Sterling,Sterling County,48431,TX,Texas,31.8278,-101.05,1391,5.1,5.7,"65,866",8.00
+Stonewall,Stonewall,Stonewall County,48433,TX,Texas,33.1792,-100.253,1358,4.1,5.7,"73,182",8.00
+Sutton,Sutton,Sutton County,48435,TX,Texas,30.4984,-100.538,3417,8.3,5.7,"68,431",8.00
+Swisher,Swisher,Swisher County,48437,TX,Texas,34.5304,-101.735,7055,4.9,5.7,"72,623",8.00
+Tarrant,Tarrant,Tarrant County,48439,TX,Texas,32.7719,-97.2911,2091953,5.3,5.7,"58,940",8.00
+Taylor,Taylor,Taylor County,48441,TX,Texas,32.3015,-99.8902,141739,4.3,5.7,"58,316",8.00
+Terrell,Terrell,Terrell County,48443,TX,Texas,30.225,-102.077,979,3.6,5.7,"63,481",8.00
+Terry,Terry,Terry County,48445,TX,Texas,33.1738,-102.335,11937,6.1,5.7,"45,353",8.00
+Throckmorton,Throckmorton,Throckmorton County,48447,TX,Texas,33.1775,-99.2124,1426,2.8,5.7,"69,390",8.00
+Titus,Titus,Titus County,48449,TX,Texas,33.2166,-94.9657,31327,5.4,5.7,"48,007",8.00
+Tom Green,Tom Green,Tom Green County,48451,TX,Texas,31.4044,-100.462,119048,4.9,5.7,"59,877",8.00
+Travis,Travis,Travis County,48453,TX,Texas,30.3344,-97.782,1267795,4,5.7,"81,708",8.00
+Trinity,Trinity,Trinity County,48455,TX,Texas,31.0888,-95.1355,13695,7.3,5.7,"47,101",8.00
+Tyler,Tyler,Tyler County,48457,TX,Texas,30.7712,-94.3766,20032,8.5,5.7,"41,613",8.00
+Upshur,Upshur,Upshur County,48459,TX,Texas,32.7363,-94.9415,40781,6.3,5.7,"43,308",8.00
+Upton,Upton,Upton County,48461,TX,Texas,31.3688,-102.043,3340,5.2,5.7,"61,595",8.00
+Uvalde,Uvalde,Uvalde County,48463,TX,Texas,29.3573,-99.7622,24918,5.5,5.7,"53,257",8.00
+Val Verde,Val Verde,Val Verde County,48465,TX,Texas,29.8929,-101.152,47767,5.9,5.7,"46,642",8.00
+Van Zandt,Van Zandt,Van Zandt County,48467,TX,Texas,32.5637,-95.8365,58782,4.7,5.7,"45,045",8.00
+Victoria,Victoria,Victoria County,48469,TX,Texas,28.7964,-96.9715,91280,6.4,5.7,"58,479",8.00
+Walker,Walker,Walker County,48471,TX,Texas,30.739,-95.5723,76506,6.3,5.7,"33,345",8.00
+Waller,Waller,Waller County,48473,TX,Texas,30.0108,-95.9876,55505,6.4,5.7,"49,404",8.00
+Ward,Ward,Ward County,48475,TX,Texas,31.5095,-103.103,11375,7.2,5.7,"55,099",8.00
+Washington,Washington,Washington County,48477,TX,Texas,30.2145,-96.4035,35561,5.2,5.7,"61,295",8.00
+Webb,Webb,Webb County,48479,TX,Texas,27.7611,-99.3315,266963,6.3,5.7,"40,850",8.00
+Wharton,Wharton,Wharton County,48481,TX,Texas,29.2779,-96.2221,41602,5.7,5.7,"52,948",8.00
+Wheeler,Wheeler,Wheeler County,48483,TX,Texas,35.4012,-100.27,5091,6.2,5.7,"49,906",8.00
+Wichita,Wichita,Wichita County,48485,TX,Texas,33.988,-98.7035,129419,5.3,5.7,"50,210",8.00
+Wilbarger,Wilbarger,Wilbarger County,48487,TX,Texas,34.0808,-99.241,12887,6.6,5.7,"59,952",8.00
+Willacy,Willacy,Willacy County,48489,TX,Texas,26.4693,-97.6622,20423,10.5,5.7,"37,792",8.00
+Williamson,Williamson,Williamson County,48491,TX,Texas,30.6475,-97.6004,591759,4,5.7,"62,931",8.00
+Wilson,Wilson,Wilson County,48493,TX,Texas,29.174,-98.0866,49374,4.4,5.7,"55,762",8.00
+Winkler,Winkler,Winkler County,48495,TX,Texas,31.8501,-103.048,7629,7.7,5.7,"66,180",8.00
+Wise,Wise,Wise County,48497,TX,Texas,33.2159,-97.6545,67877,4.9,5.7,"53,871",8.00
+Wood,Wood,Wood County,48499,TX,Texas,32.7864,-95.3821,44615,5.6,5.7,"47,546",8.00
+Yoakum,Yoakum,Yoakum County,48501,TX,Texas,33.173,-102.828,7707,7.8,5.7,"51,954",8.00
+Young,Young,Young County,48503,TX,Texas,33.1766,-98.6878,17894,4.5,5.7,"58,602",8.00
+Zapata,Zapata,Zapata County,48505,TX,Texas,27.0008,-99.1686,13945,12.1,5.7,"33,288",8.00
+Zavala,Zavala,Zavala County,48507,TX,Texas,28.8662,-99.7605,9900,12.7,5.7,"43,868",8.00
+Beaver,Beaver,Beaver County,49001,UT,Utah,38.357,-113.236,6962,2.8,2.7,"46,960",7.00
+Box Elder,Box Elder,Box Elder County,49003,UT,Utah,41.521,-113.082,56891,2.4,2.7,"45,456",7.00
+Cache,Cache,Cache County,49005,UT,Utah,41.7224,-111.744,131703,2,2.7,"47,269",7.00
+Carbon,Carbon,Carbon County,49007,UT,Utah,39.6481,-110.589,20208,3.9,2.7,"45,120",7.00
+Daggett,Daggett,Daggett County,49009,UT,Utah,40.8873,-109.508,564,3.6,2.7,"51,672",8.00
+Davis,Davis,Davis County,49011,UT,Utah,40.99,-112.112,358831,2.4,2.7,"54,820",8.00
+Duchesne,Duchesne,Duchesne County,49013,UT,Utah,40.2982,-110.425,19651,4.9,2.7,"42,903",7.00
+Emery,Emery,Emery County,49015,UT,Utah,38.9968,-110.701,9839,3.9,2.7,"40,871",8.00
+Garfield,Garfield,Garfield County,49017,UT,Utah,37.8549,-111.443,5061,6.5,2.7,"50,209",8.00
+Grand,Grand,Grand County,49019,UT,Utah,38.982,-109.57,9630,4.4,2.7,"69,832",9.00
+Iron,Iron,Iron County,49021,UT,Utah,37.8592,-113.29,55839,2.8,2.7,"38,834",8.00
+Juab,Juab,Juab County,49023,UT,Utah,39.7027,-112.785,11648,2,2.7,"48,060",7.00
+Kane,Kane,Kane County,49025,UT,Utah,37.2851,-111.888,7635,2.9,2.7,"49,842",8.00
+Millard,Millard,Millard County,49027,UT,Utah,39.0733,-113.101,12860,2.4,2.7,"44,281",6.00
+Morgan,Morgan,Morgan County,49029,UT,Utah,41.0893,-111.573,12162,2.1,2.7,"63,256",7.00
+Piute,Piute,Piute County,49031,UT,Utah,38.3367,-112.127,1809,4.4,2.7,"49,233",6.00
+Rich,Rich,Rich County,49033,UT,Utah,41.6323,-111.245,2507,2.3,2.7,"43,280",8.00
+Salt Lake,Salt Lake,Salt Lake County,49035,UT,Utah,40.6673,-111.924,1173331,2.8,2.7,"62,547",9.00
+San Juan,San Juan,San Juan County,49037,UT,Utah,37.626,-109.805,14610,6.3,2.7,"34,038",7.00
+Sanpete,Sanpete,Sanpete County,49039,UT,Utah,39.3739,-111.576,28458,2.8,2.7,"39,139",7.00
+Sevier,Sevier,Sevier County,49041,UT,Utah,38.7478,-111.804,21471,3.3,2.7,"41,983",7.00
+Summit,Summit,Summit County,49043,UT,Utah,40.8682,-110.956,42156,2.9,2.7,"183,972",9.00
+Tooele,Tooele,Tooele County,49045,UT,Utah,40.4488,-113.131,71340,2.9,2.7,"46,131",8.00
+Uintah,Uintah,Uintah County,49047,UT,Utah,40.1248,-109.519,35488,5.6,2.7,"35,128",7.00
+Utah,Utah,Utah County,49049,UT,Utah,40.1199,-111.67,648265,2.3,2.7,"50,661",7.00
+Wasatch,Wasatch,Wasatch County,49051,UT,Utah,40.3308,-111.168,34028,2.9,2.7,"71,360",8.00
+Washington,Washington,Washington County,49053,UT,Utah,37.2804,-113.505,176533,2.9,2.7,"47,162",8.00
+Wayne,Wayne,Wayne County,49055,UT,Utah,38.3244,-110.904,2500,4.7,2.7,"52,647",6.00
+Weber,Weber,Weber County,49057,UT,Utah,41.2698,-111.913,259390,2.9,2.7,"49,857",7.00
+Addison,Addison,Addison County,50001,VT,Vermont,44.0309,-73.1408,37306,2.8,3.4,"59,540",7.00
+Bennington,Bennington,Bennington County,50003,VT,Vermont,43.0354,-73.0932,37235,4.3,3.4,"61,287",7.00
+Caledonia,Caledonia,Caledonia County,50005,VT,Vermont,44.4647,-72.1022,30402,3.7,3.4,"50,533",6.00
+Chittenden,Chittenden,Chittenden County,50007,VT,Vermont,44.4611,-73.0813,167523,2.8,3.4,"67,921",7.00
+Essex,Essex,Essex County,50009,VT,Vermont,44.7275,-71.7359,5972,4.8,3.4,"48,120",6.00
+Franklin,Franklin,Franklin County,50011,VT,Vermont,44.8576,-72.9131,49752,3.5,3.4,"54,756",7.00
+Grand Isle,Grand Isle,Grand Isle County,50013,VT,Vermont,44.7981,-73.2948,7249,3.9,3.4,"70,543",6.00
+Lamoille,Lamoille,Lamoille County,50015,VT,Vermont,44.607,-72.6419,25920,4,3.4,"62,305",6.00
+Orange,Orange,Orange County,50017,VT,Vermont,44.0056,-72.3768,29286,3.2,3.4,"55,573",6.00
+Orleans,Orleans,Orleans County,50019,VT,Vermont,44.829,-72.2436,27317,4.6,3.4,"51,960",6.00
+Rutland,Rutland,Rutland County,50021,VT,Vermont,43.5802,-73.0364,60662,4.2,3.4,"57,831",7.00
+Washington,Washington,Washington County,50023,VT,Vermont,44.2736,-72.6148,59609,3,3.4,"67,529",7.00
+Windham,Windham,Windham County,50025,VT,Vermont,42.9906,-72.7139,45811,4.4,3.4,"55,841",7.00
+Windsor,Windsor,Windsor County,50027,VT,Vermont,43.5799,-72.5862,57593,3.3,3.4,"69,523",6.00
+Accomack,Accomack,Accomack County,51001,VA,Virginia,37.7643,-75.6332,33388,4.3,3.9,"50,949",6.00
+Albemarle,Albemarle,Albemarle County,51003,VA,Virginia,38.0229,-78.5567,111438,3.2,3.9,"91,849",5.00
+Alexandria,Alexandria,Alexandria City,51510,VA,Virginia,38.8185,-77.0861,158185,3.8,3.9,"100,877",5.00
+Alleghany,Alleghany,Alleghany County,51005,VA,Virginia,37.7878,-80.0062,15266,4.1,3.9,"49,197",5.00
+Amelia,Amelia,Amelia County,51007,VA,Virginia,37.336,-77.9761,13220,3.6,3.9,"62,884",5.00
+Amherst,Amherst,Amherst County,51009,VA,Virginia,37.6048,-79.1451,31381,3.7,3.9,"57,294",6.00
+Appomattox,Appomattox,Appomattox County,51011,VA,Virginia,37.3723,-78.8126,16039,3.9,3.9,"58,860",6.00
+Arlington,Arlington,Arlington County,51013,VA,Virginia,38.8786,-77.1011,235764,3,3.9,"124,474",5.00
+Augusta,Augusta,Augusta County,51015,VA,Virginia,38.1644,-79.1338,76948,3.1,3.9,"69,243",5.00
+Bath,Bath,Bath County,51017,VA,Virginia,38.0587,-79.7411,4243,4.6,3.9,"56,200",5.00
+Bedford,Bedford,Bedford County,51019,VA,Virginia,37.3152,-79.5242,79183,3.4,3.9,"66,026",5.00
+Bland,Bland,Bland County,51021,VA,Virginia,37.134,-81.1302,6278,3.4,3.9,"50,492",5.00
+Botetourt,Botetourt,Botetourt County,51023,VA,Virginia,37.5571,-79.8123,33542,3,3.9,"74,081",5.00
+Bristol,Bristol,Bristol City,51520,VA,Virginia,36.618,-82.1605,16996,4.7,3.9,"41,272",5.00
+Brunswick,Brunswick,Brunswick County,51025,VA,Virginia,36.7648,-77.859,16044,6.3,3.9,"47,401",5.00
+Buchanan,Buchanan,Buchanan County,51027,VA,Virginia,37.2666,-82.036,20615,6.7,3.9,"38,087",6.00
+Buckingham,Buckingham,Buckingham County,51029,VA,Virginia,37.5722,-78.5288,16832,5.3,3.9,"54,263",6.00
+Buena Vista,Buena Vista,Buena Vista City,51530,VA,Virginia,37.7319,-79.3569,6649,3.9,3.9,"47,144",6.00
+Campbell,Campbell,Campbell County,51031,VA,Virginia,37.2053,-79.0966,55656,3.8,3.9,"53,059",6.00
+Caroline,Caroline,Caroline County,51033,VA,Virginia,38.0267,-77.3471,30861,4.3,3.9,"73,390",6.00
+Carroll,Carroll,Carroll County,51035,VA,Virginia,36.7316,-80.7339,29123,4.1,3.9,"45,956",5.00
+Charles City,Charles City,Charles City County,51036,VA,Virginia,37.3567,-77.0622,6817,4.4,3.9,"63,299",5.00
+Charlotte,Charlotte,Charlotte County,51037,VA,Virginia,37.0116,-78.6616,11605,3.7,3.9,"48,382",6.00
+Charlottesville,Charlottesville,Charlottesville City,51540,VA,Virginia,38.0375,-78.4855,46597,3.7,3.9,"61,255",5.00
+Chesapeake,Chesapeake,Chesapeake City,51550,VA,Virginia,36.6778,-76.3024,247172,3.8,3.9,"87,057",5.00
+Chesterfield,Chesterfield,Chesterfield County,51041,VA,Virginia,37.3785,-77.587,359798,3.6,3.9,"86,101",5.00
+Clarke,Clarke,Clarke County,51043,VA,Virginia,39.1123,-77.9967,14726,3.1,3.9,"91,603",6.00
+Colonial Heights,Colonial Heights,Colonial Heights City,51570,VA,Virginia,37.265,-77.3969,18127,4.8,3.9,"59,455",6.00
+Covington,Covington,Covington City,51580,VA,Virginia,37.7785,-79.9868,5716,5.8,3.9,"43,075",6.00
+Craig,Craig,Craig County,51045,VA,Virginia,37.4817,-80.2114,4914,3.3,3.9,"57,299",6.00
+Culpeper,Culpeper,Culpeper County,51047,VA,Virginia,38.486,-77.9558,52021,3.2,3.9,"82,220",6.00
+Cumberland,Cumberland,Cumberland County,51049,VA,Virginia,37.5121,-78.245,9669,4.3,3.9,"52,200",5.00
+Danville,Danville,Danville City,51590,VA,Virginia,36.5831,-79.4088,42556,6.5,3.9,"37,652",5.00
+Dickenson,Dickenson,Dickenson County,51051,VA,Virginia,37.1258,-82.3504,14256,5.3,3.9,"39,722",6.00
+Dinwiddie,Dinwiddie,Dinwiddie County,51053,VA,Virginia,37.0759,-77.6323,28040,4.5,3.9,"66,397",6.00
+Emporia,Emporia,Emporia City,51595,VA,Virginia,36.6953,-77.5357,5761,7.8,3.9,"41,610",5.00
+Essex,Essex,Essex County,51057,VA,Virginia,37.9435,-76.9516,10621,4.8,3.9,"59,012",5.00
+Fairfax,Fairfax,Fairfax County,51059,VA,Virginia,38.8368,-77.277,1146825,3.4,3.9,"133,845",5.00
+Fairfax,Fairfax,Fairfax City,51600,VA,Virginia,38.8531,-77.2998,23980,3.5,3.9,"107,334",6.00
+Falls Church,Falls Church,Falls Church City,51610,VA,Virginia,38.8847,-77.1751,14494,2.6,3.9,"142,430",6.00
+Fauquier,Fauquier,Fauquier County,51061,VA,Virginia,38.7386,-77.8092,72416,3,3.9,"106,714",6.00
+Floyd,Floyd,Floyd County,51063,VA,Virginia,36.9316,-80.3625,15536,3.1,3.9,"54,765",6.00
+Fluvanna,Fluvanna,Fluvanna County,51065,VA,Virginia,37.8419,-78.2773,27078,3.3,3.9,"77,226",5.00
+Franklin,Franklin,Franklin County,51067,VA,Virginia,36.992,-79.8811,54829,6.9,3.9,"60,062",6.00
+Franklin,Franklin,Franklin City,51620,VA,Virginia,36.6831,-76.9386,8249,3.5,3.9,"46,460",5.00
+Frederick,Frederick,Frederick County,51069,VA,Virginia,39.2046,-78.2626,90287,2.9,3.9,"85,262",5.00
+Fredericksburg,Fredericksburg,Fredericksburg City,51630,VA,Virginia,38.2992,-77.4872,28027,4.7,3.9,"77,437",6.00
+Galax,Galax,Galax City,51640,VA,Virginia,36.666,-80.9176,6681,4.1,3.9,"42,023",5.00
+Giles,Giles,Giles County,51071,VA,Virginia,37.3142,-80.7029,16764,3.5,3.9,"55,018",5.00
+Gloucester,Gloucester,Gloucester County,51073,VA,Virginia,37.416,-76.5434,38586,3.4,3.9,"75,630",6.00
+Goochland,Goochland,Goochland County,51075,VA,Virginia,37.7221,-77.9158,24300,3.1,3.9,"104,379",6.00
+Grayson,Grayson,Grayson County,51077,VA,Virginia,36.6565,-81.2249,15418,3.3,3.9,"42,553",5.00
+Greene,Greene,Greene County,51079,VA,Virginia,38.2976,-78.4669,20374,3,3.9,"76,941",5.00
+Greensville,Greensville,Greensville County,51081,VA,Virginia,36.6759,-77.5596,11465,4.9,3.9,"49,323",6.00
+Halifax,Halifax,Halifax County,51083,VA,Virginia,36.7669,-78.9366,34228,4.8,3.9,"46,244",5.00
+Hampton,Hampton,Hampton City,51650,VA,Virginia,37.0551,-76.363,136748,5.7,3.9,"57,662",6.00
+Hanover,Hanover,Hanover County,51085,VA,Virginia,37.7601,-77.491,109232,3,3.9,"95,195",5.00
+Harrisonburg,Harrisonburg,Harrisonburg City,51660,VA,Virginia,38.4361,-78.8735,52062,4,3.9,"50,250",5.00
+Henrico,Henrico,Henrico County,51087,VA,Virginia,37.538,-77.4058,331924,4,3.9,"78,888",5.00
+Henry,Henry,Henry County,51089,VA,Virginia,36.6828,-79.874,51077,4.7,3.9,45784,7.00
+Highland,Highland,Highland County,51091,VA,Virginia,38.3623,-79.5686,2229,2.9,3.9,48972,6.00
+Hopewell,Hopewell,Hopewell City,51670,VA,Virginia,37.2915,-77.2985,23020,7.5,3.9,47263,5.00
+Isle of Wight,Isle of Wight,Isle of Wight County,51093,VA,Virginia,36.8912,-76.7259,38301,3.5,3.9,86286,5.00
+James City,James City,James City County,51095,VA,Virginia,37.3288,-76.7789,77733,4,3.9,92270,5.00
+King and Queen,King and Queen,King and Queen County,51097,VA,Virginia,37.7186,-76.8953,6690,3.1,3.9,59730,5.00
+King George,King George,King George County,51099,VA,Virginia,38.2733,-77.1572,26597,2.9,3.9,98668,6.00
+King William,King William,King William County,51101,VA,Virginia,37.7066,-77.0885,17511,3.3,3.9,79378,6.00
+Lancaster,Lancaster,Lancaster County,51103,VA,Virginia,37.7345,-76.4632,10916,5.3,3.9,58578,6.00
+Lee,Lee,Lee County,51105,VA,Virginia,36.7054,-83.1286,22482,4,3.9,38529,5.00
+Lexington,Lexington,Lexington City,51678,VA,Virginia,37.7825,-79.4441,7287,4.9,3.9,53400,5.00
+Loudoun,Loudoun,Loudoun County,51107,VA,Virginia,39.0907,-77.6357,413574,3.1,3.9,153716,6.00
+Louisa,Louisa,Louisa County,51109,VA,Virginia,37.9786,-77.963,37136,3.4,3.9,68838,5.00
+Lunenburg,Lunenburg,Lunenburg County,51111,VA,Virginia,36.9462,-78.2406,11982,3.8,3.9,44852,5.00
+Lynchburg,Lynchburg,Lynchburg City,51680,VA,Virginia,37.4003,-79.1909,78973,5.1,3.9,52127,5.00
+Madison,Madison,Madison County,51113,VA,Virginia,38.4137,-78.2792,13731,2.5,3.9,67527,5.00
+Manassas,Manassas,Manassas City,51683,VA,Virginia,38.7479,-77.4839,42596,3.9,3.9,100530,5.00
+Manassas Park,Manassas Park,Manassas Park City,51685,VA,Virginia,38.7709,-77.4429,17081,3.8,3.9,87255,5.00
+Martinsville,Martinsville,Martinsville City,51690,VA,Virginia,36.6827,-79.8636,13476,7.5,3.9,38571,5.00
+Mathews,Mathews,Mathews County,51115,VA,Virginia,37.4354,-76.3436,8548,3.2,3.9,69978,5.00
+Mecklenburg,Mecklenburg,Mecklenburg County,51117,VA,Virginia,36.6804,-78.3627,30347,4.7,3.9,48013,5.00
+Middlesex,Middlesex,Middlesex County,51119,VA,Virginia,37.6303,-76.5697,10686,3.4,3.9,62710,5.00
+Montgomery,Montgomery,Montgomery County,51121,VA,Virginia,37.1743,-80.3872,99294,3,3.9,57752,6.00
+Nelson,Nelson,Nelson County,51125,VA,Virginia,37.7874,-78.8868,14795,3.5,3.9,61224,5.00
+New Kent,New Kent,New Kent County,51127,VA,Virginia,37.5052,-76.9974,22519,3,3.9,102920,5.00
+Newport News,Newport News,Newport News City,51700,VA,Virginia,37.1051,-76.5185,185069,5.6,3.9,58303,6.00
+Norfolk,Norfolk,Norfolk City,51710,VA,Virginia,36.8945,-76.259,238556,5.7,3.9,56951,6.00
+Northampton,Northampton,Northampton County,51131,VA,Virginia,37.343,-75.877,12226,5.4,3.9,51059,5.00
+Northumberland,Northumberland,Northumberland County,51133,VA,Virginia,37.8874,-76.4195,11965,4.9,3.9,63255,5.00
+Norton,Norton,Norton City,51720,VA,Virginia,36.9314,-82.6262,3696,4.9,3.9,38316,5.00
+Nottoway,Nottoway,Nottoway County,51135,VA,Virginia,37.143,-78.0512,15667,3.7,3.9,46442,5.00
+Orange,Orange,Orange County,51137,VA,Virginia,38.2462,-78.0137,36001,3.6,3.9,94547,5.00
+Page,Page,Page County,51139,VA,Virginia,38.6194,-78.4844,23734,4.6,3.9,53449,5.00
+Patrick,Patrick,Patrick County,51141,VA,Virginia,36.6783,-80.2844,17661,4.5,3.9,46963,5
+Petersburg,Petersburg,Petersburg City,51730,VA,Virginia,37.2043,-77.3913,33229,10.5,3.9,40682,7.00
+Pittsylvania,Pittsylvania,Pittsylvania County,51143,VA,Virginia,36.8213,-79.3971,60833,4,3.9,52006,8.00
+Poquoson,Poquoson,Poquoson City,51735,VA,Virginia,37.1318,-76.3568,12382,2.8,3.9,105525,10.00
+Portsmouth,Portsmouth,Portsmouth City,51740,VA,Virginia,36.8468,-76.354,97454,6.7,3.9,53618,9.00
+Powhatan,Powhatan,Powhatan County,51145,VA,Virginia,37.5502,-77.9152,29979,2.9,3.9,99854,9.00
+Prince Edward,Prince Edward,Prince Edward County,51147,VA,Virginia,37.2243,-78.4411,21887,4.8,3.9,51239,9.00
+Prince George,Prince George,Prince George County,51149,VA,Virginia,37.1865,-77.2242,42170,4.5,3.9,79710,9.00
+Prince William,Prince William,Prince William County,51153,VA,Virginia,38.7029,-77.4809,477224,4,3.9,116354,8.00
+Pulaski,Pulaski,Pulaski County,51155,VA,Virginia,37.0635,-80.7144,33893,4,3.9,53111,8.00
+Radford,Radford,Radford City,51750,VA,Virginia,37.1229,-80.5587,16205,4.1,3.9,48898,9.00
+Rappahannock,Rappahannock,Rappahannock County,51157,VA,Virginia,38.6848,-78.1592,7400,2.9,3.9,80098,8.00
+Richmond,Richmond,Richmond City,51760,VA,Virginia,37.5295,-77.4756,225676,5.5,3.9,52011,9.00
+Richmond,Richmond,Richmond County,51159,VA,Virginia,37.9434,-76.7269,8902,3.5,3.9,53959,10.00
+Roanoke,Roanoke,Roanoke City,51770,VA,Virginia,37.2785,-79.958,99578,4.8,3.9,47545,8.00
+Roanoke,Roanoke,Roanoke County,51161,VA,Virginia,37.2693,-80.068,96303,3.1,3.9,73438,9.00
+Rockbridge,Rockbridge,Rockbridge County,51163,VA,Virginia,37.8145,-79.4473,22663,3.7,3.9,59252,9.00
+Rockingham,Rockingham,Rockingham County,51165,VA,Virginia,38.512,-78.8758,83090,2.9,3.9,72392,9.00
+Russell,Russell,Russell County,51167,VA,Virginia,36.9339,-82.0954,25932,4.3,3.9,45254,11.00
+Salem,Salem,Salem City,51775,VA,Virginia,37.2864,-80.0554,25335,3.6,3.9,60740,9.00
+Scott,Scott,Scott County,51169,VA,Virginia,36.7143,-82.6029,21576,3.6,3.9,42894,9.00
+Shenandoah,Shenandoah,Shenandoah County,51171,VA,Virginia,38.8583,-78.5708,44037,3.6,3.9,65308,8.00
+Smyth,Smyth,Smyth County,51173,VA,Virginia,36.8438,-81.537,29960,4,3.9,42303,8.00
+Southampton,Southampton,Southampton County,51175,VA,Virginia,36.7204,-77.1061,18028,3.5,3.9,57965,8.00
+Spotsylvania,Spotsylvania,Spotsylvania County,51177,VA,Virginia,38.185,-77.6561,138493,3.8,3.9,100162,9.00
+Stafford,Stafford,Stafford County,51179,VA,Virginia,38.4207,-77.458,154204,3.6,3.9,116569,9.00
+Staunton,Staunton,Staunton City,51790,VA,Virginia,38.1593,-79.0611,25358,3.8,3.9,54508,9.00
+Suffolk,Suffolk,Suffolk City,51800,VA,Virginia,36.6953,-76.6398,93268,4.4,3.9,78090,8.00
+Surry,Surry,Surry County,51181,VA,Virginia,37.1098,-76.9002,6563,3.8,3.9,61358,10.00
+Sussex,Sussex,Sussex County,51183,VA,Virginia,36.9218,-77.2618,10960,6.5,3.9,54282,9.00
+Tazewell,Tazewell,Tazewell County,51185,VA,Virginia,37.125,-81.5606,40615,5.2,3.9,40728,9.00
+Virginia Beach,Virginia Beach,Virginia Beach City,51810,VA,Virginia,36.7335,-76.0435,457658,3.7,3.9,81364,8.00
+Warren,Warren,Warren County,51187,VA,Virginia,38.9087,-78.2085,40442,3.5,3.9,73546,11.00
+Washington,Washington,Washington County,51191,VA,Virginia,36.7244,-81.9598,53997,3.6,3.9,54223,9.00
+Waynesboro,Waynesboro,Waynesboro City,51820,VA,Virginia,38.0674,-78.9014,22149,4.1,3.9,54106,9.00
+Westmoreland,Westmoreland,Westmoreland County,51193,VA,Virginia,38.112,-76.8042,18324,4.4,3.9,59959,10.00
+Williamsburg,Williamsburg,Williamsburg City,51830,VA,Virginia,37.2693,-76.7076,15299,4.9,3.9,61750,8.00
+Winchester,Winchester,Winchester City,51840,VA,Virginia,39.1735,-78.1746,28194,3.5,3.9,55908,9.00
+Wise,Wise,Wise County,51195,VA,Virginia,36.9752,-82.6212,36531,5.2,3.9,41994,9.00
+Wythe,Wythe,Wythe County,51197,VA,Virginia,36.9171,-81.0787,28347,4,3.9,51206,8.00
+York,York,York County,51199,VA,Virginia,37.2431,-76.5635,69635,3.3,3.9,97500,9.00
+Adams,Adams,Adams County,53001,WA,Washington,46.9834,-118.561,20353,5.5,5.2,"47,867",6.00
+Asotin,Asotin,Asotin County,53003,WA,Washington,46.1918,-117.203,22285,3.7,5.2,"55,564",7.00
+Benton,Benton,Benton County,53005,WA,Washington,46.2398,-119.511,204551,5.6,5.2,"54,958",7.00
+Chelan,Chelan,Chelan County,53007,WA,Washington,47.8692,-120.619,78508,5.3,5.2,"62,792",6.00
+Clallam,Clallam,Clallam County,53009,WA,Washington,48.0493,-123.928,76727,6.5,5.2,"54,894",7.00
+Clark,Clark,Clark County,53011,WA,Washington,45.7792,-122.483,496494,5.5,5.2,"63,427",7.00
+Columbia,Columbia,Columbia County,53013,WA,Washington,46.2975,-117.908,3969,5.2,5.2,"70,579",6.00
+Cowlitz,Cowlitz,Cowlitz County,53015,WA,Washington,46.1932,-122.681,109457,6.4,5.2,"54,550",6.00
+Douglas,Douglas,Douglas County,53017,WA,Washington,47.7361,-119.692,42622,5.5,5.2,"49,290",7.00
+Ferry,Ferry,Ferry County,53019,WA,Washington,48.4703,-118.517,7198,8.9,5.2,"46,847",7.00
+Franklin,Franklin,Franklin County,53021,WA,Washington,46.5347,-118.899,95313,6.6,5.2,"45,937",6.00
+Garfield,Garfield,Garfield County,53023,WA,Washington,46.4316,-117.545,2278,5.8,5.2,"56,792",6.00
+Grant,Grant,Grant County,53025,WA,Washington,47.2057,-119.452,97874,6.6,5.2,"48,845",7.00
+Grays Harbor,Grays Harbor,Grays Harbor County,53027,WA,Washington,47.1503,-123.774,74737,7.8,5.2,"47,094",7.00
+Island,Island,Island County,53029,WA,Washington,48.163,-122.548,85938,5.6,5.2,"65,188",7.00
+Jefferson,Jefferson,Jefferson County,53031,WA,Washington,47.7487,-123.596,32590,6.2,5.2,"60,365",7.00
+King,King,King County,53033,WA,Washington,47.4902,-121.805,2240876,4.3,5.2,"108,212",7.00
+Kitsap,Kitsap,Kitsap County,53035,WA,Washington,47.613,-122.672,273072,5,5.2,"67,845",7.00
+Kittitas,Kittitas,Kittitas County,53037,WA,Washington,47.1244,-120.68,44147,6.3,5.2,"52,846",7.00
+Klickitat,Klickitat,Klickitat County,53039,WA,Washington,45.8738,-120.789,22478,6,5.2,"55,602",7.00
+Lewis,Lewis,Lewis County,53041,WA,Washington,46.5778,-122.393,81214,6.3,5.2,"52,517",7.00
+Lincoln,Lincoln,Lincoln County,53043,WA,Washington,47.5763,-118.419,10798,4.9,5.2,"51,578",6.00
+Mason,Mason,Mason County,53045,WA,Washington,47.3484,-123.193,64964,7,5.2,"52,410",7.00
+Okanogan,Okanogan,Okanogan County,53047,WA,Washington,48.5488,-119.741,41966,6.6,5.2,"50,517",7.00
+Pacific,Pacific,Pacific County,53049,WA,Washington,46.5557,-123.704,22974,7.9,5.2,"46,597",7.00
+Pend Oreille,Pend Oreille,Pend Oreille County,53051,WA,Washington,48.5323,-117.274,13302,7.6,5.2,"51,623",6.00
+Pierce,Pierce,Pierce County,53053,WA,Washington,47.0241,-122.105,910225,6.1,5.2,"61,580",6.00
+San Juan,San Juan,San Juan County,53055,WA,Washington,48.5782,-122.965,17631,5,5.2,"87,038",6.00
+Skagit,Skagit,Skagit County,53057,WA,Washington,48.4794,-121.73,128228,6.3,5.2,"64,093",7.00
+Skamania,Skamania,Skamania County,53059,WA,Washington,46.023,-121.915,11973,6.4,5.2,"58,554",6.00
+Snohomish,Snohomish,Snohomish County,53061,WA,Washington,48.0475,-121.698,820024,5,5.2,"68,858",6.00
+Spokane,Spokane,Spokane County,53063,WA,Washington,47.6207,-117.404,531477,5.4,5.2,"53,770",7.00
+Stevens,Stevens,Stevens County,53065,WA,Washington,48.3991,-117.855,46057,6.7,5.2,"47,613",7.00
+Thurston,Thurston,Thurston County,53067,WA,Washington,46.9258,-122.833,290642,5.2,5.2,"61,062",6.00
+Wahkiakum,Wahkiakum,Wahkiakum County,53069,WA,Washington,46.2918,-123.424,4373,6.6,5.2,"52,239",6.00
+Walla Walla,Walla Walla,Walla Walla County,53071,WA,Washington,46.2298,-118.478,62168,4.6,5.2,"53,845",7.00
+Whatcom,Whatcom,Whatcom County,53073,WA,Washington,48.8259,-121.72,224533,6,5.2,"58,137",6.00
+Whitman,Whitman,Whitman County,53075,WA,Washington,46.9012,-117.523,48197,4.5,5.2,"46,502",6.00
+Yakima,Yakima,Yakima County,53077,WA,Washington,46.4571,-120.739,255151,7,5.2,"50,872",6.00
+Barbour,Barbour,Barbour County,54001,WV,West Virginia,39.133,-80.003,15600,5.3,5,"40,576",7.00
+Berkeley,Berkeley,Berkeley County,54003,WV,West Virginia,39.4641,-78.0275,120460,3.6,5,"49,759",7.00
+Boone,Boone,Boone County,54005,WV,West Virginia,38.023,-81.7112,22059,6.1,5,"41,910",7.00
+Braxton,Braxton,Braxton County,54007,WV,West Virginia,38.6999,-80.7193,12702,6.7,5,"41,547",7.00
+Brooke,Brooke,Brooke County,54009,WV,West Virginia,40.2739,-80.5765,22603,6.1,5,"50,271",7.00
+Cabell,Cabell,Cabell County,54011,WV,West Virginia,38.4203,-82.2417,94622,4.6,5,"49,866",7.00
+Calhoun,Calhoun,Calhoun County,54013,WV,West Virginia,38.8445,-81.1176,6420,10.3,5,"41,444",6.00
+Clay,Clay,Clay County,54015,WV,West Virginia,38.4625,-81.0751,8176,7.7,5,"39,788",7.00
+Doddridge,Doddridge,Doddridge County,54017,WV,West Virginia,39.2692,-80.707,7929,4.1,5,"37,685",7.00
+Fayette,Fayette,Fayette County,54019,WV,West Virginia,38.0288,-81.0812,41056,6.2,5,"44,136",7.00
+Gilmer,Gilmer,Gilmer County,54021,WV,West Virginia,38.9241,-80.8571,7516,6.9,5,"35,405",7.00
+Grant,Grant,Grant County,54023,WV,West Virginia,39.1051,-79.1956,11063,4.5,5,"45,643",7.00
+Greenbrier,Greenbrier,Greenbrier County,54025,WV,West Virginia,37.9469,-80.453,33307,4.5,5,"47,283",6.00
+Hampshire,Hampshire,Hampshire County,54027,WV,West Virginia,39.3171,-78.6141,23214,3.4,5,"43,618",7.00
+Hancock,Hancock,Hancock County,54029,WV,West Virginia,40.5219,-80.5739,29223,6.3,5,"49,823",6.00
+Hardy,Hardy,Hardy County,54031,WV,West Virginia,39.0075,-78.858,14269,4.9,5,"40,562",6.00
+Harrison,Harrison,Harrison County,54033,WV,West Virginia,39.2835,-80.3799,66222,4.7,5,"57,205",6.00
+Jackson,Jackson,Jackson County,54035,WV,West Virginia,38.8345,-81.6748,28011,5.7,5,"45,681",6.00
+Jefferson,Jefferson,Jefferson County,54037,WV,West Virginia,39.3076,-77.8628,57542,3.1,5,"59,214",6.00
+Kanawha,Kanawha,Kanawha County,54039,WV,West Virginia,38.3366,-81.5281,181953,5.2,5,"55,897",6.00
+Lewis,Lewis,Lewis County,54041,WV,West Virginia,38.9959,-80.5022,16966,7,5,"43,341",6.00
+Lincoln,Lincoln,Lincoln County,54043,WV,West Virginia,38.1753,-82.0704,20625,6.6,5,"37,139",6.00
+Logan,Logan,Logan County,54045,WV,West Virginia,37.8315,-81.9353,32786,6.6,5,"43,764",6.00
+Marion,Marion,Marion County,54049,WV,West Virginia,39.51,-80.2434,56256,8.2,5,"34,141",6.00
+Marshall,Marshall,Marshall County,54051,WV,West Virginia,39.8606,-80.6634,30813,5.2,5,"48,343",6.00
+Mason,Mason,Mason County,54053,WV,West Virginia,38.7697,-82.0266,25667,6.2,5,"47,456",6.00
+McDowell,McDowell,McDowell County,54047,WV,West Virginia,37.3785,-81.6536,19334,5.5,5,"42,126",6.00
+Mercer,Mercer,Mercer County,54055,WV,West Virginia,37.4055,-81.1114,59892,6,5,"44,564",6.00
+Mineral,Mineral,Mineral County,54057,WV,West Virginia,39.4147,-78.9438,27045,4.7,5,"48,155",6.00
+Mingo,Mingo,Mingo County,54059,WV,West Virginia,37.7264,-82.1347,23821,9,5,"37,396",6.00
+Monongalia,Monongalia,Monongalia County,54061,WV,West Virginia,39.6303,-80.0466,105695,3.9,5,"52,576",6.00
+Monroe,Monroe,Monroe County,54063,WV,West Virginia,37.5604,-80.5505,12492,3.6,5,"41,207",6.00
+Morgan,Morgan,Morgan County,54065,WV,West Virginia,39.5604,-78.2578,17144,3.5,5,"44,779",6.00
+Nicholas,Nicholas,Nicholas County,54067,WV,West Virginia,38.2917,-80.7993,24770,6,5,"40,915",6.00
+Ohio,Ohio,Ohio County,54069,WV,West Virginia,40.0969,-80.6189,42443,5.1,5,"61,486",6.00
+Pendleton,Pendleton,Pendleton County,54071,WV,West Virginia,38.6807,-79.3509,6249,3,5,"50,144",6.00
+Pleasants,Pleasants,Pleasants County,54073,WV,West Virginia,39.371,-81.1606,7623,7.2,5,"49,077",6.00
+Pocahontas,Pocahontas,Pocahontas County,54075,WV,West Virginia,38.3318,-80.0078,8006,5,5,"50,236",6.00
+Preston,Preston,Preston County,54077,WV,West Virginia,39.4693,-79.6682,34266,4.5,5,"42,091",6.00
+Putnam,Putnam,Putnam County,54079,WV,West Virginia,38.5086,-81.909,57385,4.2,5,"53,536",6.00
+Raleigh,Raleigh,Raleigh County,54081,WV,West Virginia,37.7714,-81.2487,74929,5.2,5,"47,265",6.00
+Randolph,Randolph,Randolph County,54083,WV,West Virginia,38.7747,-79.8758,28150,5.6,5,"45,453",6.00
+Ritchie,Ritchie,Ritchie County,54085,WV,West Virginia,39.1783,-81.063,8676,5.6,5,"52,040",6.00
+Roane,Roane,Roane County,54087,WV,West Virginia,38.714,-81.3483,14129,8.5,5,"39,963",6.00
+Summers,Summers,Summers County,54089,WV,West Virginia,37.6559,-80.8586,12125,4.7,5,"42,796",6.00
+Taylor,Taylor,Taylor County,54091,WV,West Virginia,39.336,-80.0462,16727,4.6,5,"47,328",6.00
+Tucker,Tucker,Tucker County,54093,WV,West Virginia,39.1136,-79.565,6822,5.4,5,"52,251",6.00
+Tyler,Tyler,Tyler County,54095,WV,West Virginia,39.4653,-80.8848,8397,8,5,"47,802",6.00
+Upshur,Upshur,Upshur County,54097,WV,West Virginia,38.8979,-80.2334,23965,6.2,5,"40,187",6.00
+Wayne,Wayne,Wayne County,54099,WV,West Virginia,38.1459,-82.427,39337,5.1,5,"41,080",6.00
+Webster,Webster,Webster County,54101,WV,West Virginia,38.4947,-80.4219,8415,6.2,5,"34,564",6.00
+Wetzel,Wetzel,Wetzel County,54103,WV,West Virginia,39.6053,-80.6391,14629,6.7,5,"43,357",6.00
+Wirt,Wirt,Wirt County,54105,WV,West Virginia,39.0224,-81.3787,5264,7.6,5,"40,858",6.00
+Wood,Wood,Wood County,54107,WV,West Virginia,39.2112,-81.515,84678,5.3,5,"52,329",6.00
+Wyoming,Wyoming,Wyoming County,54109,WV,West Virginia,37.6096,-81.5492,21581,5.8,5,"34,881",6.00
+Adams,Adams,Adams County,55001,WI,Wisconsin,43.9696,-89.7704,20505,6.2,3.8,"46,002",6.00
+Ashland,Ashland,Ashland County,55003,WI,Wisconsin,46.3149,-90.678,16002,5,3.8,"46,418",6.00
+Barron,Barron,Barron County,55005,WI,Wisconsin,45.4237,-91.8483,46529,3.9,3.8,"56,898",6.00
+Bayfield,Bayfield,Bayfield County,55007,WI,Wisconsin,46.5237,-91.2009,16031,5.7,3.8,"53,902",6.00
+Brown,Brown,Brown County,55009,WI,Wisconsin,44.4525,-88.0037,267364,3.4,3.8,"59,279",6.00
+Buffalo,Buffalo,Buffalo County,55011,WI,Wisconsin,44.3798,-91.7545,13314,4.2,3.8,"53,031",6.00
+Burnett,Burnett,Burnett County,55013,WI,Wisconsin,45.8627,-92.3676,16356,5.3,3.8,"49,108",6.00
+Calumet,Calumet,Calumet County,55015,WI,Wisconsin,44.0816,-88.2181,52128,2.8,3.8,"57,182",6.00
+Chippewa,Chippewa,Chippewa County,55017,WI,Wisconsin,45.0694,-91.2799,65877,3.9,3.8,"53,415",6.00
+Clark,Clark,Clark County,55019,WI,Wisconsin,44.7347,-90.6121,34655,3.2,3.8,"50,128",6.00
+Columbia,Columbia,Columbia County,55021,WI,Wisconsin,43.4666,-89.3337,58219,3.4,3.8,"60,708",6.00
+Crawford,Crawford,Crawford County,55023,WI,Wisconsin,43.2395,-90.931,16167,4.4,3.8,"49,273",6.00
+Dane,Dane,Dane County,55025,WI,Wisconsin,43.0673,-89.4181,555474,2.8,3.8,"71,062",6.00
+Dodge,Dodge,Dodge County,55027,WI,Wisconsin,43.4163,-88.7075,89274,3.2,3.8,"51,287",6.00
+Door,Door,Door County,55029,WI,Wisconsin,44.9473,-87.3135,29713,4.4,3.8,"68,172",6.00
+Douglas,Douglas,Douglas County,55031,WI,Wisconsin,46.4329,-91.9162,44034,4.4,3.8,"49,872",6.00
+Dunn,Dunn,Dunn County,55033,WI,Wisconsin,44.9466,-91.8964,45254,3.6,3.8,"47,673",7.00
+Eau Claire,Eau Claire,Eau Claire County,55035,WI,Wisconsin,44.7268,-91.286,105206,3.2,3.8,"55,693",6.00
+Florence,Florence,Florence County,55037,WI,Wisconsin,45.8485,-88.3981,4542,4.8,3.8,"64,600",6.00
+Fond du Lac,Fond du Lac,Fond du Lac County,55039,WI,Wisconsin,43.7536,-88.4883,103890,3.2,3.8,"56,378",6.00
+Forest,Forest,Forest County,55041,WI,Wisconsin,45.6673,-88.7704,9184,6.7,3.8,"46,139",6.00
+Grant,Grant,Grant County,55043,WI,Wisconsin,42.8675,-90.7062,52210,3,3.8,"51,761",6.00
+Green,Green,Green County,55045,WI,Wisconsin,42.68,-89.6022,37098,3,3.8,"60,240",6.00
+Green Lake,Green Lake,Green Lake County,55047,WI,Wisconsin,43.8004,-89.0449,18990,4.3,3.8,"49,311",6.00
+Iowa,Iowa,Iowa County,55049,WI,Wisconsin,43.0005,-90.1354,23715,3.4,3.8,"57,445",6.00
+Iron,Iron,Iron County,55051,WI,Wisconsin,46.2623,-90.242,6074,6.4,3.8,"52,673",6.00
+Jackson,Jackson,Jackson County,55053,WI,Wisconsin,44.3192,-90.8053,21004,5.2,3.8,"49,697",6.00
+Jefferson,Jefferson,Jefferson County,55055,WI,Wisconsin,43.0208,-88.7759,84808,3.3,3.8,"53,863",6.00
+Juneau,Juneau,Juneau County,55057,WI,Wisconsin,43.9246,-90.1138,26595,4.3,3.8,"46,040",6.00
+Kenosha,Kenosha,Kenosha County,55059,WI,Wisconsin,42.5769,-88.0424,168743,4.3,3.8,"57,085",6.00
+Kewaunee,Kewaunee,Kewaunee County,55061,WI,Wisconsin,44.5161,-87.6153,20535,2.8,3.8,"54,422",6.00
+La Crosse,La Crosse,La Crosse County,55063,WI,Wisconsin,43.9066,-91.1152,120291,3,3.8,"58,301",6.00
+Lafayette,Lafayette,Lafayette County,55065,WI,Wisconsin,42.6605,-90.1317,16662,2.6,3.8,"52,194",6.00
+Langlade,Langlade,Langlade County,55067,WI,Wisconsin,45.2623,-89.0719,19469,4.5,3.8,"51,008",6.00
+Lincoln,Lincoln,Lincoln County,55069,WI,Wisconsin,45.3374,-89.7346,28378,3.7,3.8,"51,407",5.00
+Manitowoc,Manitowoc,Manitowoc County,55071,WI,Wisconsin,44.1199,-87.8097,81103,3.4,3.8,"53,085",6.00
+Marathon,Marathon,Marathon County,55073,WI,Wisconsin,44.8983,-89.7591,137597,3,3.8,"58,096",6.00
+Marinette,Marinette,Marinette County,55075,WI,Wisconsin,45.3833,-88.0337,41720,4.4,3.8,"51,265",6.00
+Marquette,Marquette,Marquette County,55077,WI,Wisconsin,43.8196,-89.3987,15515,4.4,3.8,"47,885",6.00
+Menominee,Menominee,Menominee County,55078,WI,Wisconsin,45.0044,-88.71,4318,8.6,3.8,"43,212",6.00
+Milwaukee,Milwaukee,Milwaukee County,55079,WI,Wisconsin,43.0072,-87.9669,939123,5.4,3.8,"55,927",6.00
+Monroe,Monroe,Monroe County,55081,WI,Wisconsin,43.9458,-90.6178,46091,3.2,3.8,"49,000",6.00
+Oconto,Oconto,Oconto County,55083,WI,Wisconsin,45.0264,-88.2697,38691,3.7,3.8,"53,114",5.00
+Oneida,Oneida,Oneida County,55085,WI,Wisconsin,45.7055,-89.5218,37468,4.3,3.8,"55,861",6.00
+Outagamie,Outagamie,Outagamie County,55087,WI,Wisconsin,44.4161,-88.4649,189620,3.1,3.8,"58,622",5.00
+Ozaukee,Ozaukee,Ozaukee County,55089,WI,Wisconsin,43.384,-87.9509,91029,3.1,3.8,"92,719",6.00
+Pepin,Pepin,Pepin County,55091,WI,Wisconsin,44.5829,-92.0015,7328,3.4,3.8,"57,620",6.00
+Pierce,Pierce,Pierce County,55093,WI,Wisconsin,44.7194,-92.4224,42204,3.4,3.8,"54,429",6.00
+Polk,Polk,Polk County,55095,WI,Wisconsin,45.4614,-92.4414,44806,4.2,3.8,"52,885",6.00
+Portage,Portage,Portage County,55097,WI,Wisconsin,44.476,-89.5014,70378,3.5,3.8,"53,435",6.00
+Price,Price,Price County,55099,WI,Wisconsin,45.6804,-90.3614,14003,4.2,3.8,"51,148",4.00
+Racine,Racine,Racine County,55101,WI,Wisconsin,42.7475,-88.0613,197379,4.7,3.8,"56,884",6.00
+Richland,Richland,Richland County,55103,WI,Wisconsin,43.3756,-90.4295,17353,3.5,3.8,"50,749",8.00
+Rock,Rock,Rock County,55105,WI,Wisconsin,42.6712,-89.0716,163522,4.4,3.8,"52,787",5.00
+Rusk,Rusk,Rusk County,55107,WI,Wisconsin,45.4751,-91.1332,14182,4.4,3.8,"51,844",6.00
+Sauk,Sauk,Sauk County,55111,WI,Wisconsin,43.4267,-89.9482,65428,3.4,3.8,"63,800",6.00
+Sawyer,Sawyer,Sawyer County,55113,WI,Wisconsin,45.88,-91.1445,17813,4,3.8,"60,631",
+Shawano,Shawano,Shawano County,55115,WI,Wisconsin,44.7891,-88.7654,40836,5.1,3.8,"50,445",
+Sheboygan,Sheboygan,Sheboygan County,55117,WI,Wisconsin,43.7212,-87.9454,117528,3.7,3.8,"49,746",
+St. Croix,St. Croix,St. Croix County,55109,WI,Wisconsin,45.034,-92.4526,92495,3.1,3.8,"58,425",
+Taylor,Taylor,Taylor County,55119,WI,Wisconsin,45.2116,-90.5012,19960,3.3,3.8,"49,783",
+Trempealeau,Trempealeau,Trempealeau County,55121,WI,Wisconsin,44.304,-91.3585,30504,3.7,3.8,"49,712",
+Vernon,Vernon,Vernon County,55123,WI,Wisconsin,43.5939,-90.8344,30719,3.2,3.8,"49,116",
+Vilas,Vilas,Vilas County,55125,WI,Wisconsin,46.0529,-89.5148,22813,4.7,3.8,"56,041",
+Walworth,Walworth,Walworth County,55127,WI,Wisconsin,42.6685,-88.5419,105945,3.6,3.8,"58,208",
+Washburn,Washburn,Washburn County,55129,WI,Wisconsin,45.8992,-91.7912,16561,4.5,3.8,"53,835",
+Washington,Washington,Washington County,55131,WI,Wisconsin,43.3685,-88.2307,136300,3.1,3.8,"66,103",
+Waukesha,Waukesha,Waukesha County,55133,WI,Wisconsin,43.0182,-88.3045,405332,3.1,3.8,"82,032",
+Waupaca,Waupaca,Waupaca County,55135,WI,Wisconsin,44.4705,-88.9648,51769,3.5,3.8,"52,622",
+Waushara,Waushara,Waushara County,55137,WI,Wisconsin,44.1131,-89.2429,24527,4.2,3.8,"46,929",
+Winnebago,Winnebago,Winnebago County,55139,WI,Wisconsin,44.0689,-88.6446,171304,3.2,3.8,"55,202",
+Wood,Wood,Wood County,55141,WI,Wisconsin,44.4553,-90.0416,74107,4.4,3.8,"53,122",
+Albany,Albany,Albany County,56001,WY,Wyoming,41.6545,-105.724,37311,3.3,4.5,"48,528",
+Big Horn,Big Horn,Big Horn County,56003,WY,Wyoming,44.5267,-107.995,11671,4.4,4.5,"47,259",
+Campbell,Campbell,Campbell County,56005,WY,Wyoming,44.2482,-105.548,46758,5.3,4.5,"56,008",
+Carbon,Carbon,Carbon County,56007,WY,Wyoming,41.6944,-106.931,14714,3.9,4.5,"64,804",
+Converse,Converse,Converse County,56009,WY,Wyoming,42.9723,-105.507,13702,4.9,4.5,"69,583",
+Crook,Crook,Crook County,56011,WY,Wyoming,44.5885,-104.57,7185,3.4,4.5,"51,825",
+Fremont,Fremont,Fremont County,56013,WY,Wyoming,43.0405,-108.63,39434,4.7,4.5,"51,452",
+Goshen,Goshen,Goshen County,56015,WY,Wyoming,42.0879,-104.353,12642,3.5,4.5,"50,633",
+Hot Springs,Hot Springs,Hot Springs County,56017,WY,Wyoming,43.719,-108.442,4673,3.9,4.5,"78,817",
+Johnson,Johnson,Johnson County,56019,WY,Wyoming,44.0388,-106.585,8457,4.1,4.5,"61,294",
+Laramie,Laramie,Laramie County,56021,WY,Wyoming,41.307,-104.69,99905,4,4.5,"58,646",
+Lincoln,Lincoln,Lincoln County,56023,WY,Wyoming,42.264,-110.656,19457,3.8,4.5,"61,945",
+Natrona,Natrona,Natrona County,56025,WY,Wyoming,42.9621,-106.799,79382,6.1,4.5,"70,175",
+Niobrara,Niobrara,Niobrara County,56027,WY,Wyoming,43.0564,-104.475,2486,3.6,4.5,"53,797",
+Park,Park,Park County,56029,WY,Wyoming,44.5205,-109.588,29664,4.1,4.5,"65,944",
+Platte,Platte,Platte County,56031,WY,Wyoming,42.1331,-104.966,8607,4,4.5,"53,368",
+Sheridan,Sheridan,Sheridan County,56033,WY,Wyoming,44.79,-106.879,30812,4.2,4.5,"64,449",
+Sublette,Sublette,Sublette County,56035,WY,Wyoming,42.7669,-109.915,8830,5.6,4.5,"65,620",
+Sweetwater,Sweetwater,Sweetwater County,56037,WY,Wyoming,41.6595,-108.88,42459,5.6,4.5,"56,934",
+Teton,Teton,Teton County,56039,WY,Wyoming,43.9346,-110.59,23319,3.2,4.5,"318,297",
+Uinta,Uinta,Uinta County,56041,WY,Wyoming,41.2876,-110.548,20514,5,4.5,"44,157",
+Washakie,Washakie,Washakie County,56043,WY,Wyoming,43.905,-107.683,7768,4,4.5,"60,235",
+Weston,Weston,Weston County,56045,WY,Wyoming,43.8404,-104.568,6891,3.2,4.5,"49,526",

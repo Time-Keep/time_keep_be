@@ -29,6 +29,7 @@ ActiveRecord::Schema.define(version: 2023_04_25_213802) do
     t.string "state_unemployment"
     t.string "county_median_income"
     t.string "tax_rate"
+    t.integer "establishment_count", default: 0
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end

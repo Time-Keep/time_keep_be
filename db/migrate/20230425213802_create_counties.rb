@@ -14,6 +14,7 @@ class CreateCounties < ActiveRecord::Migration[5.2]
       t.string :state_unemployment
       t.string :county_median_income
       t.string :tax_rate
+      t.integer :establishment_count, default: 0
 
       t.timestamps
     end

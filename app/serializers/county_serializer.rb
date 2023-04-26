@@ -3,9 +3,9 @@ class CountySerializer
         {
             "counties": data.map do |x|
                 {
-                    "name": x[:state_name],
+                    "state": x[:state_name],
                     "counties": {
-                        "name": x[:county],
+                        "county_name": x[:county],
                         "average_wage": x[:county_median_income],
                         "median_income": x[:county_median_income],
                         "unemployment": x[:county_unemployment_rate],

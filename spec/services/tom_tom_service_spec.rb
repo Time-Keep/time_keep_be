@@ -1,11 +1,15 @@
 require 'rails_helper'
 
-RSpec.describe TomTomService do
+RSpec.describe TomTomService, :vcr do
   describe 'jewelry_estabs' do
-    it 'retrieves json of the jewelry establishments by coordinates', :vcr do
+    it 'returns jewelry establishments for coordinates' do
       lat = '33.2896'
       lon = '-87.5251'
-      expect(TomTomService.jewelry_estabs(lat,lon)).to eq(12)
+      response = TomTomService.jewelry_estabs(lat, lon)
+
+      expect(response.keys).to eq([:summary, :results])
+      expect(response[:summary]).to have_key(:totalResults)
+      expect(response[:summary][:totalResults]).to eq(12)
     end
   end
 end

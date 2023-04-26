@@ -8,7 +8,7 @@ class CreateCounties < ActiveRecord::Migration[5.2]
       t.string :state_id
       t.string :state_name
       t.string :lat
-      t.string :lng
+      t.string :lon
       t.string :population
       t.string :county_unemployment_rate
       t.string :state_unemployment

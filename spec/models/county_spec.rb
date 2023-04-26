@@ -9,7 +9,7 @@ RSpec.describe County, type: :model do
     it { should validate_presence_of(:state_id) }
     it { should validate_presence_of(:state_name) }
     it { should validate_presence_of(:lat) }
-    it { should validate_presence_of(:lng) }
+    it { should validate_presence_of(:lon) }
     it { should validate_presence_of(:population) }
     it { should validate_presence_of(:county_unemployment_rate) }
     it { should validate_presence_of(:state_unemployment) }

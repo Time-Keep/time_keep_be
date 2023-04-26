@@ -6,7 +6,7 @@ class County < ApplicationRecord
         :state_id,
         :state_name,
         :lat,
-        :lng,
+        :lon,
         :population,
         :county_unemployment_rate,
         :state_unemployment,

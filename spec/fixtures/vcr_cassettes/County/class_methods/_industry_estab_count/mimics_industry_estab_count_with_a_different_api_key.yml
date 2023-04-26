@@ -104,4 +104,44 @@ http_interactions:
         States","countryCodeISO3":"USA","freeformAddress":"2111 University Boulevard,
         Tuscaloosa, AL 35401","localName":"Tuscaloosa"},"position":{"lat":33.21075,"lon":-87.56446},"viewport":{"topLeftPoint":{"lat":33.21165,"lon":-87.56553},"btmRightPoint":{"lat":33.20985,"lon":-87.56339}},"entryPoints":[{"type":"main","position":{"lat":33.21085,"lon":-87.56443}}]}]}'
   recorded_at: Wed, 26 Apr 2023 18:46:02 GMT
+- request:
+    method: get
+    uri: https://api.tomtom.com/search/2/nearbySearch/.json?categorySet=9361036&country=US&key&lat=33.2896&lon=-87.5251
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v2.7.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 403
+      message: Forbidden
+    headers:
+      Content-Type:
+      - text/xml
+      Tracking-Id:
+      - 898b28e4-1ae4-45a6-a13f-fb7979546641
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Error-Detail-Header:
+      - Account Inactive
+      Content-Length:
+      - '27'
+      X-Envoy-Upstream-Service-Time:
+      - '1'
+      Date:
+      - Wed, 26 Apr 2023 19:35:51 GMT
+      Server:
+      - tomtom
+      X-Tomtom-Processed-By:
+      - eastus
+    body:
+      encoding: UTF-8
+      string: "<h1>Developer Inactive</h1>"
+  recorded_at: Wed, 26 Apr 2023 19:35:51 GMT
 recorded_with: VCR 6.1.0

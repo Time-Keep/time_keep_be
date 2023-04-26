@@ -1,4 +1,4 @@
-county,county_ascii,county_full,county_fips,state_id,state_name,lat,lng,population,county_unemployment_rate,state_unemployment,county_median_income,tax_rate
+county,county_ascii,county_full,county_fips,state_id,state_name,lat,lon,population,county_unemployment_rate,state_unemployment,county_median_income,tax_rate
 Autauga,Autauga,Autauga County,1001,AL,Alabama,32.5349,-86.6427,58239,2.8,3.4,"48,347",0.28
 Baldwin,Baldwin,Baldwin County,1003,AL,Alabama,30.7276,-87.7226,227131,3,3.4,"54,659",0.34
 Barbour,Barbour,Barbour County,1005,AL,Alabama,31.8696,-85.3932,25259,5.7,3.4,"40,428",0.34

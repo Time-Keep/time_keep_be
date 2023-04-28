@@ -12,7 +12,9 @@ RSpec.describe CensusService, :vcr do
         expect(result[1].to_i).to be_an Integer
         expect(result[2].to_i).to be_an Integer
         expect(result[3]).to be_a String
+        expect(result[4]).to eq('339910')
         expect(result[4].to_i).to be_an Integer
+        expect(result[4].to_i).to eq(339910)
         expect(result[5].to_i).to be_an Integer
       end
     end

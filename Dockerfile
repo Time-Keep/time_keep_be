@@ -33,5 +33,5 @@ RUN npm install
 RUN bundle install
 
 ENTRYPOINT [ "bin/rails" ]
-EXPOSE 3000
-CMD ["s", "-b", "0.0.0.0"]
+EXPOSE 3001
+CMD ["s", "-b", "0.0.0.0","-p", "3001"]

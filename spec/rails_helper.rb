@@ -76,6 +76,7 @@ VCR.configure do |config|
   config.filter_sensitive_data('app_key') { ENV['tom_tom_api_key'] }
   config.filter_sensitive_data('app_key') { ENV['tom_tom_api_key2'] }
   config.filter_sensitive_data('census_key') { ENV['CENSUS_KEY'] }
+  config.filter_sensitive_data('app_key') { ENV['ATTOM_KEY'] }
   config.default_cassette_options = { record: :new_episodes }
   config.configure_rspec_metadata!
   config.allow_http_connections_when_no_cassette = true

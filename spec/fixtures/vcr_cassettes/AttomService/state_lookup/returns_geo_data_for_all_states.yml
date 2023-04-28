@@ -1,0 +1,300 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.gateway.attomdata.com/v4/area/state/lookup?apikey=app_key
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v2.7.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 401
+      message: Unauthorized
+    headers:
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json
+      Request-Context:
+      - appId=cid-v1:7dd6a845-9f7f-4079-af3a-cb0496df36e3
+      Strict-Transport-Security:
+      - max-age=2592000
+      X-Cache:
+      - CONFIG_NOCACHE
+      X-Azure-Ref:
+      - 0myhLZAAAAAA5krElPGNAQpo/NBFwZ3vbREVOMzAxMDAwMTA5MDUxADlhY2U2ODBhLWZlM2YtNDQzNS1hZWY2LWMyM2M1OWI0MjlhNQ==
+      Date:
+      - Fri, 28 Apr 2023 01:59:55 GMT
+    body:
+      encoding: UTF-8
+      string: '{"Response":{"status":{"version": "1.0.0","code": "401","msg": "Unauthorized","total":
+        "0","page": "0","pagesize": "0"}}}'
+  recorded_at: Fri, 28 Apr 2023 01:59:56 GMT
+- request:
+    method: get
+    uri: https://api.gateway.attomdata.com/v4/area/state/lookup?apikey=app_key
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v2.7.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 401
+      message: Unauthorized
+    headers:
+      Date:
+      - Fri, 28 Apr 2023 02:00:16 GMT
+      Content-Type:
+      - application/json
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Request-Context:
+      - appId=cid-v1:7dd6a845-9f7f-4079-af3a-cb0496df36e3
+      Strict-Transport-Security:
+      - max-age=2592000
+      X-Azure-Ref:
+      - 20230428T020016Z-y8nbfkd1394pd7dk0zhw18p3ps00000004yg000000000p3r
+      X-Cache:
+      - CONFIG_NOCACHE
+    body:
+      encoding: UTF-8
+      string: '{"Response":{"status":{"version": "1.0.0","code": "401","msg": "Unauthorized","total":
+        "0","page": "0","pagesize": "0"}}}'
+  recorded_at: Fri, 28 Apr 2023 02:00:16 GMT
+- request:
+    method: get
+    uri: https://api.gateway.attomdata.com/v4/area/state/lookup
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Apikey:
+      - app_key
+      User-Agent:
+      - Faraday v2.7.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 401
+      message: Unauthorized
+    headers:
+      Date:
+      - Fri, 28 Apr 2023 02:00:57 GMT
+      Content-Type:
+      - application/json
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Request-Context:
+      - appId=cid-v1:7dd6a845-9f7f-4079-af3a-cb0496df36e3
+      Strict-Transport-Security:
+      - max-age=2592000
+      X-Azure-Ref:
+      - 20230428T020057Z-4q2ykd5v0t4756rxx9w7mwqywn00000004z000000000x27e
+      X-Cache:
+      - CONFIG_NOCACHE
+    body:
+      encoding: UTF-8
+      string: '{"Response":{"status":{"version": "1.0.0","code": "401","msg": "Unauthorized","total":
+        "0","page": "0","pagesize": "0"}}}'
+  recorded_at: Fri, 28 Apr 2023 02:00:57 GMT
+- request:
+    method: get
+    uri: https://api.gateway.attomdata.com/v4/area/state/lookup?apikey=app_key
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v2.7.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 401
+      message: Unauthorized
+    headers:
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json
+      Request-Context:
+      - appId=cid-v1:7dd6a845-9f7f-4079-af3a-cb0496df36e3
+      Strict-Transport-Security:
+      - max-age=2592000
+      X-Cache:
+      - CONFIG_NOCACHE
+      X-Azure-Ref:
+      - 0XDJLZAAAAAAYjwa9WiaFQ7RuajaLxXVMREVOMzAxMDAwMTA5MDIzADlhY2U2ODBhLWZlM2YtNDQzNS1hZWY2LWMyM2M1OWI0MjlhNQ==
+      Date:
+      - Fri, 28 Apr 2023 02:41:32 GMT
+    body:
+      encoding: UTF-8
+      string: '{"Response":{"status":{"version": "1.0.0","code": "401","msg": "Unauthorized","total":
+        "0","page": "0","pagesize": "0"}}}'
+  recorded_at: Fri, 28 Apr 2023 02:41:32 GMT
+- request:
+    method: get
+    uri: https://api.gateway.attomdata.com/areaapi/v2.0.0/state/lookup
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Apikey:
+      - app_key
+      User-Agent:
+      - Faraday v2.7.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 401
+      message: Unauthorized
+    headers:
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json
+      Request-Context:
+      - appId=cid-v1:7dd6a845-9f7f-4079-af3a-cb0496df36e3
+      Strict-Transport-Security:
+      - max-age=2592000
+      X-Cache:
+      - CONFIG_NOCACHE
+      X-Azure-Ref:
+      - 0UTRLZAAAAACLK/eYShSVRLyJ1u+olbGeREVOMzAxMDAwMTA5MDM3ADlhY2U2ODBhLWZlM2YtNDQzNS1hZWY2LWMyM2M1OWI0MjlhNQ==
+      Date:
+      - Fri, 28 Apr 2023 02:49:53 GMT
+    body:
+      encoding: UTF-8
+      string: '{"Response":{"status":{"version": "1.0.0","code": "401","msg": "Unauthorized","total":
+        "0","page": "0","pagesize": "0"}}}'
+  recorded_at: Fri, 28 Apr 2023 02:49:54 GMT
+- request:
+    method: get
+    uri: https://api.gateway.attomdata.com/areaapi/v2.0.0/county/lookup?StateId=ST36
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Apikey:
+      - app_key
+      User-Agent:
+      - Faraday v2.7.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+      Request-Context:
+      - appId=cid-v1:7dd6a845-9f7f-4079-af3a-cb0496df36e3
+      Strict-Transport-Security:
+      - max-age=2592000
+      X-Cache:
+      - CONFIG_NOCACHE
+      X-Azure-Ref:
+      - 0fjRLZAAAAACalcO1x1TMRbp0q5LSMfipREVOMzAxMDAwMTA5MDQ3ADlhY2U2ODBhLWZlM2YtNDQzNS1hZWY2LWMyM2M1OWI0MjlhNQ==
+      Date:
+      - Fri, 28 Apr 2023 02:50:49 GMT
+    body:
+      encoding: UTF-8
+      string: '{"response":{"inputparameter":{"StateId":"ST36","page":"1","pageSize":"200","mime":"json","package":"Lookup","resource":"County","service":"Area"},"result":{"package":{"description":"This
+        lookup returns all the Counties that are in a particular state. The State
+        ID is required. The two-digit FIPS code or the two-letter abbreviation can
+        be used for the State ID.","item":[{"type":"CO","geoIdV4":"c92b20d9ac51365b22857a5e3e292c25","geo_id":"CO36001","geo_key":"CO36001","name":"Albany","area":"532.41360489463","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.614825","geo_center_longitude":"-73.978456229"},{"type":"CO","geoIdV4":"3f65c91aa8da4a37078f83b2da9b9cb5","geo_id":"CO36003","geo_key":"CO36003","name":"Allegany","area":"1032.81047491424","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.2590545","geo_center_longitude":"-78.023570781"},{"type":"CO","geoIdV4":"3454af0f86ffa06c7e7ec05811857e09","geo_id":"CO36005","geo_key":"CO36005","name":"Bronx","area":"57.2974423298149","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"40.851462","geo_center_longitude":"-73.839475065"},{"type":"CO","geoIdV4":"ee196b1bb80e227ddc3927758ff590d1","geo_id":"CO36007","geo_key":"CO36007","name":"Broome","area":"714.215267117332","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.2061435","geo_center_longitude":"-75.861271671"},{"type":"CO","geoIdV4":"824a65e73c32be7553050a5ec595a0cd","geo_id":"CO36009","geo_key":"CO36009","name":"Cattaraugus","area":"1320.27095427055","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.2705365","geo_center_longitude":"-78.68484137"},{"type":"CO","geoIdV4":"3d69f10bd9394046a60b96f5606ff74b","geo_id":"CO36011","geo_key":"CO36011","name":"Cayuga","area":"862.138455950538","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"43.1632405","geo_center_longitude":"-76.591044991"},{"type":"CO","geoIdV4":"a0551355282bb9ca1cef05fcf6d1a9cc","geo_id":"CO36013","geo_key":"CO36013","name":"Chautauqua","area":"1497.80017357404","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.3403695","geo_center_longitude":"-79.411513582"},{"type":"CO","geoIdV4":"92a82e5d797ceec15763bda93a4b25b8","geo_id":"CO36015","geo_key":"CO36015","name":"Chemung","area":"410.119804233386","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.1470905","geo_center_longitude":"-76.762381177"},{"type":"CO","geoIdV4":"0bb0e1ab71f30cf178302ec87119b6a1","geo_id":"CO36017","geo_key":"CO36017","name":"Chenango","area":"897.155714141535","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.4705725","geo_center_longitude":"-75.634781947"},{"type":"CO","geoIdV4":"a3bd02c58f44fc83051f80f2ec41acb1","geo_id":"CO36019","geo_key":"CO36019","name":"Clinton","area":"1115.09157121367","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"44.7198745","geo_center_longitude":"-73.676727023"},{"type":"CO","geoIdV4":"db3de37edc14efbbc6a4b3700bb2b247","geo_id":"CO36021","geo_key":"CO36021","name":"Columbia","area":"647.177779978694","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.2434185","geo_center_longitude":"-73.642091322"},{"type":"CO","geoIdV4":"725dceab2cf915865c5c6c3ffd806b08","geo_id":"CO36023","geo_key":"CO36023","name":"Cortland","area":"500.684469411835","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.60023","geo_center_longitude":"-76.071723145"},{"type":"CO","geoIdV4":"dc41ee3f55bee05d89a3c92cdb66bb72","geo_id":"CO36025","geo_key":"CO36025","name":"Delaware","area":"1465.06344145405","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.1826495","geo_center_longitude":"-74.953068365"},{"type":"CO","geoIdV4":"2f8c4f71689e233d5652c4242fc3eef8","geo_id":"CO36027","geo_key":"CO36027","name":"Dutchess","area":"824.081324376243","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"41.759364","geo_center_longitude":"-73.726975036"},{"type":"CO","geoIdV4":"2224f33e395c29c5d2c36a9c9145d6f0","geo_id":"CO36029","geo_key":"CO36029","name":"Erie","area":"1224.76778727545","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.7667705","geo_center_longitude":"-78.781660962"},{"type":"CO","geoIdV4":"1f6593757857ac0ee9ba59b0e094d8fc","geo_id":"CO36031","geo_key":"CO36031","name":"Essex","area":"1912.3949678243","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"44.145964","geo_center_longitude":"-73.748784924"},{"type":"CO","geoIdV4":"5ffdac4eb79216bb632db541992c97b7","geo_id":"CO36033","geo_key":"CO36033","name":"Franklin","area":"1693.87315433526","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"44.5567955","geo_center_longitude":"-74.256435155"},{"type":"CO","geoIdV4":"7ee2e795d1157bbe93208edb7037a0a2","geo_id":"CO36035","geo_key":"CO36035","name":"Fulton","area":"531.928013453463","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"43.135699","geo_center_longitude":"-74.426858479"},{"type":"CO","geoIdV4":"0b2cb3368f24a6417fa544c195a6fd31","geo_id":"CO36037","geo_key":"CO36037","name":"Genesee","area":"494.437171532502","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"43.000057","geo_center_longitude":"-78.186471271"},{"type":"CO","geoIdV4":"eb120b3703e26f0558a97c8674a36239","geo_id":"CO36039","geo_key":"CO36039","name":"Greene","area":"657.003703836423","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.27998","geo_center_longitude":"-74.131817402"},{"type":"CO","geoIdV4":"930f14b526f82046c9e062c1b9b8ccc6","geo_id":"CO36041","geo_key":"CO36041","name":"Hamilton","area":"1804.34664237081","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"43.668206","geo_center_longitude":"-74.50251873"},{"type":"CO","geoIdV4":"b645aef101f92e700104c1cc8d006207","geo_id":"CO36043","geo_key":"CO36043","name":"Herkimer","area":"1454.35175220433","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"43.4607515","geo_center_longitude":"-74.942236596"},{"type":"CO","geoIdV4":"4c943c47f72f26b2e91fccae0a253f21","geo_id":"CO36045","geo_key":"CO36045","name":"Jefferson","area":"1852.85875690738","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"44.035389","geo_center_longitude":"-75.988701854"},{"type":"CO","geoIdV4":"d2680bc8ce55ba7b4ebbbfd38664f5fc","geo_id":"CO36047","geo_key":"CO36047","name":"Kings","area":"96.7340213576239","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"40.6463595","geo_center_longitude":"-73.955779429"},{"type":"CO","geoIdV4":"2321f1a4afc426a8b682432acf40640c","geo_id":"CO36049","geo_key":"CO36049","name":"Lewis","area":"1289.2641997211","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"43.818902","geo_center_longitude":"-75.491316882"},{"type":"CO","geoIdV4":"04fccc882cbe5df26f424f6d5aed3129","geo_id":"CO36051","geo_key":"CO36051","name":"Livingston","area":"639.17235955747","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.729831","geo_center_longitude":"-77.781343767"},{"type":"CO","geoIdV4":"462a0096a6cfe70f54f0445ec8d21ac5","geo_id":"CO36053","geo_key":"CO36053","name":"Madison","area":"660.14507856746","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.9543915","geo_center_longitude":"-75.726467807"},{"type":"CO","geoIdV4":"91d897042b90bd525fc15a0e24ee084c","geo_id":"CO36055","geo_key":"CO36055","name":"Monroe","area":"1364.18326809826","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"43.2859585","geo_center_longitude":"-77.685822986"},{"type":"CO","geoIdV4":"620883b1d64855be513bbf3ad25e53c3","geo_id":"CO36057","geo_key":"CO36057","name":"Montgomery","area":"409.585398413749","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.9098735","geo_center_longitude":"-74.420114072"},{"type":"CO","geoIdV4":"cac5134ad4a9ecf6a53cb36eab19605f","geo_id":"CO36059","geo_key":"CO36059","name":"Nassau","area":"452.822803212417","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"40.7542265","geo_center_longitude":"-73.57176597"},{"type":"CO","geoIdV4":"760ad60f6671cbf0429ae9806042b545","geo_id":"CO36061","geo_key":"CO36061","name":"New
+        York","area":"33.8169515824682","area_unit":"sq. mi.","community_data_available":"1","geo_center_latitude":"40.7813005","geo_center_longitude":"-73.959118383"},{"type":"CO","geoIdV4":"139c9a29090aa7c940d2bfb914bb9361","geo_id":"CO36063","geo_key":"CO36063","name":"Niagara","area":"1137.57709001163","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"43.3267595","geo_center_longitude":"-78.790666993"},{"type":"CO","geoIdV4":"43d3936c1e8fd8394afb1169f30d78a5","geo_id":"CO36065","geo_key":"CO36065","name":"Oneida","area":"1255.47283183631","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"43.239502","geo_center_longitude":"-75.496152952"},{"type":"CO","geoIdV4":"3033a3feb608c71bfb8b74e9a92ec211","geo_id":"CO36067","geo_key":"CO36067","name":"Onondaga","area":"804.199847077066","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"43.0216785","geo_center_longitude":"-76.202830471"},{"type":"CO","geoIdV4":"7c1613a08b1a38409dfe7913ab4c64ed","geo_id":"CO36069","geo_key":"CO36069","name":"Ontario","area":"661.409367677242","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.807914","geo_center_longitude":"-77.282122808"},{"type":"CO","geoIdV4":"adb703badde8cdceb26b3e98788d611e","geo_id":"CO36071","geo_key":"CO36071","name":"Orange","area":"837.15272120833","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"41.38812","geo_center_longitude":"-74.331319995"},{"type":"CO","geoIdV4":"32b7da6e370b306e12af0b0051db39ad","geo_id":"CO36073","geo_key":"CO36073","name":"Orleans","area":"815.905216006295","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"43.3830125","geo_center_longitude":"-78.230089341"},{"type":"CO","geoIdV4":"15b1432a7438d485dde1fd43b9d0fc0c","geo_id":"CO36075","geo_key":"CO36075","name":"Oswego","area":"1309.5792682412","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"43.432939","geo_center_longitude":"-76.227954844"},{"type":"CO","geoIdV4":"d898523e0e11dedb0c889ffe6f343431","geo_id":"CO36077","geo_key":"CO36077","name":"Otsego","area":"1014.05829941182","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.610958","geo_center_longitude":"-74.989933322"},{"type":"CO","geoIdV4":"334a497cfc325793e19d97d3cd089042","geo_id":"CO36079","geo_key":"CO36079","name":"Putnam","area":"245.828185745614","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"41.4243085","geo_center_longitude":"-73.755700156"},{"type":"CO","geoIdV4":"32b9c686fd0073cc03ff9ab6b3429943","geo_id":"CO36081","geo_key":"CO36081","name":"Queens","area":"181.262706604818","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"40.649149","geo_center_longitude":"-73.796374948"},{"type":"CO","geoIdV4":"72528ff8922653903cbd506d7faf06fc","geo_id":"CO36083","geo_key":"CO36083","name":"Rensselaer","area":"664.277265764526","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.7112875","geo_center_longitude":"-73.490324136"},{"type":"CO","geoIdV4":"50019348555515cfa83ae1652b938d48","geo_id":"CO36085","geo_key":"CO36085","name":"Richmond","area":"102.744248244126","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"40.564322","geo_center_longitude":"-74.124418603"},{"type":"CO","geoIdV4":"2275647d0e7256c8ca03109b297ab31b","geo_id":"CO36087","geo_key":"CO36087","name":"Rockland","area":"199.25727498729","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"41.1602875","geo_center_longitude":"-74.057495875"},{"type":"CO","geoIdV4":"141de0f4a44f7377ab0e6c5ea106d797","geo_id":"CO36091","geo_key":"CO36091","name":"Saratoga","area":"842.244233524103","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"43.086674","geo_center_longitude":"-73.845664781"},{"type":"CO","geoIdV4":"d50c4eda93c686631b7b1794b9287e66","geo_id":"CO36093","geo_key":"CO36093","name":"Schenectady","area":"209.084235732744","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.832773","geo_center_longitude":"-74.044464827"},{"type":"CO","geoIdV4":"364ccf0cfa8c7254182e7c18f5b94231","geo_id":"CO36095","geo_key":"CO36095","name":"Schoharie","area":"625.286018122535","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.5924435","geo_center_longitude":"-74.436226449"},{"type":"CO","geoIdV4":"413c893074384525f14b381d1518bf9b","geo_id":"CO36097","geo_key":"CO36097","name":"Schuyler","area":"341.784482764367","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.3899815","geo_center_longitude":"-76.8957365"},{"type":"CO","geoIdV4":"702b08f204bc2659c77535ba5e50e681","geo_id":"CO36099","geo_key":"CO36099","name":"Seneca","area":"389.756444029254","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.7828015","geo_center_longitude":"-76.857479216"},{"type":"CO","geoIdV4":"f573f18c3c02d4629e701981b5bb379c","geo_id":"CO36089","geo_key":"CO36089","name":"St.
+        Lawrence","area":"2815.22652143541","area_unit":"sq. mi.","community_data_available":"1","geo_center_latitude":"44.5311515","geo_center_longitude":"-75.16170054"},{"type":"CO","geoIdV4":"8b167eca12651566bf86f0ba9720ed8a","geo_id":"CO36101","geo_key":"CO36101","name":"Steuben","area":"1401.80709361072","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.2908805","geo_center_longitude":"-77.41840223"},{"type":"CO","geoIdV4":"a4c21680ee58d21595720b70bc9f7392","geo_id":"CO36103","geo_key":"CO36103","name":"Suffolk","area":"2370.21040557092","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"40.922431","geo_center_longitude":"-72.794991999"},{"type":"CO","geoIdV4":"bd3f0356d90f8be0b828ba395a43613a","geo_id":"CO36105","geo_key":"CO36105","name":"Sullivan","area":"995.160516747105","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"41.7189475","geo_center_longitude":"-74.790392174"},{"type":"CO","geoIdV4":"87033a4d4a1773f1b6ba31614b76dc75","geo_id":"CO36107","geo_key":"CO36107","name":"Tioga","area":"522.212572198366","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.204281","geo_center_longitude":"-76.310676668"},{"type":"CO","geoIdV4":"4fdb81fb997107b6d403b0d0a975bd18","geo_id":"CO36109","geo_key":"CO36109","name":"Tompkins","area":"490.745974027262","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.44311","geo_center_longitude":"-76.47260043"},{"type":"CO","geoIdV4":"ce3884c9cd158543bc210544ed884b0f","geo_id":"CO36111","geo_key":"CO36111","name":"Ulster","area":"1159.01956202503","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"41.879132","geo_center_longitude":"-74.202772246"},{"type":"CO","geoIdV4":"8265d146de442a57b7299cf3dc07bca0","geo_id":"CO36113","geo_key":"CO36113","name":"Warren","area":"929.878505866474","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"43.512647","geo_center_longitude":"-73.906652463"},{"type":"CO","geoIdV4":"8c40ddc0418add07891c672339284abb","geo_id":"CO36115","geo_key":"CO36115","name":"Washington","area":"844.360235460838","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"43.374033","geo_center_longitude":"-73.430067112"},{"type":"CO","geoIdV4":"a533e80b0a04d6c655ae07fa251f00f8","geo_id":"CO36117","geo_key":"CO36117","name":"Wayne","area":"1380.54206045867","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"43.3484985","geo_center_longitude":"-77.049694091"},{"type":"CO","geoIdV4":"0c18b3fe575b1399633a8639732b836f","geo_id":"CO36119","geo_key":"CO36119","name":"Westchester","area":"499.416999006294","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"41.119345","geo_center_longitude":"-73.788479071"},{"type":"CO","geoIdV4":"bc3509b0b7645952d4c6e7abba95e336","geo_id":"CO36121","geo_key":"CO36121","name":"Wyoming","area":"595.28020809651","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.6952835","geo_center_longitude":"-78.209878944"},{"type":"CO","geoIdV4":"31114b0512d16696816723aca31e5c67","geo_id":"CO36123","geo_key":"CO36123","name":"Yates","area":"375.151175207591","area_unit":"sq.
+        mi.","community_data_available":"1","geo_center_latitude":"42.6127695","geo_center_longitude":"-77.130601701"}],"name":"Lookup","notice":"","resource":"County","service":"Area","version":"v4"},"xml_record":"62"},"status":{"code":0,"long_description":"Your
+        request was successfully processed.","short_description":"success"}}}'
+  recorded_at: Fri, 28 Apr 2023 02:50:49 GMT
+recorded_with: VCR 6.1.0

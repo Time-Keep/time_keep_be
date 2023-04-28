@@ -1,0 +1,3928 @@
+{
+  "counties": [
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Autauga",
+        "average_wage": "48,347",
+        "median_income": "48,347",
+        "unemployment": "2.8",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "0.28",
+        "total_annual_wages": "48,347"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Baldwin",
+        "average_wage": "54,659",
+        "median_income": "54,659",
+        "unemployment": "3",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.34",
+        "total_annual_wages": "54,659"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Barbour",
+        "average_wage": "40,428",
+        "median_income": "40,428",
+        "unemployment": "5.7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.34",
+        "total_annual_wages": "40,428"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Bibb",
+        "average_wage": "36,892",
+        "median_income": "36,892",
+        "unemployment": "3.5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.23",
+        "total_annual_wages": "36,892"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Blount",
+        "average_wage": "42,634",
+        "median_income": "42,634",
+        "unemployment": "2.4",
+        "annual_avg_establishment_count": 3,
+        "combined_tax_rate": "0.33",
+        "total_annual_wages": "42,634"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Bullock",
+        "average_wage": "33,267",
+        "median_income": "33,267",
+        "unemployment": "4",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "0.38",
+        "total_annual_wages": "33,267"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Butler",
+        "average_wage": "46,050",
+        "median_income": "46,050",
+        "unemployment": "5.3",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.31",
+        "total_annual_wages": "46,050"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Calhoun",
+        "average_wage": "42,621",
+        "median_income": "42,621",
+        "unemployment": "4.1",
+        "annual_avg_establishment_count": 6,
+        "combined_tax_rate": "0.45",
+        "total_annual_wages": "42,621"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Chambers",
+        "average_wage": "39,728",
+        "median_income": "39,728",
+        "unemployment": "3.7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.48",
+        "total_annual_wages": "39,728"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Cherokee",
+        "average_wage": "43,719",
+        "median_income": "43,719",
+        "unemployment": "2.5",
+        "annual_avg_establishment_count": 4,
+        "combined_tax_rate": "0.41",
+        "total_annual_wages": "43,719"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Chilton",
+        "average_wage": "41,748",
+        "median_income": "41,748",
+        "unemployment": "2.9",
+        "annual_avg_establishment_count": 4,
+        "combined_tax_rate": "0.38",
+        "total_annual_wages": "41,748"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Choctaw",
+        "average_wage": "44,241",
+        "median_income": "44,241",
+        "unemployment": "4.4",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.44",
+        "total_annual_wages": "44,241"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Clarke",
+        "average_wage": "45,232",
+        "median_income": "45,232",
+        "unemployment": "6",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.16",
+        "total_annual_wages": "45,232"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Clay",
+        "average_wage": "38,705",
+        "median_income": "38,705",
+        "unemployment": "2.7",
+        "annual_avg_establishment_count": 2,
+        "combined_tax_rate": "0.25",
+        "total_annual_wages": "38,705"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Cleburne",
+        "average_wage": "42,836",
+        "median_income": "42,836",
+        "unemployment": "2.6",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.29",
+        "total_annual_wages": "42,836"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Coffee",
+        "average_wage": "49,196",
+        "median_income": "49,196",
+        "unemployment": "2.8",
+        "annual_avg_establishment_count": 2,
+        "combined_tax_rate": "0.39",
+        "total_annual_wages": "49,196"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Colbert",
+        "average_wage": "44,279",
+        "median_income": "44,279",
+        "unemployment": "4",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.35",
+        "total_annual_wages": "44,279"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Conecuh",
+        "average_wage": "41,656",
+        "median_income": "41,656",
+        "unemployment": "4.8",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.39",
+        "total_annual_wages": "41,656"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Coosa",
+        "average_wage": "38,275",
+        "median_income": "38,275",
+        "unemployment": "3.1",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.19",
+        "total_annual_wages": "38,275"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Covington",
+        "average_wage": "41,458",
+        "median_income": "41,458",
+        "unemployment": "3",
+        "annual_avg_establishment_count": 4,
+        "combined_tax_rate": "0.38",
+        "total_annual_wages": "41,458"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Crenshaw",
+        "average_wage": "46,038",
+        "median_income": "46,038",
+        "unemployment": "3.3",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.31",
+        "total_annual_wages": "46,038"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Cullman",
+        "average_wage": "46,061",
+        "median_income": "46,061",
+        "unemployment": "2.4",
+        "annual_avg_establishment_count": 6,
+        "combined_tax_rate": "0.28",
+        "total_annual_wages": "46,061"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Dale",
+        "average_wage": "43,916",
+        "median_income": "43,916",
+        "unemployment": "3.1",
+        "annual_avg_establishment_count": 4,
+        "combined_tax_rate": "0.4",
+        "total_annual_wages": "43,916"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Dallas",
+        "average_wage": "41,850",
+        "median_income": "41,850",
+        "unemployment": "7.4",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.38",
+        "total_annual_wages": "41,850"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "DeKalb",
+        "average_wage": "40,026",
+        "median_income": "40,026",
+        "unemployment": "2.5",
+        "annual_avg_establishment_count": 5,
+        "combined_tax_rate": "0.38",
+        "total_annual_wages": "40,026"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Elmore",
+        "average_wage": "47,381",
+        "median_income": "47,381",
+        "unemployment": "2.7",
+        "annual_avg_establishment_count": 2,
+        "combined_tax_rate": "0.28",
+        "total_annual_wages": "47,381"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Escambia",
+        "average_wage": "39,363",
+        "median_income": "39,363",
+        "unemployment": "4.1",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "0.52",
+        "total_annual_wages": "39,363"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Etowah",
+        "average_wage": "42,558",
+        "median_income": "42,558",
+        "unemployment": "4.1",
+        "annual_avg_establishment_count": 16,
+        "combined_tax_rate": "0.44",
+        "total_annual_wages": "42,558"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Fayette",
+        "average_wage": "41,672",
+        "median_income": "41,672",
+        "unemployment": "3.1",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "0.35",
+        "total_annual_wages": "41,672"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Franklin",
+        "average_wage": "40,810",
+        "median_income": "40,810",
+        "unemployment": "2.5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.34",
+        "total_annual_wages": "40,810"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Geneva",
+        "average_wage": "41,569",
+        "median_income": "41,569",
+        "unemployment": "2.8",
+        "annual_avg_establishment_count": 2,
+        "combined_tax_rate": "0.31",
+        "total_annual_wages": "41,569"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Greene",
+        "average_wage": "40,461",
+        "median_income": "40,461",
+        "unemployment": "6.9",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.25",
+        "total_annual_wages": "40,461"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Hale",
+        "average_wage": "44,085",
+        "median_income": "44,085",
+        "unemployment": "5.7",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "0.27",
+        "total_annual_wages": "44,085"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Henry",
+        "average_wage": "51,184",
+        "median_income": "51,184",
+        "unemployment": "3.2",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "0.32",
+        "total_annual_wages": "51,184"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Houston",
+        "average_wage": "50,976",
+        "median_income": "50,976",
+        "unemployment": "3.4",
+        "annual_avg_establishment_count": 2,
+        "combined_tax_rate": "0.35",
+        "total_annual_wages": "50,976"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Jackson",
+        "average_wage": "43,565",
+        "median_income": "43,565",
+        "unemployment": "2.9",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.24",
+        "total_annual_wages": "43,565"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Jefferson",
+        "average_wage": "62,371",
+        "median_income": "62,371",
+        "unemployment": "3.6",
+        "annual_avg_establishment_count": 12,
+        "combined_tax_rate": "0.82",
+        "total_annual_wages": "62,371"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Lamar",
+        "average_wage": "40,114",
+        "median_income": "40,114",
+        "unemployment": "3",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.23",
+        "total_annual_wages": "40,114"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Lauderdale",
+        "average_wage": "44,804",
+        "median_income": "44,804",
+        "unemployment": "3.2",
+        "annual_avg_establishment_count": 22,
+        "combined_tax_rate": "0.49",
+        "total_annual_wages": "44,804"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Lawrence",
+        "average_wage": "42,996",
+        "median_income": "42,996",
+        "unemployment": "2.9",
+        "annual_avg_establishment_count": 5,
+        "combined_tax_rate": "0.4",
+        "total_annual_wages": "42,996"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Lee",
+        "average_wage": "45,002",
+        "median_income": "45,002",
+        "unemployment": "2.8",
+        "annual_avg_establishment_count": 16,
+        "combined_tax_rate": "0.48",
+        "total_annual_wages": "45,002"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Limestone",
+        "average_wage": "50,326",
+        "median_income": "50,326",
+        "unemployment": "2.5",
+        "annual_avg_establishment_count": 8,
+        "combined_tax_rate": "0.39",
+        "total_annual_wages": "50,326"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Lowndes",
+        "average_wage": "48,852",
+        "median_income": "48,852",
+        "unemployment": "9.2",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.34",
+        "total_annual_wages": "48,852"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Macon",
+        "average_wage": "38,412",
+        "median_income": "38,412",
+        "unemployment": "6",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.38",
+        "total_annual_wages": "38,412"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Madison",
+        "average_wage": "59,852",
+        "median_income": "59,852",
+        "unemployment": "2.7",
+        "annual_avg_establishment_count": 43,
+        "combined_tax_rate": "0.5",
+        "total_annual_wages": "59,852"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Marengo",
+        "average_wage": "47,008",
+        "median_income": "47,008",
+        "unemployment": "4.2",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.37",
+        "total_annual_wages": "47,008"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Marion",
+        "average_wage": "40,939",
+        "median_income": "40,939",
+        "unemployment": "2.8",
+        "annual_avg_establishment_count": 3,
+        "combined_tax_rate": "0.33",
+        "total_annual_wages": "40,939"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Marshall",
+        "average_wage": "44,416",
+        "median_income": "44,416",
+        "unemployment": "2.4",
+        "annual_avg_establishment_count": 6,
+        "combined_tax_rate": "0.43",
+        "total_annual_wages": "44,416"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Mobile",
+        "average_wage": "46,418",
+        "median_income": "46,418",
+        "unemployment": "4.7",
+        "annual_avg_establishment_count": 5,
+        "combined_tax_rate": "0.6",
+        "total_annual_wages": "46,418"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Monroe",
+        "average_wage": "42,872",
+        "median_income": "42,872",
+        "unemployment": "5.6",
+        "annual_avg_establishment_count": 3,
+        "combined_tax_rate": "0.18",
+        "total_annual_wages": "42,872"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Montgomery",
+        "average_wage": "50,337",
+        "median_income": "50,337",
+        "unemployment": "4.9",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.4",
+        "total_annual_wages": "50,337"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Morgan",
+        "average_wage": "47,479",
+        "median_income": "47,479",
+        "unemployment": "2.6",
+        "annual_avg_establishment_count": 4,
+        "combined_tax_rate": "0.41",
+        "total_annual_wages": "47,479"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Perry",
+        "average_wage": "40,414",
+        "median_income": "40,414",
+        "unemployment": "8.3",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.21",
+        "total_annual_wages": "40,414"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Pickens",
+        "average_wage": "43,039",
+        "median_income": "43,039",
+        "unemployment": "4.1",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.3",
+        "total_annual_wages": "43,039"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Pike",
+        "average_wage": "44,659",
+        "median_income": "44,659",
+        "unemployment": "3.2",
+        "annual_avg_establishment_count": 4,
+        "combined_tax_rate": "0.3",
+        "total_annual_wages": "44,659"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Randolph",
+        "average_wage": "41,750",
+        "median_income": "41,750",
+        "unemployment": "2.7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.24",
+        "total_annual_wages": "41,750"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Russell",
+        "average_wage": "39,378",
+        "median_income": "39,378",
+        "unemployment": "3.1",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.44",
+        "total_annual_wages": "39,378"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Shelby",
+        "average_wage": "47,117",
+        "median_income": "47,117",
+        "unemployment": "2.6",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.52",
+        "total_annual_wages": "47,117"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "St. Clair",
+        "average_wage": "64,350",
+        "median_income": "64,350",
+        "unemployment": "2.1",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.29",
+        "total_annual_wages": "64,350"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Sumter",
+        "average_wage": "38,253",
+        "median_income": "38,253",
+        "unemployment": "4.5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.34",
+        "total_annual_wages": "38,253"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Talladega",
+        "average_wage": "40,668",
+        "median_income": "40,668",
+        "unemployment": "4.1",
+        "annual_avg_establishment_count": 2,
+        "combined_tax_rate": "0.35",
+        "total_annual_wages": "40,668"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Tallapoosa",
+        "average_wage": "48,344",
+        "median_income": "48,344",
+        "unemployment": "4",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.28",
+        "total_annual_wages": "48,344"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Tuscaloosa",
+        "average_wage": "43,439",
+        "median_income": "43,439",
+        "unemployment": "3.6",
+        "annual_avg_establishment_count": 12,
+        "combined_tax_rate": "0.39",
+        "total_annual_wages": "43,439"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Walker",
+        "average_wage": "47,239",
+        "median_income": "47,239",
+        "unemployment": "3.6",
+        "annual_avg_establishment_count": 11,
+        "combined_tax_rate": "0.27",
+        "total_annual_wages": "47,239"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Washington",
+        "average_wage": "45,956",
+        "median_income": "45,956",
+        "unemployment": "4.7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.52",
+        "total_annual_wages": "45,956"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Wilcox",
+        "average_wage": "39,354",
+        "median_income": "39,354",
+        "unemployment": "11",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "0.26",
+        "total_annual_wages": "39,354"
+      }
+    },
+    {
+      "state": "Alabama",
+      "counties": {
+        "county_name": "Winston",
+        "average_wage": "41,700",
+        "median_income": "41,700",
+        "unemployment": "2.8",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0.26",
+        "total_annual_wages": "41,700"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Aleutians East",
+        "average_wage": "60,174",
+        "median_income": "60,174",
+        "unemployment": "2.3",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "60,174"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Aleutians West",
+        "average_wage": "65,812",
+        "median_income": "65,812",
+        "unemployment": "3.6",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "65,812"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Anchorage",
+        "average_wage": "72,032",
+        "median_income": "72,032",
+        "unemployment": "5.8",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "72,032"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Bethel",
+        "average_wage": "48,189",
+        "median_income": "48,189",
+        "unemployment": "13.1",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "48,189"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Bristol Bay",
+        "average_wage": "155,155",
+        "median_income": "155,155",
+        "unemployment": "5.6",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "155,155"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Chugach",
+        "average_wage": "70,362",
+        "median_income": "70,362",
+        "unemployment": "6.7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "70,362"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Copper River",
+        "average_wage": "55,378",
+        "median_income": "55,378",
+        "unemployment": "8.9",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "55,378"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Denali",
+        "average_wage": "107,916",
+        "median_income": "107,916",
+        "unemployment": "10.1",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "107,916"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Dillingham",
+        "average_wage": "61,572",
+        "median_income": "61,572",
+        "unemployment": "8.2",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "61,572"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Fairbanks North Star",
+        "average_wage": "65,314",
+        "median_income": "65,314",
+        "unemployment": "5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "65,314"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Haines",
+        "average_wage": "88,152",
+        "median_income": "88,152",
+        "unemployment": "11.3",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "88,152"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Hoonah-Angoon",
+        "average_wage": "60,837",
+        "median_income": "60,837",
+        "unemployment": "9.3",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "60,837"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Juneau",
+        "average_wage": "75,996",
+        "median_income": "75,996",
+        "unemployment": "4.7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "75,996"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Kenai Peninsula",
+        "average_wage": "59,041",
+        "median_income": "59,041",
+        "unemployment": "7.3",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "59,041"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Ketchikan Gateway",
+        "average_wage": "72,278",
+        "median_income": "72,278",
+        "unemployment": "7.4",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "72,278"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Kodiak Island",
+        "average_wage": "69,546",
+        "median_income": "69,546",
+        "unemployment": "6.4",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "69,546"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Kusilvak",
+        "average_wage": "36,753",
+        "median_income": "36,753",
+        "unemployment": "19.9",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "36,753"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Lake and Peninsula",
+        "average_wage": "67,539",
+        "median_income": "67,539",
+        "unemployment": "8.9",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "67,539"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Matanuska-Susitna",
+        "average_wage": "54,207",
+        "median_income": "54,207",
+        "unemployment": "6.8",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "54,207"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Nome",
+        "average_wage": "58,882",
+        "median_income": "58,882",
+        "unemployment": "9.7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "58,882"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "North Slope",
+        "average_wage": "73,320",
+        "median_income": "73,320",
+        "unemployment": "6.3",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "73,320"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Northwest Arctic",
+        "average_wage": "52,915",
+        "median_income": "52,915",
+        "unemployment": "11.5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "52,915"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Petersburg",
+        "average_wage": "78,295",
+        "median_income": "78,295",
+        "unemployment": "7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "78,295"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Prince of Wales-Hyder",
+        "average_wage": "53,266",
+        "median_income": "53,266",
+        "unemployment": "8",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "53,266"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Sitka",
+        "average_wage": "75,917",
+        "median_income": "75,917",
+        "unemployment": "4.5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "75,917"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Skagway",
+        "average_wage": "71,409",
+        "median_income": "71,409",
+        "unemployment": "14.2",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "71,409"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Southeast Fairbanks",
+        "average_wage": "58,988",
+        "median_income": "58,988",
+        "unemployment": "6.6",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "58,988"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Wrangell",
+        "average_wage": "61,327",
+        "median_income": "61,327",
+        "unemployment": "7.5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "61,327"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Yakutat",
+        "average_wage": "66,375",
+        "median_income": "66,375",
+        "unemployment": "7.1",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "66,375"
+      }
+    },
+    {
+      "state": "Alaska",
+      "counties": {
+        "county_name": "Yukon-Koyukuk",
+        "average_wage": "63,452",
+        "median_income": "63,452",
+        "unemployment": "12.4",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "63,452"
+      }
+    },
+    {
+      "state": "Arizona",
+      "counties": {
+        "county_name": "Apache",
+        "average_wage": "45,671",
+        "median_income": "45,671",
+        "unemployment": "9.1",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.43",
+        "total_annual_wages": "45,671"
+      }
+    },
+    {
+      "state": "Arizona",
+      "counties": {
+        "county_name": "Cochise",
+        "average_wage": "49,096",
+        "median_income": "49,096",
+        "unemployment": "4.8",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.9",
+        "total_annual_wages": "49,096"
+      }
+    },
+    {
+      "state": "Arizona",
+      "counties": {
+        "county_name": "Coconino",
+        "average_wage": "56,914",
+        "median_income": "56,914",
+        "unemployment": "6",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10.9",
+        "total_annual_wages": "56,914"
+      }
+    },
+    {
+      "state": "Arizona",
+      "counties": {
+        "county_name": "Gila",
+        "average_wage": "48,752",
+        "median_income": "48,752",
+        "unemployment": "5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10.1",
+        "total_annual_wages": "48,752"
+      }
+    },
+    {
+      "state": "Arizona",
+      "counties": {
+        "county_name": "Graham",
+        "average_wage": "38,785",
+        "median_income": "38,785",
+        "unemployment": "4.1",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.1",
+        "total_annual_wages": "38,785"
+      }
+    },
+    {
+      "state": "Arizona",
+      "counties": {
+        "county_name": "Greenlee",
+        "average_wage": "48,079",
+        "median_income": "48,079",
+        "unemployment": "4",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.1",
+        "total_annual_wages": "48,079"
+      }
+    },
+    {
+      "state": "Arizona",
+      "counties": {
+        "county_name": "La Paz",
+        "average_wage": "49,933",
+        "median_income": "49,933",
+        "unemployment": "5.1",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.1",
+        "total_annual_wages": "49,933"
+      }
+    },
+    {
+      "state": "Arizona",
+      "counties": {
+        "county_name": "Maricopa",
+        "average_wage": "59,759",
+        "median_income": "59,759",
+        "unemployment": "4.5",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "10.3",
+        "total_annual_wages": "59,759"
+      }
+    },
+    {
+      "state": "Arizona",
+      "counties": {
+        "county_name": "Mohave",
+        "average_wage": "41,331",
+        "median_income": "41,331",
+        "unemployment": "5.5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.6",
+        "total_annual_wages": "41,331"
+      }
+    },
+    {
+      "state": "Arizona",
+      "counties": {
+        "county_name": "Navajo",
+        "average_wage": "41,680",
+        "median_income": "41,680",
+        "unemployment": "6.5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.43",
+        "total_annual_wages": "41,680"
+      }
+    },
+    {
+      "state": "Arizona",
+      "counties": {
+        "county_name": "Pima",
+        "average_wage": "52,942",
+        "median_income": "52,942",
+        "unemployment": "5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "11.1",
+        "total_annual_wages": "52,942"
+      }
+    },
+    {
+      "state": "Arizona",
+      "counties": {
+        "county_name": "Pinal",
+        "average_wage": "43,793",
+        "median_income": "43,793",
+        "unemployment": "4.7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10.7",
+        "total_annual_wages": "43,793"
+      }
+    },
+    {
+      "state": "Arizona",
+      "counties": {
+        "county_name": "Santa Cruz",
+        "average_wage": "46,828",
+        "median_income": "46,828",
+        "unemployment": "8.7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.6",
+        "total_annual_wages": "46,828"
+      }
+    },
+    {
+      "state": "Arizona",
+      "counties": {
+        "county_name": "Yavapai",
+        "average_wage": "49,060",
+        "median_income": "49,060",
+        "unemployment": "4.1",
+        "annual_avg_establishment_count": 6,
+        "combined_tax_rate": "10.4",
+        "total_annual_wages": "49,060"
+      }
+    },
+    {
+      "state": "Arizona",
+      "counties": {
+        "county_name": "Yuma",
+        "average_wage": "44,299",
+        "median_income": "44,299",
+        "unemployment": "12.9",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10.71",
+        "total_annual_wages": "44,299"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Arkansas",
+        "average_wage": "56,733",
+        "median_income": "56,733",
+        "unemployment": "3.4",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "11",
+        "total_annual_wages": "56,733"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Ashley",
+        "average_wage": "42,844",
+        "median_income": "42,844",
+        "unemployment": "7.4",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "11",
+        "total_annual_wages": "42,844"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Baxter",
+        "average_wage": "43,479",
+        "median_income": "43,479",
+        "unemployment": "3.7",
+        "annual_avg_establishment_count": 4,
+        "combined_tax_rate": "9.88",
+        "total_annual_wages": "43,479"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Benton",
+        "average_wage": "91,687",
+        "median_income": "91,687",
+        "unemployment": "2.8",
+        "annual_avg_establishment_count": 30,
+        "combined_tax_rate": "9.75",
+        "total_annual_wages": "91,687"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Boone",
+        "average_wage": "42,642",
+        "median_income": "42,642",
+        "unemployment": "3",
+        "annual_avg_establishment_count": 9,
+        "combined_tax_rate": "9.5",
+        "total_annual_wages": "42,642"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Bradley",
+        "average_wage": "46,734",
+        "median_income": "46,734",
+        "unemployment": "4.7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10.5",
+        "total_annual_wages": "46,734"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Calhoun",
+        "average_wage": "45,401",
+        "median_income": "45,401",
+        "unemployment": "3.3",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10",
+        "total_annual_wages": "45,401"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Carroll",
+        "average_wage": "40,689",
+        "median_income": "40,689",
+        "unemployment": "3.4",
+        "annual_avg_establishment_count": 3,
+        "combined_tax_rate": "9.38",
+        "total_annual_wages": "40,689"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Chicot",
+        "average_wage": "47,402",
+        "median_income": "47,402",
+        "unemployment": "8.6",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10.5",
+        "total_annual_wages": "47,402"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Clark",
+        "average_wage": "42,664",
+        "median_income": "42,664",
+        "unemployment": "4.7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10",
+        "total_annual_wages": "42,664"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Clay",
+        "average_wage": "42,999",
+        "median_income": "42,999",
+        "unemployment": "4",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10",
+        "total_annual_wages": "42,999"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Cleburne",
+        "average_wage": "45,289",
+        "median_income": "45,289",
+        "unemployment": "4.6",
+        "annual_avg_establishment_count": 5,
+        "combined_tax_rate": "9.63",
+        "total_annual_wages": "45,289"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Cleveland",
+        "average_wage": "49,569",
+        "median_income": "49,569",
+        "unemployment": "4",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10.75",
+        "total_annual_wages": "49,569"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Columbia",
+        "average_wage": "42,785",
+        "median_income": "42,785",
+        "unemployment": "5.3",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "10.38",
+        "total_annual_wages": "42,785"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Conway",
+        "average_wage": "46,412",
+        "median_income": "46,412",
+        "unemployment": "4.2",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "11.25",
+        "total_annual_wages": "46,412"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Craighead",
+        "average_wage": "45,160",
+        "median_income": "45,160",
+        "unemployment": "3.3",
+        "annual_avg_establishment_count": 19,
+        "combined_tax_rate": "10.5",
+        "total_annual_wages": "45,160"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Crawford",
+        "average_wage": "40,691",
+        "median_income": "40,691",
+        "unemployment": "3.6",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10.25",
+        "total_annual_wages": "40,691"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Crittenden",
+        "average_wage": "45,416",
+        "median_income": "45,416",
+        "unemployment": "5.4",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "11.25",
+        "total_annual_wages": "45,416"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Cross",
+        "average_wage": "42,009",
+        "median_income": "42,009",
+        "unemployment": "4.4",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "10.5",
+        "total_annual_wages": "42,009"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Dallas",
+        "average_wage": "46,261",
+        "median_income": "46,261",
+        "unemployment": "4.1",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10",
+        "total_annual_wages": "46,261"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Desha",
+        "average_wage": "48,464",
+        "median_income": "48,464",
+        "unemployment": "5.9",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "11",
+        "total_annual_wages": "48,464"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Drew",
+        "average_wage": "45,391",
+        "median_income": "45,391",
+        "unemployment": "5",
+        "annual_avg_establishment_count": 2,
+        "combined_tax_rate": "9.75",
+        "total_annual_wages": "45,391"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Faulkner",
+        "average_wage": "45,841",
+        "median_income": "45,841",
+        "unemployment": "3.5",
+        "annual_avg_establishment_count": 2,
+        "combined_tax_rate": "9.75",
+        "total_annual_wages": "45,841"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Franklin",
+        "average_wage": "40,591",
+        "median_income": "40,591",
+        "unemployment": "3.7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10.5",
+        "total_annual_wages": "40,591"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Fulton",
+        "average_wage": "34,900",
+        "median_income": "34,900",
+        "unemployment": "3.6",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "11.5",
+        "total_annual_wages": "34,900"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Garland",
+        "average_wage": "46,897",
+        "median_income": "46,897",
+        "unemployment": "5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.5",
+        "total_annual_wages": "46,897"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Grant",
+        "average_wage": "46,161",
+        "median_income": "46,161",
+        "unemployment": "3.2",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "9.75",
+        "total_annual_wages": "46,161"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Greene",
+        "average_wage": "41,633",
+        "median_income": "41,633",
+        "unemployment": "3.4",
+        "annual_avg_establishment_count": 4,
+        "combined_tax_rate": "9.13",
+        "total_annual_wages": "41,633"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Hempstead",
+        "average_wage": "41,269",
+        "median_income": "41,269",
+        "unemployment": "3.5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10",
+        "total_annual_wages": "41,269"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Hot Spring",
+        "average_wage": "37,474",
+        "median_income": "37,474",
+        "unemployment": "3.9",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "11",
+        "total_annual_wages": "37,474"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Howard",
+        "average_wage": "42,224",
+        "median_income": "42,224",
+        "unemployment": "3.2",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10.25",
+        "total_annual_wages": "42,224"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Independence",
+        "average_wage": "42,120",
+        "median_income": "42,120",
+        "unemployment": "3.9",
+        "annual_avg_establishment_count": 7,
+        "combined_tax_rate": "10",
+        "total_annual_wages": "42,120"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Izard",
+        "average_wage": "34,986",
+        "median_income": "34,986",
+        "unemployment": "5.4",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "11.5",
+        "total_annual_wages": "34,986"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Jackson",
+        "average_wage": "42,871",
+        "median_income": "42,871",
+        "unemployment": "5.2",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "10.25",
+        "total_annual_wages": "42,871"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Jefferson",
+        "average_wage": "42,076",
+        "median_income": "42,076",
+        "unemployment": "6.6",
+        "annual_avg_establishment_count": 6,
+        "combined_tax_rate": "10",
+        "total_annual_wages": "42,076"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Johnson",
+        "average_wage": "35,577",
+        "median_income": "35,577",
+        "unemployment": "4.7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.5",
+        "total_annual_wages": "35,577"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Lafayette",
+        "average_wage": "47,355",
+        "median_income": "47,355",
+        "unemployment": "5.8",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.75",
+        "total_annual_wages": "47,355"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Lawrence",
+        "average_wage": "40,161",
+        "median_income": "40,161",
+        "unemployment": "4.3",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "11",
+        "total_annual_wages": "40,161"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Lee",
+        "average_wage": "37,128",
+        "median_income": "37,128",
+        "unemployment": "5.6",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.5",
+        "total_annual_wages": "37,128"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Lincoln",
+        "average_wage": "33,387",
+        "median_income": "33,387",
+        "unemployment": "4.6",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "11.5",
+        "total_annual_wages": "33,387"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Little River",
+        "average_wage": "40,794",
+        "median_income": "40,794",
+        "unemployment": "4.5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "11.38",
+        "total_annual_wages": "40,794"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Logan",
+        "average_wage": "39,622",
+        "median_income": "39,622",
+        "unemployment": "4.2",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "10.5",
+        "total_annual_wages": "39,622"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Lonoke",
+        "average_wage": "46,388",
+        "median_income": "46,388",
+        "unemployment": "3.3",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "11",
+        "total_annual_wages": "46,388"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Madison",
+        "average_wage": "40,884",
+        "median_income": "40,884",
+        "unemployment": "3.1",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "11",
+        "total_annual_wages": "40,884"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Marion",
+        "average_wage": "36,684",
+        "median_income": "36,684",
+        "unemployment": "4.3",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10.25",
+        "total_annual_wages": "36,684"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Miller",
+        "average_wage": "40,319",
+        "median_income": "40,319",
+        "unemployment": "4.8",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10.25",
+        "total_annual_wages": "40,319"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Mississippi",
+        "average_wage": "42,273",
+        "median_income": "42,273",
+        "unemployment": "7.2",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "11",
+        "total_annual_wages": "42,273"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Monroe",
+        "average_wage": "41,783",
+        "median_income": "41,783",
+        "unemployment": "5.3",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10.5",
+        "total_annual_wages": "41,783"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Montgomery",
+        "average_wage": "37,039",
+        "median_income": "37,039",
+        "unemployment": "4.8",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "10.5",
+        "total_annual_wages": "37,039"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Nevada",
+        "average_wage": "39,041",
+        "median_income": "39,041",
+        "unemployment": "4",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.5",
+        "total_annual_wages": "39,041"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Newton",
+        "average_wage": "38,629",
+        "median_income": "38,629",
+        "unemployment": "3",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.5",
+        "total_annual_wages": "38,629"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Ouachita",
+        "average_wage": "46,428",
+        "median_income": "46,428",
+        "unemployment": "3.9",
+        "annual_avg_establishment_count": 4,
+        "combined_tax_rate": "10.5",
+        "total_annual_wages": "46,428"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Perry",
+        "average_wage": "43,793",
+        "median_income": "43,793",
+        "unemployment": "4.1",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10.25",
+        "total_annual_wages": "43,793"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Phillips",
+        "average_wage": "45,497",
+        "median_income": "45,497",
+        "unemployment": "7.7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10.5",
+        "total_annual_wages": "45,497"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Pike",
+        "average_wage": "40,806",
+        "median_income": "40,806",
+        "unemployment": "4.4",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10",
+        "total_annual_wages": "40,806"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Poinsett",
+        "average_wage": "41,551",
+        "median_income": "41,551",
+        "unemployment": "3.9",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10.25",
+        "total_annual_wages": "41,551"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Polk",
+        "average_wage": "38,178",
+        "median_income": "38,178",
+        "unemployment": "4.4",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10.5",
+        "total_annual_wages": "38,178"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Pope",
+        "average_wage": "40,937",
+        "median_income": "40,937",
+        "unemployment": "4",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.5",
+        "total_annual_wages": "40,937"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Prairie",
+        "average_wage": "43,835",
+        "median_income": "43,835",
+        "unemployment": "3.7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "11",
+        "total_annual_wages": "43,835"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Pulaski",
+        "average_wage": "58,583",
+        "median_income": "58,583",
+        "unemployment": "4.9",
+        "annual_avg_establishment_count": 78,
+        "combined_tax_rate": "9.5",
+        "total_annual_wages": "58,583"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Randolph",
+        "average_wage": "39,491",
+        "median_income": "39,491",
+        "unemployment": "3.9",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10",
+        "total_annual_wages": "39,491"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Saline",
+        "average_wage": "36,761",
+        "median_income": "36,761",
+        "unemployment": "6.2",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10.5",
+        "total_annual_wages": "36,761"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Scott",
+        "average_wage": "49,031",
+        "median_income": "49,031",
+        "unemployment": "3.1",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.5",
+        "total_annual_wages": "49,031"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Searcy",
+        "average_wage": "38,790",
+        "median_income": "38,790",
+        "unemployment": "3.3",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9",
+        "total_annual_wages": "38,790"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Sebastian",
+        "average_wage": "34,335",
+        "median_income": "34,335",
+        "unemployment": "4.2",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "11",
+        "total_annual_wages": "34,335"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Sevier",
+        "average_wage": "48,556",
+        "median_income": "48,556",
+        "unemployment": "3.7",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "12.63",
+        "total_annual_wages": "48,556"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Sharp",
+        "average_wage": "41,322",
+        "median_income": "41,322",
+        "unemployment": "4.4",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10.88",
+        "total_annual_wages": "41,322"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "St. Francis",
+        "average_wage": "41,025",
+        "median_income": "41,025",
+        "unemployment": "4.9",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "11.5",
+        "total_annual_wages": "41,025"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Stone",
+        "average_wage": "37,002",
+        "median_income": "37,002",
+        "unemployment": "5",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "10",
+        "total_annual_wages": "37,002"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Union",
+        "average_wage": "50,787",
+        "median_income": "50,787",
+        "unemployment": "6.1",
+        "annual_avg_establishment_count": 7,
+        "combined_tax_rate": "9.75",
+        "total_annual_wages": "50,787"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Van Buren",
+        "average_wage": "38,783",
+        "median_income": "38,783",
+        "unemployment": "4.9",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.63",
+        "total_annual_wages": "38,783"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Washington",
+        "average_wage": "47,836",
+        "median_income": "47,836",
+        "unemployment": "2.9",
+        "annual_avg_establishment_count": 2,
+        "combined_tax_rate": "10.75",
+        "total_annual_wages": "47,836"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "White",
+        "average_wage": "42,743",
+        "median_income": "42,743",
+        "unemployment": "4",
+        "annual_avg_establishment_count": 9,
+        "combined_tax_rate": "10.25",
+        "total_annual_wages": "42,743"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Woodruff",
+        "average_wage": "49,050",
+        "median_income": "49,050",
+        "unemployment": "5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.5",
+        "total_annual_wages": "49,050"
+      }
+    },
+    {
+      "state": "Arkansas",
+      "counties": {
+        "county_name": "Yell",
+        "average_wage": "41,750",
+        "median_income": "41,750",
+        "unemployment": "4",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.63",
+        "total_annual_wages": "41,750"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Alameda",
+        "average_wage": "99,746",
+        "median_income": "99,746",
+        "unemployment": "6.1",
+        "annual_avg_establishment_count": 50,
+        "combined_tax_rate": "10.75",
+        "total_annual_wages": "99,746"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Alpine",
+        "average_wage": "72,734",
+        "median_income": "72,734",
+        "unemployment": "8.1",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "7.25",
+        "total_annual_wages": "72,734"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Amador",
+        "average_wage": "49,752",
+        "median_income": "49,752",
+        "unemployment": "7",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "7.75",
+        "total_annual_wages": "49,752"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Butte",
+        "average_wage": "54,694",
+        "median_income": "54,694",
+        "unemployment": "6.9",
+        "annual_avg_establishment_count": 3,
+        "combined_tax_rate": "8.25",
+        "total_annual_wages": "54,694"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Calaveras",
+        "average_wage": "57,726",
+        "median_income": "57,726",
+        "unemployment": "5.7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "7.75",
+        "total_annual_wages": "57,726"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Colusa",
+        "average_wage": "54,511",
+        "median_income": "54,511",
+        "unemployment": "12.5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.75",
+        "total_annual_wages": "54,511"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Contra Costa",
+        "average_wage": "99,312",
+        "median_income": "99,312",
+        "unemployment": "6.4",
+        "annual_avg_establishment_count": 17,
+        "combined_tax_rate": "10.75",
+        "total_annual_wages": "99,312"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Del Norte",
+        "average_wage": "43,951",
+        "median_income": "43,951",
+        "unemployment": "7.6",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.25",
+        "total_annual_wages": "43,951"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "El Dorado",
+        "average_wage": "78,525",
+        "median_income": "78,525",
+        "unemployment": "5.7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.75",
+        "total_annual_wages": "78,525"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Fresno",
+        "average_wage": "51,422",
+        "median_income": "51,422",
+        "unemployment": "9.2",
+        "annual_avg_establishment_count": 33,
+        "combined_tax_rate": "9.23",
+        "total_annual_wages": "51,422"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Glenn",
+        "average_wage": "50,626",
+        "median_income": "50,626",
+        "unemployment": "6.9",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "7.75",
+        "total_annual_wages": "50,626"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Humboldt",
+        "average_wage": "53,607",
+        "median_income": "53,607",
+        "unemployment": "6.2",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.25",
+        "total_annual_wages": "53,607"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Imperial",
+        "average_wage": "47,653",
+        "median_income": "47,653",
+        "unemployment": "17.3",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.75",
+        "total_annual_wages": "47,653"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Inyo",
+        "average_wage": "62,090",
+        "median_income": "62,090",
+        "unemployment": "5.9",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.75",
+        "total_annual_wages": "62,090"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Kern",
+        "average_wage": "45,961",
+        "median_income": "45,961",
+        "unemployment": "10",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.5",
+        "total_annual_wages": "45,961"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Kings",
+        "average_wage": "43,176",
+        "median_income": "43,176",
+        "unemployment": "9.6",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.25",
+        "total_annual_wages": "43,176"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Lake",
+        "average_wage": "46,918",
+        "median_income": "46,918",
+        "unemployment": "7.6",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.75",
+        "total_annual_wages": "46,918"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Lassen",
+        "average_wage": "39,394",
+        "median_income": "39,394",
+        "unemployment": "5.9",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.25",
+        "total_annual_wages": "39,394"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Los Angeles",
+        "average_wage": "74,141",
+        "median_income": "74,141",
+        "unemployment": "8.9",
+        "annual_avg_establishment_count": 6,
+        "combined_tax_rate": "10.5",
+        "total_annual_wages": "74,141"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Madera",
+        "average_wage": "45,757",
+        "median_income": "45,757",
+        "unemployment": "8.8",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.75",
+        "total_annual_wages": "45,757"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Marin",
+        "average_wage": "164,118",
+        "median_income": "164,118",
+        "unemployment": "4.5",
+        "annual_avg_establishment_count": 2,
+        "combined_tax_rate": "9.25",
+        "total_annual_wages": "164,118"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Mariposa",
+        "average_wage": "61,343",
+        "median_income": "61,343",
+        "unemployment": "8",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.75",
+        "total_annual_wages": "61,343"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Mendocino",
+        "average_wage": "56,047",
+        "median_income": "56,047",
+        "unemployment": "6.2",
+        "annual_avg_establishment_count": 3,
+        "combined_tax_rate": "9.13",
+        "total_annual_wages": "56,047"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Merced",
+        "average_wage": "46,580",
+        "median_income": "46,580",
+        "unemployment": "10.4",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.75",
+        "total_annual_wages": "46,580"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Modoc",
+        "average_wage": "54,301",
+        "median_income": "54,301",
+        "unemployment": "7.1",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "7.25",
+        "total_annual_wages": "54,301"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Mono",
+        "average_wage": "64,164",
+        "median_income": "64,164",
+        "unemployment": "6.8",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "7.75",
+        "total_annual_wages": "64,164"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Monterey",
+        "average_wage": "63,449",
+        "median_income": "63,449",
+        "unemployment": "8.3",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "9.5",
+        "total_annual_wages": "63,449"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Napa",
+        "average_wage": "90,608",
+        "median_income": "90,608",
+        "unemployment": "6",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.25",
+        "total_annual_wages": "90,608"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Nevada",
+        "average_wage": "68,973",
+        "median_income": "68,973",
+        "unemployment": "5.6",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.5",
+        "total_annual_wages": "68,973"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Orange",
+        "average_wage": "81,034",
+        "median_income": "81,034",
+        "unemployment": "6",
+        "annual_avg_establishment_count": 94,
+        "combined_tax_rate": "10.25",
+        "total_annual_wages": "81,034"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Placer",
+        "average_wage": "76,849",
+        "median_income": "76,849",
+        "unemployment": "5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "7.75",
+        "total_annual_wages": "76,849"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Plumas",
+        "average_wage": "57,193",
+        "median_income": "57,193",
+        "unemployment": "9.5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.25",
+        "total_annual_wages": "57,193"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Riverside",
+        "average_wage": "51,180",
+        "median_income": "51,180",
+        "unemployment": "7.3",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.25",
+        "total_annual_wages": "51,180"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Sacramento",
+        "average_wage": "61,829",
+        "median_income": "61,829",
+        "unemployment": "7",
+        "annual_avg_establishment_count": 35,
+        "combined_tax_rate": "9.25",
+        "total_annual_wages": "61,829"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "San Benito",
+        "average_wage": "68,868",
+        "median_income": "68,868",
+        "unemployment": "7.2",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.25",
+        "total_annual_wages": "68,868"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "San Bernardino",
+        "average_wage": "49,493",
+        "median_income": "49,493",
+        "unemployment": "7.4",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10.25",
+        "total_annual_wages": "49,493"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "San Diego",
+        "average_wage": "72,637",
+        "median_income": "72,637",
+        "unemployment": "6.5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.75",
+        "total_annual_wages": "72,637"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "San Francisco",
+        "average_wage": "160,749",
+        "median_income": "160,749",
+        "unemployment": "5",
+        "annual_avg_establishment_count": 96,
+        "combined_tax_rate": "9.88",
+        "total_annual_wages": "160,749"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "San Joaquin",
+        "average_wage": "57,783",
+        "median_income": "57,783",
+        "unemployment": "8.7",
+        "annual_avg_establishment_count": 52,
+        "combined_tax_rate": "10.25",
+        "total_annual_wages": "57,783"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "San Luis Obispo",
+        "average_wage": "66,617",
+        "median_income": "66,617",
+        "unemployment": "5.2",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.75",
+        "total_annual_wages": "66,617"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "San Mateo",
+        "average_wage": "160,485",
+        "median_income": "160,485",
+        "unemployment": "4.6",
+        "annual_avg_establishment_count": 5,
+        "combined_tax_rate": "9.88",
+        "total_annual_wages": "160,485"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Santa Barbara",
+        "average_wage": "73,995",
+        "median_income": "73,995",
+        "unemployment": "5.8",
+        "annual_avg_establishment_count": 3,
+        "combined_tax_rate": "9",
+        "total_annual_wages": "73,995"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Santa Clara",
+        "average_wage": "138,724",
+        "median_income": "138,724",
+        "unemployment": "4.7",
+        "annual_avg_establishment_count": 5,
+        "combined_tax_rate": "9.88",
+        "total_annual_wages": "138,724"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Santa Cruz",
+        "average_wage": "85,554",
+        "median_income": "85,554",
+        "unemployment": "6.9",
+        "annual_avg_establishment_count": 35,
+        "combined_tax_rate": "9.75",
+        "total_annual_wages": "85,554"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Shasta",
+        "average_wage": "54,972",
+        "median_income": "54,972",
+        "unemployment": "6.8",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "7.75",
+        "total_annual_wages": "54,972"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Sierra",
+        "average_wage": "47,135",
+        "median_income": "47,135",
+        "unemployment": "6",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.25",
+        "total_annual_wages": "47,135"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Siskiyou",
+        "average_wage": "52,368",
+        "median_income": "52,368",
+        "unemployment": "8.1",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "7.75",
+        "total_annual_wages": "52,368"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Solano",
+        "average_wage": "65,448",
+        "median_income": "65,448",
+        "unemployment": "7.5",
+        "annual_avg_establishment_count": 14,
+        "combined_tax_rate": "9.25",
+        "total_annual_wages": "65,448"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Sonoma",
+        "average_wage": "81,006",
+        "median_income": "81,006",
+        "unemployment": "5.5",
+        "annual_avg_establishment_count": 17,
+        "combined_tax_rate": "9.5",
+        "total_annual_wages": "81,006"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Stanislaus",
+        "average_wage": "52,356",
+        "median_income": "52,356",
+        "unemployment": "8.4",
+        "annual_avg_establishment_count": 18,
+        "combined_tax_rate": "8.88",
+        "total_annual_wages": "52,356"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Sutter",
+        "average_wage": "53,017",
+        "median_income": "53,017",
+        "unemployment": "9",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "7.75",
+        "total_annual_wages": "53,017"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Tehama",
+        "average_wage": "48,042",
+        "median_income": "48,042",
+        "unemployment": "7.2",
+        "annual_avg_establishment_count": 4,
+        "combined_tax_rate": "7.75",
+        "total_annual_wages": "48,042"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Trinity",
+        "average_wage": "36,906",
+        "median_income": "36,906",
+        "unemployment": "6.3",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "7.25",
+        "total_annual_wages": "36,906"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Tulare",
+        "average_wage": "47,986",
+        "median_income": "47,986",
+        "unemployment": "10.7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.25",
+        "total_annual_wages": "47,986"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Tuolumne",
+        "average_wage": "52,306",
+        "median_income": "52,306",
+        "unemployment": "7.3",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.75",
+        "total_annual_wages": "52,306"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Ventura",
+        "average_wage": "73,375",
+        "median_income": "73,375",
+        "unemployment": "6.2",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "9.5",
+        "total_annual_wages": "73,375"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Yolo",
+        "average_wage": "64,468",
+        "median_income": "64,468",
+        "unemployment": "5.8",
+        "annual_avg_establishment_count": 2,
+        "combined_tax_rate": "8.75",
+        "total_annual_wages": "64,468"
+      }
+    },
+    {
+      "state": "California",
+      "counties": {
+        "county_name": "Yuba",
+        "average_wage": "48,984",
+        "median_income": "48,984",
+        "unemployment": "8.5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.25",
+        "total_annual_wages": "48,984"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Adams",
+        "average_wage": "53,183",
+        "median_income": "53,183",
+        "unemployment": "6.2",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.25",
+        "total_annual_wages": "53,183"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Alamosa",
+        "average_wage": "44,507",
+        "median_income": "44,507",
+        "unemployment": "5.5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.4",
+        "total_annual_wages": "44,507"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Arapahoe",
+        "average_wage": "74,267",
+        "median_income": "74,267",
+        "unemployment": "5.8",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "8.81",
+        "total_annual_wages": "74,267"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Archuleta",
+        "average_wage": "52,312",
+        "median_income": "52,312",
+        "unemployment": "4.9",
+        "annual_avg_establishment_count": 6,
+        "combined_tax_rate": "7.9",
+        "total_annual_wages": "52,312"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Baca",
+        "average_wage": "52,905",
+        "median_income": "52,905",
+        "unemployment": "2.1",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "5.9",
+        "total_annual_wages": "52,905"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Bent",
+        "average_wage": "32,716",
+        "median_income": "32,716",
+        "unemployment": "6.1",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "7.9",
+        "total_annual_wages": "32,716"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Boulder",
+        "average_wage": "89,593",
+        "median_income": "89,593",
+        "unemployment": "4.4",
+        "annual_avg_establishment_count": 4,
+        "combined_tax_rate": "9.44",
+        "total_annual_wages": "89,593"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Broomfield",
+        "average_wage": "73,678",
+        "median_income": "73,678",
+        "unemployment": "4.5",
+        "annual_avg_establishment_count": 45,
+        "combined_tax_rate": "8.84",
+        "total_annual_wages": "73,678"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Chaffee",
+        "average_wage": "60,550",
+        "median_income": "60,550",
+        "unemployment": "4",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.65",
+        "total_annual_wages": "60,550"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Cheyenne",
+        "average_wage": "76,057",
+        "median_income": "76,057",
+        "unemployment": "2.3",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "4.9",
+        "total_annual_wages": "76,057"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Clear Creek",
+        "average_wage": "77,242",
+        "median_income": "77,242",
+        "unemployment": "5.5",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "10.55",
+        "total_annual_wages": "77,242"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Conejos",
+        "average_wage": "45,961",
+        "median_income": "45,961",
+        "unemployment": "4.8",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.9",
+        "total_annual_wages": "45,961"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Costilla",
+        "average_wage": "43,239",
+        "median_income": "43,239",
+        "unemployment": "6",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "7.9",
+        "total_annual_wages": "43,239"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Crowley",
+        "average_wage": "24,314",
+        "median_income": "24,314",
+        "unemployment": "5.2",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "6.9",
+        "total_annual_wages": "24,314"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Custer",
+        "average_wage": "51,271",
+        "median_income": "51,271",
+        "unemployment": "4",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "7.9",
+        "total_annual_wages": "51,271"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Delta",
+        "average_wage": "46,042",
+        "median_income": "46,042",
+        "unemployment": "5.3",
+        "annual_avg_establishment_count": 2,
+        "combined_tax_rate": "9.5",
+        "total_annual_wages": "46,042"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Denver",
+        "average_wage": "99,133",
+        "median_income": "99,133",
+        "unemployment": "5.9",
+        "annual_avg_establishment_count": 100,
+        "combined_tax_rate": "9.25",
+        "total_annual_wages": "99,133"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Dolores",
+        "average_wage": "39,481",
+        "median_income": "39,481",
+        "unemployment": "4.7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.15",
+        "total_annual_wages": "39,481"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Douglas",
+        "average_wage": "87,841",
+        "median_income": "87,841",
+        "unemployment": "4.1",
+        "annual_avg_establishment_count": 7,
+        "combined_tax_rate": "8.75",
+        "total_annual_wages": "87,841"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Eagle",
+        "average_wage": "97,255",
+        "median_income": "97,255",
+        "unemployment": "4.4",
+        "annual_avg_establishment_count": 6,
+        "combined_tax_rate": "10.4",
+        "total_annual_wages": "97,255"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "El Paso",
+        "average_wage": "70,961",
+        "median_income": "70,961",
+        "unemployment": "3.8",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.03",
+        "total_annual_wages": "70,961"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Elbert",
+        "average_wage": "58,627",
+        "median_income": "58,627",
+        "unemployment": "5.6",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "7.9",
+        "total_annual_wages": "58,627"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Fremont",
+        "average_wage": "41,017",
+        "median_income": "41,017",
+        "unemployment": "6.9",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.4",
+        "total_annual_wages": "41,017"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Garfield",
+        "average_wage": "67,123",
+        "median_income": "67,123",
+        "unemployment": "4.7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.6",
+        "total_annual_wages": "67,123"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Gilpin",
+        "average_wage": "63,971",
+        "median_income": "63,971",
+        "unemployment": "6.2",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "8.9",
+        "total_annual_wages": "63,971"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Grand",
+        "average_wage": "62,267",
+        "median_income": "62,267",
+        "unemployment": "4.2",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "11.2",
+        "total_annual_wages": "62,267"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Gunnison",
+        "average_wage": "59,514",
+        "median_income": "59,514",
+        "unemployment": "3.7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.9",
+        "total_annual_wages": "59,514"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Hinsdale",
+        "average_wage": "56,524",
+        "median_income": "56,524",
+        "unemployment": "3.6",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "7.9",
+        "total_annual_wages": "56,524"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Huerfano",
+        "average_wage": "48,801",
+        "median_income": "48,801",
+        "unemployment": "8.2",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.4",
+        "total_annual_wages": "48,801"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Jackson",
+        "average_wage": "62,823",
+        "median_income": "62,823",
+        "unemployment": "3.3",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "7.9",
+        "total_annual_wages": "62,823"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Jefferson",
+        "average_wage": "74,822",
+        "median_income": "74,822",
+        "unemployment": "5",
+        "annual_avg_establishment_count": 7,
+        "combined_tax_rate": "8.81",
+        "total_annual_wages": "74,822"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Kiowa",
+        "average_wage": "75,006",
+        "median_income": "75,006",
+        "unemployment": "3.3",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "4.9",
+        "total_annual_wages": "75,006"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Kit Carson",
+        "average_wage": "52,253",
+        "median_income": "52,253",
+        "unemployment": "3",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "5.9",
+        "total_annual_wages": "52,253"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "La Plata",
+        "average_wage": "48,942",
+        "median_income": "48,942",
+        "unemployment": "4.4",
+        "annual_avg_establishment_count": 16,
+        "combined_tax_rate": "9.4",
+        "total_annual_wages": "48,942"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Lake",
+        "average_wage": "66,944",
+        "median_income": "66,944",
+        "unemployment": "5.2",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "6.9",
+        "total_annual_wages": "66,944"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Larimer",
+        "average_wage": "64,258",
+        "median_income": "64,258",
+        "unemployment": "4.7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.7",
+        "total_annual_wages": "64,258"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Las Animas",
+        "average_wage": "44,731",
+        "median_income": "44,731",
+        "unemployment": "6.5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.4",
+        "total_annual_wages": "44,731"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Lincoln",
+        "average_wage": "37,623",
+        "median_income": "37,623",
+        "unemployment": "4.2",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "7.65",
+        "total_annual_wages": "37,623"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Logan",
+        "average_wage": "48,330",
+        "median_income": "48,330",
+        "unemployment": "4.4",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "7",
+        "total_annual_wages": "48,330"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Mesa",
+        "average_wage": "52,121",
+        "median_income": "52,121",
+        "unemployment": "5.7",
+        "annual_avg_establishment_count": 5,
+        "combined_tax_rate": "8.52",
+        "total_annual_wages": "52,121"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Mineral",
+        "average_wage": "70,250",
+        "median_income": "70,250",
+        "unemployment": "5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.5",
+        "total_annual_wages": "70,250"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Moffat",
+        "average_wage": "49,227",
+        "median_income": "49,227",
+        "unemployment": "4.8",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.9",
+        "total_annual_wages": "49,227"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Montezuma",
+        "average_wage": "50,960",
+        "median_income": "50,960",
+        "unemployment": "5.6",
+        "annual_avg_establishment_count": 6,
+        "combined_tax_rate": "7.35",
+        "total_annual_wages": "50,960"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Montrose",
+        "average_wage": "50,789",
+        "median_income": "50,789",
+        "unemployment": "5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.65",
+        "total_annual_wages": "50,789"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Morgan",
+        "average_wage": "52,069",
+        "median_income": "52,069",
+        "unemployment": "4.9",
+        "annual_avg_establishment_count": 2,
+        "combined_tax_rate": "6.9",
+        "total_annual_wages": "52,069"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Otero",
+        "average_wage": "42,752",
+        "median_income": "42,752",
+        "unemployment": "6.1",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "7.9",
+        "total_annual_wages": "42,752"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Ouray",
+        "average_wage": "76,727",
+        "median_income": "76,727",
+        "unemployment": "4.5",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "9.45",
+        "total_annual_wages": "76,727"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Park",
+        "average_wage": "57,127",
+        "median_income": "57,127",
+        "unemployment": "4.1",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.9",
+        "total_annual_wages": "57,127"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Phillips",
+        "average_wage": "50,382",
+        "median_income": "50,382",
+        "unemployment": "2.9",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "7.4",
+        "total_annual_wages": "50,382"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Pitkin",
+        "average_wage": "198,939",
+        "median_income": "198,939",
+        "unemployment": "5.5",
+        "annual_avg_establishment_count": 37,
+        "combined_tax_rate": "10.4",
+        "total_annual_wages": "198,939"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Prowers",
+        "average_wage": "46,073",
+        "median_income": "46,073",
+        "unemployment": "4.5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "6.9",
+        "total_annual_wages": "46,073"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Pueblo",
+        "average_wage": "46,927",
+        "median_income": "46,927",
+        "unemployment": "7.9",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "7.6",
+        "total_annual_wages": "46,927"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Rio Blanco",
+        "average_wage": "54,745",
+        "median_income": "54,745",
+        "unemployment": "5.5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "6.5",
+        "total_annual_wages": "54,745"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Rio Grande",
+        "average_wage": "57,350",
+        "median_income": "57,350",
+        "unemployment": "6.5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.5",
+        "total_annual_wages": "57,350"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Routt",
+        "average_wage": "98,371",
+        "median_income": "98,371",
+        "unemployment": "4.2",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.9",
+        "total_annual_wages": "98,371"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Saguache",
+        "average_wage": "43,959",
+        "median_income": "43,959",
+        "unemployment": "5.9",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "9.5",
+        "total_annual_wages": "43,959"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "San Juan",
+        "average_wage": "58,067",
+        "median_income": "58,067",
+        "unemployment": "3.5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "10.4",
+        "total_annual_wages": "58,067"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "San Miguel",
+        "average_wage": "109,613",
+        "median_income": "109,613",
+        "unemployment": "5",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.65",
+        "total_annual_wages": "109,613"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Sedgwick",
+        "average_wage": "51,705",
+        "median_income": "51,705",
+        "unemployment": "3.7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "6.9",
+        "total_annual_wages": "51,705"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Summit",
+        "average_wage": "86,390",
+        "median_income": "86,390",
+        "unemployment": "4",
+        "annual_avg_establishment_count": 2,
+        "combined_tax_rate": "10.38",
+        "total_annual_wages": "86,390"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Teller",
+        "average_wage": "61,966",
+        "median_income": "61,966",
+        "unemployment": "4.9",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.49",
+        "total_annual_wages": "61,966"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Washington",
+        "average_wage": "48,270",
+        "median_income": "48,270",
+        "unemployment": "3.2",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "6.9",
+        "total_annual_wages": "48,270"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Weld",
+        "average_wage": "56,553",
+        "median_income": "56,553",
+        "unemployment": "5.7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "8.69",
+        "total_annual_wages": "56,553"
+      }
+    },
+    {
+      "state": "Colorado",
+      "counties": {
+        "county_name": "Yuma",
+        "average_wage": "48,898",
+        "median_income": "48,898",
+        "unemployment": "2.7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "5.9",
+        "total_annual_wages": "48,898"
+      }
+    },
+    {
+      "state": "Connecticut",
+      "counties": {
+        "county_name": "Fairfield",
+        "average_wage": "127,391",
+        "median_income": "127,391",
+        "unemployment": "6.1",
+        "annual_avg_establishment_count": 12,
+        "combined_tax_rate": "6.35",
+        "total_annual_wages": "127,391"
+      }
+    },
+    {
+      "state": "Connecticut",
+      "counties": {
+        "county_name": "Hartford",
+        "average_wage": "70,168",
+        "median_income": "70,168",
+        "unemployment": "6.5",
+        "annual_avg_establishment_count": 91,
+        "combined_tax_rate": "6.35",
+        "total_annual_wages": "70,168"
+      }
+    },
+    {
+      "state": "Connecticut",
+      "counties": {
+        "county_name": "Litchfield",
+        "average_wage": "74,852",
+        "median_income": "74,852",
+        "unemployment": "5.5",
+        "annual_avg_establishment_count": 2,
+        "combined_tax_rate": "6.35",
+        "total_annual_wages": "74,852"
+      }
+    },
+    {
+      "state": "Connecticut",
+      "counties": {
+        "county_name": "Middlesex",
+        "average_wage": "74,453",
+        "median_income": "74,453",
+        "unemployment": "5.2",
+        "annual_avg_establishment_count": 5,
+        "combined_tax_rate": "6.35",
+        "total_annual_wages": "74,453"
+      }
+    },
+    {
+      "state": "Connecticut",
+      "counties": {
+        "county_name": "New Haven",
+        "average_wage": "64,643",
+        "median_income": "64,643",
+        "unemployment": "6.6",
+        "annual_avg_establishment_count": 36,
+        "combined_tax_rate": "6.35",
+        "total_annual_wages": "64,643"
+      }
+    },
+    {
+      "state": "Connecticut",
+      "counties": {
+        "county_name": "New London",
+        "average_wage": "63,877",
+        "median_income": "63,877",
+        "unemployment": "6.9",
+        "annual_avg_establishment_count": 10,
+        "combined_tax_rate": "6.35",
+        "total_annual_wages": "63,877"
+      }
+    },
+    {
+      "state": "Connecticut",
+      "counties": {
+        "county_name": "Tolland",
+        "average_wage": "63,722",
+        "median_income": "63,722",
+        "unemployment": "5.1",
+        "annual_avg_establishment_count": 6,
+        "combined_tax_rate": "6.35",
+        "total_annual_wages": "63,722"
+      }
+    },
+    {
+      "state": "Connecticut",
+      "counties": {
+        "county_name": "Windham",
+        "average_wage": "55,261",
+        "median_income": "55,261",
+        "unemployment": "6.2",
+        "annual_avg_establishment_count": 3,
+        "combined_tax_rate": "6.35",
+        "total_annual_wages": "55,261"
+      }
+    },
+    {
+      "state": "Delaware",
+      "counties": {
+        "county_name": "Kent",
+        "average_wage": "50,432",
+        "median_income": "50,432",
+        "unemployment": "6.2",
+        "annual_avg_establishment_count": 4,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "50,432"
+      }
+    },
+    {
+      "state": "Delaware",
+      "counties": {
+        "county_name": "New Castle",
+        "average_wage": "63,189",
+        "median_income": "63,189",
+        "unemployment": "5.3",
+        "annual_avg_establishment_count": 14,
+        "combined_tax_rate": "0",
+        "total_annual_wages": "63,189"
+      }
+    },
+    {
+      "state": "Delaware",
+      "counties": {
+        "county_name": "Sussex",
+        "average_wage": "59,472",
+        "median_income": "59,472",
+        "unemployment": "4.8",
+        "annual_avg_establishment_count": 1,
+        "combined_tax_rate": "6",
+        "total_annual_wages": "59,472"
+      }
+    },
+    {
+      "state": "District of Columbia",
+      "counties": {
+        "county_name": "District of Columbia",
+        "average_wage": "96,477",
+        "median_income": "96,477",
+        "unemployment": "6.6",
+        "annual_avg_establishment_count": 100,
+        "combined_tax_rate": "6",
+        "total_annual_wages": "96,477"
+      }
+    },
+    {
+      "state": "Florida",
+      "counties": {
+        "county_name": "Alachua",
+        "average_wage": "52,367",
+        "median_income": "52,367",
+        "unemployment": "3.7",
+        "annual_avg_establishment_count": 49,
+        "combined_tax_rate": "7.5",
+        "total_annual_wages": "52,367"
+      }
+    },
+    {
+      "state": "Florida",
+      "counties": {
+        "county_name": "Baker",
+        "average_wage": "40,735",
+        "median_income": "40,735",
+        "unemployment": "3.7",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "7",
+        "total_annual_wages": "40,735"
+      }
+    },
+    {
+      "state": "Florida",
+      "counties": {
+        "county_name": "Bay",
+        "average_wage": "53,980",
+        "median_income": "53,980",
+        "unemployment": "3.9",
+        "annual_avg_establishment_count": 10,
+        "combined_tax_rate": "7.5",
+        "total_annual_wages": "53,980"
+      }
+    },
+    {
+      "state": "Florida",
+      "counties": {
+        "county_name": "Bradford",
+        "average_wage": "39,748",
+        "median_income": "39,748",
+        "unemployment": "4.2",
+        "annual_avg_establishment_count": 5,
+        "combined_tax_rate": "7.5",
+        "total_annual_wages": "39,748"
+      }
+    },
+    {
+      "state": "Florida",
+      "counties": {
+        "county_name": "Brevard",
+        "average_wage": "55,477",
+        "median_income": "55,477",
+        "unemployment": "4",
+        "annual_avg_establishment_count": 36,
+        "combined_tax_rate": "7",
+        "total_annual_wages": "55,477"
+      }
+    },
+    {
+      "state": "Florida",
+      "counties": {
+        "county_name": "Broward",
+        "average_wage": "64,453",
+        "median_income": "64,453",
+        "unemployment": "4.9",
+        "annual_avg_establishment_count": 0,
+        "combined_tax_rate": "7",
+        "total_annual_wages": "64,453"
+      }
+    }
+  ]
+}

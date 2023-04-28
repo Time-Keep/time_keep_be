@@ -11,6 +11,6 @@ class Api::V1::CountyController < ApplicationController
   def docker_index
     json_data = File.read('./db/data/counties.json')
     counties = JSON.parse(json_data, symbolize_names: true)
-    render json: counties
+    render json: counties, status: 200
   end
 end

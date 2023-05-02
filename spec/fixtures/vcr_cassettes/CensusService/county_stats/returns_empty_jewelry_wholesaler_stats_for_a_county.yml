@@ -1,0 +1,95 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.census.gov/data/timeseries/poverty/saipe?for=county:125&get=NAME,STABREV,SAEMHI_PT&in=state:01&key=census_key&time=2021
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v2.7.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: ''
+    headers:
+      Cache-Control:
+      - max-age=60, must-revalidate
+      Access-Control-Allow-Origin:
+      - "*"
+      Access-Control-Allow-Methods:
+      - GET,POST
+      Access-Control-Allow-Headers:
+      - Origin, X-Requested-With, Content-Type, Accept
+      Referrer-Policy:
+      - same-origin
+      Content-Security-Policy:
+      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
+        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
+        upgrade-insecure-requests; block-all-mixed-content
+      Content-Type:
+      - application/json;charset=utf-8
+      Date:
+      - Tue, 02 May 2023 02:36:59 GMT
+      Strict-Transport-Security:
+      - max-age=31536000
+      Set-Cookie:
+      - TS010383f0=01283c52a467cda3f9b137c589083d8bf11a0ec0f0a495395cccedb5382d1a332023a69f0b1d24a2c7c78a8b17fa45c51d965e3b79;
+        Path=/; Domain=.api.census.gov
+      Transfer-Encoding:
+      - chunked
+    body:
+      encoding: UTF-8
+      string: |-
+        [["NAME","STABREV","SAEMHI_PT","time","state","county"],
+        ["Tuscaloosa County","AL","56274","2021","01","125"]]
+  recorded_at: Tue, 02 May 2023 02:36:59 GMT
+- request:
+    method: get
+    uri: https://api.census.gov/data/2021/cbp?NAICS2017=423940&for=county:125&get=NAME,NAICS2017_LABEL,ESTAB,EMP,PAYANN&in=state:01&key=census_key
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v2.7.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 204
+      message: ''
+    headers:
+      Cache-Control:
+      - max-age=60, must-revalidate
+      Access-Control-Allow-Origin:
+      - "*"
+      Access-Control-Allow-Methods:
+      - GET,POST
+      Access-Control-Allow-Headers:
+      - Origin, X-Requested-With, Content-Type, Accept
+      Referrer-Policy:
+      - same-origin
+      Content-Security-Policy:
+      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
+        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
+        upgrade-insecure-requests; block-all-mixed-content
+      Date:
+      - Tue, 02 May 2023 02:36:59 GMT
+      Strict-Transport-Security:
+      - max-age=31536000
+      Set-Cookie:
+      - TS010383f0=01283c52a44478863373121f926802a3e7b6a69b40e8fe426aa8d8691e43d3dc56d86cc0b7740de7ad7e50f10926e81f5fb0d2249f;
+        Path=/; Domain=.api.census.gov
+    body:
+      encoding: UTF-8
+      string: ''
+  recorded_at: Tue, 02 May 2023 02:37:00 GMT
+recorded_with: VCR 6.1.0

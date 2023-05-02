@@ -19,6 +19,7 @@ RSpec.describe County, type: :model do
   end
 
   describe 'class methods', vcr: { record: :new_episodes } do
+    let(:counties) { County.all }
     let(:county) { County.create!(county: 'Tuscaloosa',
                               county_ascii: 'Tuscaloosa',
                               county_full: 'Tuscaloosa County',
@@ -49,6 +50,32 @@ RSpec.describe County, type: :model do
         expect(county.establishment_count).to eq(0)
         expect(county.industry_estab_count2).to eq(12)
         expect(county.establishment_count).to eq(12)
+      end
+    end
+
+    describe '#county_details' do
+      it 'fetches demographics for a county' do
+
+        expect(county.county_details).to be_a Hash
+        expect(county.county_details[:state]).to eq('AL')
+        expect(county.county_details[:st_abbrev]).to eq('AL')
+        expect(county.county_details[:ST_FIP]).to eq('01')
+        expect(county.county_details[:county]).to eq('Tuscaloosa County')
+        expect(county.county_details[:FIP]).to eq('125')
+        expect(county.county_details[:median_income].to_i).to be_an Integer
+        expect(county.county_details[:industry]).to eq('')
+        expect(county.county_details[:NAICS2017_code]).to eq('')
+        expect(county.county_details[:employee_count]).to eq(0)
+        expect(county.county_details[:average_industry_wage]).to eq(0)
+        expect(county.county_details[:establishment_count]).to eq(0)
+      end
+    end
+
+    describe '#fip_format' do
+      it 'adds 0s to start of county_fips if under 5 chars' do
+
+        expect(county.county_fips).to eq('1125')
+        expect(county.fip_format).to eq('01125')
       end
     end
   end

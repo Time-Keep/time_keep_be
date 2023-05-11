@@ -35,11 +35,11 @@ http_interactions:
       Content-Type:
       - application/json;charset=utf-8
       Date:
-      - Tue, 02 May 2023 02:36:58 GMT
+      - Wed, 03 May 2023 19:35:19 GMT
       Strict-Transport-Security:
       - max-age=31536000
       Set-Cookie:
-      - TS010383f0=01283c52a41ee07fef0ccac98759f947da5fda76cbabc873f64acd8e3af110b653725dc1ad26cf56a3ccecd8bf1d77e3fd989011ef;
+      - TS010383f0=01283c52a4b34987f945dc2dc3ae4800500551962d10bcdaa08acc599d9ffdcd025012fb7ef58f0db0c846c6f19b087e1dc4fb8975;
         Path=/; Domain=.api.census.gov
       Transfer-Encoding:
       - chunked
@@ -48,7 +48,56 @@ http_interactions:
       string: |-
         [["NAME","STABREV","SAEMHI_PT","time","state","county"],
         ["Jefferson County","AL","55210","2021","01","073"]]
-  recorded_at: Tue, 02 May 2023 02:36:58 GMT
+  recorded_at: Wed, 03 May 2023 19:35:19 GMT
+- request:
+    method: get
+    uri: https://api.census.gov/data/2021/acs/acs1/subject?for=county:073&get=NAME,S0102_C02_070M&in=state:01&key=census_key
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v2.7.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: ''
+    headers:
+      Cache-Control:
+      - max-age=60, must-revalidate
+      Access-Control-Allow-Origin:
+      - "*"
+      Access-Control-Allow-Methods:
+      - GET,POST
+      Access-Control-Allow-Headers:
+      - Origin, X-Requested-With, Content-Type, Accept
+      Referrer-Policy:
+      - same-origin
+      Content-Security-Policy:
+      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
+        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
+        upgrade-insecure-requests; block-all-mixed-content
+      Content-Type:
+      - application/json;charset=utf-8
+      Date:
+      - Wed, 03 May 2023 19:35:19 GMT
+      Strict-Transport-Security:
+      - max-age=31536000
+      Set-Cookie:
+      - TS010383f0=01283c52a4a65388c6d2356332b77823f14dc70e6d6cf49b5fb0662c55e86f24a2bfa0f1e26eb9cab90994d0628bdd1fc110d3a04b;
+        Path=/; Domain=.api.census.gov
+      Transfer-Encoding:
+      - chunked
+    body:
+      encoding: UTF-8
+      string: |-
+        [["NAME","S0102_C02_070M","state","county"],
+        ["Jefferson County, Alabama","0.3","01","073"]]
+  recorded_at: Wed, 03 May 2023 19:35:20 GMT
 - request:
     method: get
     uri: https://api.census.gov/data/2021/cbp?NAICS2017=423940&for=county:073&get=NAME,NAICS2017_LABEL,ESTAB,EMP,PAYANN&in=state:01&key=census_key
@@ -84,11 +133,11 @@ http_interactions:
       Content-Type:
       - application/json;charset=utf-8
       Date:
-      - Tue, 02 May 2023 02:36:58 GMT
+      - Wed, 03 May 2023 19:35:20 GMT
       Strict-Transport-Security:
       - max-age=31536000
       Set-Cookie:
-      - TS010383f0=01283c52a4ea2f242b9d18afa48df90a6bd243ae888c35c3822e20ca20ef8f5d2b3913176ef44a685463a7fd0e6296b96b347f1eec;
+      - TS010383f0=01283c52a4175bc353112852c3a48f349c70ab3a703083f1905f6ca8b8de3e3b72b0cc7b9ae05eb315781f628b0502db39a1c519f8;
         Path=/; Domain=.api.census.gov
       Transfer-Encoding:
       - chunked
@@ -97,5 +146,5 @@ http_interactions:
       string: |-
         [["NAME","NAICS2017_LABEL","ESTAB","EMP","PAYANN","NAICS2017","state","county"],
         ["Jefferson County, Alabama","Jewelry, watch, precious stone, and precious metal merchant wholesalers","5","12","623","423940","01","073"]]
-  recorded_at: Tue, 02 May 2023 02:36:59 GMT
+  recorded_at: Wed, 03 May 2023 19:35:21 GMT
 recorded_with: VCR 6.1.0

@@ -38,9 +38,7 @@ RSpec.describe County, type: :model do
     describe '#industry_estab_count' do
       it 'fetches count of establishments in the county' do
 
-        expect(county.establishment_count).to eq(0)
-        expect(county.industry_estab_count).to eq(12)
-        expect(county.establishment_count).to eq(12)
+        expect{county.industry_estab_count}.to change(county, :establishment_count).from(0).to(12)
       end
     end
 
@@ -57,7 +55,7 @@ RSpec.describe County, type: :model do
       it 'fetches demographics for a county' do
 
         expect(county.county_details).to be_a Hash
-        expect(county.county_details[:state]).to eq('AL')
+        expect(county.county_details[:state]).to eq('Alabama')
         expect(county.county_details[:st_abbrev]).to eq('AL')
         expect(county.county_details[:ST_FIP]).to eq('01')
         expect(county.county_details[:county]).to eq('Tuscaloosa County')

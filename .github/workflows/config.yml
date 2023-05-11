@@ -40,6 +40,8 @@ jobs:
           RAILS_MASTER_KEY: ${{ secrets.RAILS_MASTER_KEY }}
           tom_tom_api_key: ${{ secrets.TOM_TOM_API_KEY }}
           tom_tom_api_key_2: ${{ secrets.TOM_TOM_API_KEY }}
+          CENSUS_KEY: ${{ secrets.CENSUS_KEY }}
+          FRED_KEY: ${{ secrets.FRED_KEY }}
         run: |
           sudo apt-get -yqq install libpq-dev
           gem install bundler

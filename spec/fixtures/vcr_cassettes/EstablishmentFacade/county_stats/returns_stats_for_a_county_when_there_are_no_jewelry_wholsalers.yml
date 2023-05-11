@@ -92,4 +92,53 @@ http_interactions:
       encoding: UTF-8
       string: ''
   recorded_at: Tue, 02 May 2023 03:25:48 GMT
+- request:
+    method: get
+    uri: https://api.census.gov/data/2021/acs/acs1/subject?for=county:125&get=NAME,S0102_C02_070M&in=state:01&key=census_key
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v2.7.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: ''
+    headers:
+      Cache-Control:
+      - max-age=60, must-revalidate
+      Access-Control-Allow-Origin:
+      - "*"
+      Access-Control-Allow-Methods:
+      - GET,POST
+      Access-Control-Allow-Headers:
+      - Origin, X-Requested-With, Content-Type, Accept
+      Referrer-Policy:
+      - same-origin
+      Content-Security-Policy:
+      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
+        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
+        upgrade-insecure-requests; block-all-mixed-content
+      Content-Type:
+      - application/json;charset=utf-8
+      Date:
+      - Wed, 03 May 2023 20:44:45 GMT
+      Strict-Transport-Security:
+      - max-age=31536000
+      Set-Cookie:
+      - TS010383f0=01283c52a43eb82f98b26a7ab1aef7583d718e56c8fb8fb54639a1735fd5b1f82d2283f645a6387be11eaaaf656bcbcb22ed66cb9e;
+        Path=/; Domain=.api.census.gov
+      Transfer-Encoding:
+      - chunked
+    body:
+      encoding: UTF-8
+      string: |-
+        [["NAME","S0102_C02_070M","state","county"],
+        ["Tuscaloosa County, Alabama",null,"01","125"]]
+  recorded_at: Wed, 03 May 2023 20:44:45 GMT
 recorded_with: VCR 6.1.0

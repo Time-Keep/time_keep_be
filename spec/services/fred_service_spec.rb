@@ -17,6 +17,7 @@ RSpec.describe FredService, :vcr do
           :data
           ])
       expect(response[:title]).to eq('2023 March Unemployment Rate by County (Percent)')
+      expect(response[:title]).to include('Unemployment Rate by County (Percent)')
       expect(response[:region]).to eq('county')
       expect(response[:seasonality]).to eq('Not Seasonally Adjusted')
       expect(response[:units]).to eq('Percent')

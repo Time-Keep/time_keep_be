@@ -75,6 +75,7 @@ RSpec.describe EstablishmentFacade, :vcr do
           :county,
           :FIP,
           :median_income,
+          :unemployment_rate,
           :industry,
           :NAICS2017_code,
           :employee_count,
@@ -93,6 +94,7 @@ RSpec.describe EstablishmentFacade, :vcr do
       expect(statistic.attributes[:FIP].to_i).to be_an Integer
       expect(statistic.attributes[:FIP]).to eq('073')
       expect(statistic.attributes[:median_income].to_i).to be_an Integer
+      expect(statistic.attributes[:unemployment_rate].to_f).to be_a Float
       expect(statistic.attributes[:industry]).to eq('Jewelry, watch, precious stone, and precious metal merchant wholesalers')
       expect(statistic.attributes[:NAICS2017_code]).to eq('423940')
       expect(statistic.attributes[:employee_count]).to be_an Integer
@@ -119,6 +121,7 @@ RSpec.describe EstablishmentFacade, :vcr do
           :county,
           :FIP,
           :median_income,
+          :unemployment_rate,
           :industry,
           :NAICS2017_code,
           :employee_count,
@@ -127,7 +130,7 @@ RSpec.describe EstablishmentFacade, :vcr do
           ]
         )
       expect(statistic.attributes[:state]).to be_a String
-      expect(statistic.attributes[:state]).to eq('AL')
+      expect(statistic.attributes[:state]).to eq('Alabama')
       expect(statistic.attributes[:st_abbrev]).to be_a String
       expect(statistic.attributes[:st_abbrev]).to eq('AL')
       expect(statistic.attributes[:ST_FIP].to_i).to be_an Integer
@@ -137,6 +140,7 @@ RSpec.describe EstablishmentFacade, :vcr do
       expect(statistic.attributes[:FIP].to_i).to be_an Integer
       expect(statistic.attributes[:FIP]).to eq('125')
       expect(statistic.attributes[:median_income].to_i).to be_an Integer
+      expect(statistic.attributes[:unemployment_rate]).to be_a String
       expect(statistic.attributes[:industry]).to eq('')
       expect(statistic.attributes[:NAICS2017_code]).to eq('')
       expect(statistic.attributes[:employee_count]).to be_an Integer
@@ -187,6 +191,7 @@ RSpec.describe EstablishmentFacade, :vcr do
           :time,
           :state,
           :county,
+          :S0102_C02_070M,
           :NAICS2017_LABEL,
           :ESTAB,
           :EMP,
@@ -204,6 +209,7 @@ RSpec.describe EstablishmentFacade, :vcr do
         expect(statistic[:state]).to eq('01')
         expect(statistic[:county].to_i).to be_an Integer
         expect(statistic[:county]).to eq('073')
+        expect(statistic[:S0102_C02_070M]).to be_a String
         expect(statistic[:NAICS2017_LABEL]).to be_a String
         expect(statistic[:NAICS2017_LABEL]).to eq('Jewelry, watch, precious stone, and precious metal merchant wholesalers')
         expect(statistic[:ESTAB].to_i).to be_an Integer
@@ -221,13 +227,12 @@ RSpec.describe EstablishmentFacade, :vcr do
       st_fip = fips[0..1]
       service = CensusService.county_stats(fip, st_fip)
       stats = EstablishmentFacade.detail_converter(service)
-
       expect(stats).to be_an Array
       stats.each do |statistic|
         expect(statistic).to be_a Hash
-        expect(statistic.keys).to eq([:NAME, :STABREV, :SAEMHI_PT, :time, :state, :county])
+        expect(statistic.keys).to eq([:NAME, :STABREV, :SAEMHI_PT, :time, :state, :county, :S0102_C02_070M])
         expect(statistic[:NAME]).to be_a String
-        expect(statistic[:NAME]).to eq('Tuscaloosa County')
+        expect(statistic[:NAME]).to eq('Tuscaloosa County, Alabama')
         expect(statistic[:STABREV]).to be_a String
         expect(statistic[:STABREV]).to eq('AL')
         expect(statistic[:SAEMHI_PT].to_i).to be_an Integer
@@ -237,6 +242,8 @@ RSpec.describe EstablishmentFacade, :vcr do
         expect(statistic[:state]).to eq('01')
         expect(statistic[:county].to_i).to be_an Integer
         expect(statistic[:county]).to eq('125')
+        expect(statistic[:S0102_C02_070M]).to be_a String
+        expect(statistic[:S0102_C02_070M]).to_not be_nil
       end
     end
   end

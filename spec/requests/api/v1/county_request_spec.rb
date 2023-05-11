@@ -2,7 +2,7 @@ require 'rails_helper'
 require 'csv'
 
 RSpec.describe 'County Request', :vcr do
-  describe "Success" do
+  describe 'successful' do
       let!(:county1) { County.create!(county: 'Tuscaloosa',
                                 county_ascii: 'Tuscaloosa',
                                 county_full: 'Tuscaloosa County',
@@ -47,13 +47,13 @@ RSpec.describe 'County Request', :vcr do
 
       it 'sends data for county' do
         get '/api/v1/county'
-        
+
         expect(response).to be_successful
         expect(response.status).to eq(200)
       end
     end
 
-  describe "bad request" do
+  describe 'unsuccessful' do
       it 'sends 503 for bad request' do
         get '/api/v1/county'
 

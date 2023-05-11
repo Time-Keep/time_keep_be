@@ -16,13 +16,20 @@ class CensusService
       f.params['for'] = "county:#{fip}"
       f.params['in'] = "state:#{st_fip}"
     end
-    response2 = conn.get('/data/2021/cbp?') do |f|
+    response2 = conn.get('/data/2021/acs/acs1/subject?') do |f|
+      f.params['get'] = 'NAME,S0102_C02_070M'
+      f.params['for'] = "county:#{fip}"
+      f.params['in'] = "state:#{st_fip}"
+    end
+    response3 = conn.get('/data/2021/cbp?') do |f|
       f.params['get'] = 'NAME,NAICS2017_LABEL,ESTAB,EMP,PAYANN'
       f.params['for'] = "county:#{fip}"
       f.params['in'] = "state:#{st_fip}"
       f.params['NAICS2017'] = '423940'
     end
-    (parse(response) + parse(response2)).partition.with_index { |_, i| i.even? }.map(&:flatten)
+    (parse(response) + parse(response2) + parse(response3))
+    .partition.with_index { |_, i| i.even? }
+    .map(&:flatten)
   end
 
   def self.conn
@@ -32,6 +39,12 @@ class CensusService
   def self.parse(response)
     response.body == '' ? [] : JSON.parse(response.body, symbolize_names: true)
   end
+
+  # def self.replace_nil(response)
+  #   response.body.map do |r|
+  #     r.values.nil? ? 'Not yet reported' : r.values
+  #   end
+  # end
 end
 
 # https://geoenrich.arcgis.com/arcgis/rest/services/World/GeoEnrichmentServer/StandardGeographyQuery

@@ -35,11 +35,11 @@ http_interactions:
       Content-Type:
       - application/json;charset=utf-8
       Date:
-      - Tue, 02 May 2023 02:36:59 GMT
+      - Wed, 03 May 2023 19:35:21 GMT
       Strict-Transport-Security:
       - max-age=31536000
       Set-Cookie:
-      - TS010383f0=01283c52a467cda3f9b137c589083d8bf11a0ec0f0a495395cccedb5382d1a332023a69f0b1d24a2c7c78a8b17fa45c51d965e3b79;
+      - TS010383f0=01283c52a4cf715499111c87d9c37da24d7ea7ebe7720f3d599a61b6baf7da8746048cbe2378eb47273bf88748514cf10308271eba;
         Path=/; Domain=.api.census.gov
       Transfer-Encoding:
       - chunked
@@ -48,7 +48,56 @@ http_interactions:
       string: |-
         [["NAME","STABREV","SAEMHI_PT","time","state","county"],
         ["Tuscaloosa County","AL","56274","2021","01","125"]]
-  recorded_at: Tue, 02 May 2023 02:36:59 GMT
+  recorded_at: Wed, 03 May 2023 19:35:21 GMT
+- request:
+    method: get
+    uri: https://api.census.gov/data/2021/acs/acs1/subject?for=county:125&get=NAME,S0102_C02_070M&in=state:01&key=census_key
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v2.7.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: ''
+    headers:
+      Cache-Control:
+      - max-age=60, must-revalidate
+      Access-Control-Allow-Origin:
+      - "*"
+      Access-Control-Allow-Methods:
+      - GET,POST
+      Access-Control-Allow-Headers:
+      - Origin, X-Requested-With, Content-Type, Accept
+      Referrer-Policy:
+      - same-origin
+      Content-Security-Policy:
+      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
+        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
+        upgrade-insecure-requests; block-all-mixed-content
+      Content-Type:
+      - application/json;charset=utf-8
+      Date:
+      - Wed, 03 May 2023 19:35:22 GMT
+      Strict-Transport-Security:
+      - max-age=31536000
+      Set-Cookie:
+      - TS010383f0=01283c52a45759ecf181faa9538d0f66775d2744082cb3df8fb7c943e94a80d01e6d34724de5eb23d98b15c87f5f2fd760496c1326;
+        Path=/; Domain=.api.census.gov
+      Transfer-Encoding:
+      - chunked
+    body:
+      encoding: UTF-8
+      string: |-
+        [["NAME","S0102_C02_070M","state","county"],
+        ["Tuscaloosa County, Alabama",null,"01","125"]]
+  recorded_at: Wed, 03 May 2023 19:35:22 GMT
 - request:
     method: get
     uri: https://api.census.gov/data/2021/cbp?NAICS2017=423940&for=county:125&get=NAME,NAICS2017_LABEL,ESTAB,EMP,PAYANN&in=state:01&key=census_key
@@ -82,14 +131,14 @@ http_interactions:
         'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
         upgrade-insecure-requests; block-all-mixed-content
       Date:
-      - Tue, 02 May 2023 02:36:59 GMT
+      - Wed, 03 May 2023 19:35:22 GMT
       Strict-Transport-Security:
       - max-age=31536000
       Set-Cookie:
-      - TS010383f0=01283c52a44478863373121f926802a3e7b6a69b40e8fe426aa8d8691e43d3dc56d86cc0b7740de7ad7e50f10926e81f5fb0d2249f;
+      - TS010383f0=01283c52a4067b8ac8f7b26e24229b2c510708bcdab9abc8b932a9697ee687a1e96c2d0a4a970a3e8635313fb97e72cd6c72f112ce;
         Path=/; Domain=.api.census.gov
     body:
       encoding: UTF-8
       string: ''
-  recorded_at: Tue, 02 May 2023 02:37:00 GMT
+  recorded_at: Wed, 03 May 2023 19:35:23 GMT
 recorded_with: VCR 6.1.0

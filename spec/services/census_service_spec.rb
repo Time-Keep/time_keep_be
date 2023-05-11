@@ -39,6 +39,10 @@ RSpec.describe CensusService, :vcr do
         'state',
         'county',
         'NAME',
+        'S0102_C02_070M',
+        'state',
+        'county',
+        'NAME',
         'NAICS2017_LABEL',
         'ESTAB',
         'EMP',
@@ -55,13 +59,19 @@ RSpec.describe CensusService, :vcr do
       expect(response[1][4]).to eq('01')
       expect(response[1][5]).to eq('073')
       expect(response[1][6]).to eq('Jefferson County, Alabama')
-      expect(response[1][7]).to eq('Jewelry, watch, precious stone, and precious metal merchant wholesalers')
+      expect(response[1][7].to_f).to be_a(Float)
       expect(response[1][8].to_i).to be_an Integer
+      expect(response[1][8]).to eq('01')
       expect(response[1][9].to_i).to be_an Integer
-      expect(response[1][10].to_i).to be_an Integer
-      expect(response[1][11]).to eq('423940')
-      expect(response[1][12]).to eq('01')
-      expect(response[1][13]).to eq('073')
+      expect(response[1][9]).to eq('073')
+      expect(response[1][10]).to eq('Jefferson County, Alabama')
+      expect(response[1][11]).to eq('Jewelry, watch, precious stone, and precious metal merchant wholesalers')
+      expect(response[1][12].to_i).to be_an Integer
+      expect(response[1][13].to_i).to be_an Integer
+      expect(response[1][14].to_i).to be_an Integer
+      expect(response[1][15]).to eq('423940')
+      expect(response[1][16]).to eq('01')
+      expect(response[1][17]).to eq('073')
     end
 
     it 'returns empty jewelry wholesaler stats for a county' do
@@ -78,6 +88,10 @@ RSpec.describe CensusService, :vcr do
         'SAEMHI_PT',
         'time',
         'state',
+        'county',
+        'NAME',
+        'S0102_C02_070M',
+        'state',
         'county'
         ])
       expect(response[1]).to be_an Array
@@ -87,6 +101,10 @@ RSpec.describe CensusService, :vcr do
       expect(response[1][3]).to eq('2021')
       expect(response[1][4]).to eq('01')
       expect(response[1][5]).to eq('125')
+      expect(response[1][6]).to eq('Tuscaloosa County, Alabama')
+      expect(response[1][7]).to be_nil
+      expect(response[1][8]).to eq('01')
+      expect(response[1][9]).to eq('125')
     end
   end
 end

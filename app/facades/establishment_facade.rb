@@ -40,6 +40,7 @@ class EstablishmentFacade
           county: detail[:NAME].split(', ').first,
           FIP: detail[:county],
           median_income: detail[:SAEMHI_PT],
+          unemployment_rate: detail[:S0102_C02_070M],
           industry: detail[:NAICS2017_LABEL] || '',
           NAICS2017_code: detail[:NAICS2017] || '',
           employee_count: detail[:EMP].to_i || 0,
@@ -53,8 +54,13 @@ class EstablishmentFacade
   def self.detail_converter(service)
     headers = [service[0]]
     attrs = service[1..]
-    attrs.map(&headers.first.method(:zip))
+    conversion = attrs.map(&headers.first.method(:zip))
     .map(&:to_h)
     .map(&:symbolize_keys)
+    replace_nil(conversion)
+  end
+
+  def self.replace_nil(arg)
+    arg.map { |h| h.transform_values { |value| value.nil? ? 'Not yet reported' : value } }
   end
 end

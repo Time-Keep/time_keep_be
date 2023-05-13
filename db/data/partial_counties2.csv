@@ -1,4 +1,4 @@
-county,county_ascii,county_full,county_fips,state_id,state_name,lat,lon,population,county_unemployment_rate,state_unemployment,county_median_income,tax_rate
+name,county_ascii,county_full,fips,state_abbrev,state_name,lat,lon,population,unemployment_rate,state_unemployment,median_income,tax_rate
 Douglas,Douglas,Douglas County,32005,NV,Nevada,38.9123,-119.616,49158,3.3,7.2,"52,754",7.10
 Elko,Elko,Elko County,32007,NV,Nevada,41.1457,-115.358,53420,3.8,7.2,"55,007",7.10
 Esmeralda,Esmeralda,Esmeralda County,32009,NV,Nevada,37.7846,-117.632,987,2.6,7.2,"49,606",6.85

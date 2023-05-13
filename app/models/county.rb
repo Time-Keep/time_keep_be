@@ -1,34 +1,38 @@
 class County < ApplicationRecord
-  validates :county,
-            :county_ascii,
+  validates :name,
             :county_full,
-            :county_fips,
-            :state_id,
-            :state_name,
+            :fips,
             :lat,
             :lon,
             :population,
-            :county_unemployment_rate,
-            :state_unemployment,
-            :county_median_income,
+            :unemployment_rate,
+            :median_income,
             :tax_rate,
             presence: true
-  validate :establishment_count
+  validate :establishment_count,
+           :annual_wages
 
-  def industry_estab_count
-    self.establishment_count = DetailFetcher.fetch_estab_count(self.lat, self.lon)
+  belongs_to :state
+
+  def jewelry_retailer_count
+    self.establishment_count = DetailFetcher.fetch_retailer_count(self.lat, self.lon)
   end
 
-  def industry_estab_count2
-    self.establishment_count = DetailFetcher.fetch_estab_count2(self.lat, self.lon)
+  def jewelry_retailer_count2
+    self.establishment_count = DetailFetcher.fetch_retailer_count2(self.lat, self.lon)
   end
 
   def county_details
     details = DetailFetcher.fetch_county_stats(fip, st_fip)
+    self.median_income = details[:median_income]
+    self.unemployment_rate =
+      details[:unemployment_rate] == 'Not yet reported' ? self.unemployment_rate : details[:unemployment_rate]
+    self.establishment_count = details[:establishment_count]
+    self.annual_wages = details[:average_industry_wage]
   end
 
   def fip_format
-    self.county_fips.rjust(5, '0')
+    self.fips.rjust(5, '0')
   end
 
   def fip
@@ -37,5 +41,9 @@ class County < ApplicationRecord
 
   def st_fip
     fip_format[0..1]
+  end
+
+  def extract_state_id
+    self.fips.chop.chop.chop
   end
 end

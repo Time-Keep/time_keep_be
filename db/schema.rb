@@ -10,28 +10,37 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2023_04_25_213802) do
+ActiveRecord::Schema.define(version: 2023_05_12_040954) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
   create_table "counties", force: :cascade do |t|
-    t.string "county"
-    t.string "county_ascii"
+    t.string "name"
     t.string "county_full"
-    t.string "county_fips"
-    t.string "state_id"
-    t.string "state_name"
+    t.string "fips"
     t.string "lat"
     t.string "lon"
     t.string "population"
-    t.string "county_unemployment_rate"
-    t.string "state_unemployment"
-    t.string "county_median_income"
+    t.string "unemployment_rate"
+    t.string "median_income"
     t.string "tax_rate"
     t.integer "establishment_count", default: 0
+    t.integer "annual_wages", default: 0
+    t.bigint "state_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["state_id"], name: "index_counties_on_state_id"
+  end
+
+  create_table "states", force: :cascade do |t|
+    t.string "name"
+    t.string "abbrev"
+    t.string "unemp_rate", default: "0"
+    t.string "tax_rate", default: "0"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
 
+  add_foreign_key "counties", "states"
 end

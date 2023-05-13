@@ -1,0 +1,52 @@
+id,name,abbrev,unemp_rate,tax_rate,minimum_wage
+1,Alabama,AL,3.4,4,7.25
+2,Alaska,AK,6.4,0,10.85
+4,Arizona,AZ,4.9,5.6,11.00
+5,Arkansas,AR,4,6.5,13.85
+6,California,CA,7.3,7.25,15.50
+8,Colorado,CO,5.4,2.9,13.65
+9,Connecticut,CT,6.3,6.35,14.00
+10,Delaware,DE,5.3,0,11.75
+11,District of Columbia,DC,6.6,0,17.00
+12,Florida,FL,4.6,6,11.00
+13,Georgia,GA,3.9,4,7.25
+15,Hawaii,HI,5.7,4,12.00
+16,Idaho,ID,3.6,6,7.25
+17,Illinois,IL,6.1,6.25,13.00
+18,Indiana,IN,3.6,7,7.25
+19,Iowa,IA,4.2,6,7.25
+20,Kansas,KS,3.2,6.5,7.25
+21,Kentucky,KY,4.7,6,7.25
+22,Louisiana,LA,5.5,4.45,7.25
+23,Maine,ME,4.6,5.5,15.00
+24,Maryland,MD,5.8,6,13.25
+25,Massachusetts,MA,5.7,6.25,13.80
+26,Michigan,MI,5.9,6,10.10
+27,Minnesota,MN,3.4,6.88,10.59
+28,Mississippi,MS,5.6,7,7.25
+29,Missouri,MO,4.4,4.23,12.00
+30,Montana,MT,3.4,0,9.95
+31,Nebraska,NE,2.5,5.5,10.50
+32,Nevada,NV,7.2,6.85,10.50
+33,New Hampshire,NH,3.5,0,7.25
+34,New Jersey,NJ,6.3,6.63,14.13
+35,New Mexico,NM,6.8,5.13,12.00
+36,New York,NY,6.9,4,14.20
+37,North Carolina,NC,4.8,4.75,7.25
+38,North Dakota,ND,3.7,5,7.25
+39,Ohio,OH,5.1,5.75,10.10
+40,Oklahoma,OK,3.8,4.5,7.25
+41,Oregon,OR,5.2,0,13.50
+42,Pennsylvania,PA,6.3,6,7.25
+44,Rhode Island,RI,5.6,7,13.00
+45,South Carolina,SC,4,6,7.25
+46,South Dakota,SD,3.1,4.5,10.80
+47,Tennessee,TN,4.3,7,7.25
+48,Texas,TX,5.7,6.25,7.25
+49,Utah,UT,2.7,6.1,7.25
+50,Vermont,VT,3.4,6,13.18
+51,Virginia,VA,3.9,5.3,12.00
+53,Washington,WA,5.2,6.5,15.74
+54,West Virginia,WV,5,6,8.75
+55,Wisconsin,WI,3.8,5,7.25
+56,Wyoming,WY,4.5,4,7.25

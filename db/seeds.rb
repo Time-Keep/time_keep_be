@@ -5,6 +5,8 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+# pg_ctl -D time_keep_be_development -l logfile start
+# pg_dump -Fc --verbose --clean --no-acl --no-owner -h localhost -d time_keep_be_development -f db/data/time_keep_be_development.pgdump
 cmd = 'pg_restore --verbose --clean --no-acl --no-owner -h localhost -U $(whoami) -d time_keep_be_development db/data/time_keep_be_development.pgdump'
 puts 'Loading PostgreSQL Data dump into local database with command:'
 puts cmd

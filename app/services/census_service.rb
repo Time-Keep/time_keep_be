@@ -39,12 +39,6 @@ class CensusService
   def self.parse(response)
     response.body == '' ? [] : JSON.parse(response.body, symbolize_names: true)
   end
-
-  # def self.replace_nil(response)
-  #   response.body.map do |r|
-  #     r.values.nil? ? 'Not yet reported' : r.values
-  #   end
-  # end
 end
 
 # https://geoenrich.arcgis.com/arcgis/rest/services/World/GeoEnrichmentServer/StandardGeographyQuery

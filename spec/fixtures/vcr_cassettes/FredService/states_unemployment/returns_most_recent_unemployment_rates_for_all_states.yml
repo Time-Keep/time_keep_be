@@ -1,0 +1,199 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.stlouisfed.org/geofred/regional/data?api_key=app_key&date=2023-05-12&file_type=json&frequency=m&region_type=state&season=SA&series_group=1224&units=Percent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v2.7.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - application/json; charset=UTF-8
+      Etag:
+      - '"7d29338b86cdd5d02091cb637c494db3-gzip"'
+      Expires:
+      - Sat, 13 May 2023 20:02:27 GMT
+      X-Rate-Limit-Limit:
+      - '120'
+      X-Rate-Limit-Remaining:
+      - '120'
+      Vary:
+      - Accept-Encoding
+      Date:
+      - Fri, 12 May 2023 20:13:28 GMT
+      Content-Length:
+      - '3526'
+      Connection:
+      - keep-alive
+    body:
+      encoding: UTF-8
+      string: '{"meta":{"title":"2023 March Unemployment Rate by State (Percent)","region":"state","seasonality":"Seasonally
+        Adjusted","units":"Percent","frequency":"Monthly","data":{"2023-03-01":[{"region":"New
+        Hampshire","code":"33","value":2.4,"series_id":"NHUR"},{"region":"Alaska","code":"02","value":3.7,"series_id":"AKUR"},{"region":"Alabama","code":"01","value":2.3,"series_id":"ALUR"},{"region":"Arizona","code":"04","value":3.5,"series_id":"AZUR"},{"region":"California","code":"06","value":4.4,"series_id":"CAUR"},{"region":"Connecticut","code":"09","value":4,"series_id":"CTUR"},{"region":"District
+        of Columbia","code":"11","value":4.8,"series_id":"DCUR"},{"region":"Delaware","code":"10","value":4.4,"series_id":"DEUR"},{"region":"Florida","code":"12","value":2.6,"series_id":"FLUR"},{"region":"Georgia","code":"13","value":3.1,"series_id":"GAUR"},{"region":"Hawaii","code":"15","value":3.5,"series_id":"HIUR"},{"region":"Iowa","code":"19","value":2.8,"series_id":"IAUR"},{"region":"Idaho","code":"16","value":2.6,"series_id":"IDUR"},{"region":"Illinois","code":"17","value":4.4,"series_id":"ILUR"},{"region":"Kansas","code":"20","value":2.9,"series_id":"KSUR"},{"region":"Kentucky","code":"21","value":3.8,"series_id":"KYUR"},{"region":"Louisiana","code":"22","value":3.6,"series_id":"LAUR"},{"region":"Massachusetts","code":"25","value":3.5,"series_id":"MAUR"},{"region":"Maryland","code":"24","value":2.7,"series_id":"MDUR"},{"region":"Maine","code":"23","value":2.6,"series_id":"MEUR"},{"region":"Michigan","code":"26","value":4.1,"series_id":"MIUR"},{"region":"Minnesota","code":"27","value":2.8,"series_id":"MNUR"},{"region":"Missouri","code":"29","value":2.5,"series_id":"MOUR"},{"region":"Mississippi","code":"28","value":3.5,"series_id":"MSUR"},{"region":"Montana","code":"30","value":2.3,"series_id":"MTUR"},{"region":"North
+        Carolina","code":"37","value":3.5,"series_id":"NCUR"},{"region":"North Dakota","code":"38","value":2.1,"series_id":"NDUR"},{"region":"Nebraska","code":"31","value":2.1,"series_id":"NEUR"},{"region":"New
+        Jersey","code":"34","value":3.5,"series_id":"NJUR"},{"region":"New Mexico","code":"35","value":3.5,"series_id":"NMUR"},{"region":"Nevada","code":"32","value":5.5,"series_id":"NVUR"},{"region":"New
+        York","code":"36","value":4.1,"series_id":"NYUR"},{"region":"Ohio","code":"39","value":3.8,"series_id":"OHUR"},{"region":"Oklahoma","code":"40","value":3,"series_id":"OKUR"},{"region":"Oregon","code":"41","value":4.4,"series_id":"ORUR"},{"region":"Pennsylvania","code":"42","value":4.2,"series_id":"PAUR"},{"region":"Rhode
+        Island","code":"44","value":3.1,"series_id":"RIUR"},{"region":"South Carolina","code":"45","value":3.2,"series_id":"SCUR"},{"region":"Tennessee","code":"47","value":3.4,"series_id":"TNUR"},{"region":"Utah","code":"49","value":2.4,"series_id":"UTUR"},{"region":"Virginia","code":"51","value":3.2,"series_id":"VAUR"},{"region":"Vermont","code":"50","value":2.7,"series_id":"VTUR"},{"region":"Washington","code":"53","value":4.5,"series_id":"WAUR"},{"region":"Wisconsin","code":"55","value":2.5,"series_id":"WIUR"},{"region":"West
+        Virginia","code":"54","value":3.4,"series_id":"WVUR"},{"region":"Wyoming","code":"56","value":3.7,"series_id":"WYUR"},{"region":"Texas","code":"48","value":4,"series_id":"TXUR"},{"region":"Arkansas","code":"05","value":3,"series_id":"ARUR"},{"region":"Colorado","code":"08","value":2.8,"series_id":"COUR"},{"region":"South
+        Dakota","code":"46","value":1.9,"series_id":"SDUR"},{"region":"Indiana","code":"18","value":3.1,"series_id":"INUR"}]}}}'
+  recorded_at: Fri, 12 May 2023 20:13:28 GMT
+- request:
+    method: get
+    uri: https://api.stlouisfed.org/geofred/regional/data?api_key=app_key&date=2023-05-12&file_type=json&frequency=m&region_type=state&season=SA&series_group=1224&units=Percent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v2.7.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - application/json; charset=UTF-8
+      Etag:
+      - '"7d29338b86cdd5d02091cb637c494db3-gzip"'
+      Expires:
+      - Sat, 13 May 2023 20:02:27 GMT
+      X-Rate-Limit-Limit:
+      - '120'
+      X-Rate-Limit-Remaining:
+      - '120'
+      Vary:
+      - Accept-Encoding
+      Date:
+      - Fri, 12 May 2023 20:22:21 GMT
+      Content-Length:
+      - '3526'
+      Connection:
+      - keep-alive
+    body:
+      encoding: UTF-8
+      string: '{"meta":{"title":"2023 March Unemployment Rate by State (Percent)","region":"state","seasonality":"Seasonally
+        Adjusted","units":"Percent","frequency":"Monthly","data":{"2023-03-01":[{"region":"New
+        Hampshire","code":"33","value":2.4,"series_id":"NHUR"},{"region":"Alaska","code":"02","value":3.7,"series_id":"AKUR"},{"region":"Alabama","code":"01","value":2.3,"series_id":"ALUR"},{"region":"Arizona","code":"04","value":3.5,"series_id":"AZUR"},{"region":"California","code":"06","value":4.4,"series_id":"CAUR"},{"region":"Connecticut","code":"09","value":4,"series_id":"CTUR"},{"region":"District
+        of Columbia","code":"11","value":4.8,"series_id":"DCUR"},{"region":"Delaware","code":"10","value":4.4,"series_id":"DEUR"},{"region":"Florida","code":"12","value":2.6,"series_id":"FLUR"},{"region":"Georgia","code":"13","value":3.1,"series_id":"GAUR"},{"region":"Hawaii","code":"15","value":3.5,"series_id":"HIUR"},{"region":"Iowa","code":"19","value":2.8,"series_id":"IAUR"},{"region":"Idaho","code":"16","value":2.6,"series_id":"IDUR"},{"region":"Illinois","code":"17","value":4.4,"series_id":"ILUR"},{"region":"Kansas","code":"20","value":2.9,"series_id":"KSUR"},{"region":"Kentucky","code":"21","value":3.8,"series_id":"KYUR"},{"region":"Louisiana","code":"22","value":3.6,"series_id":"LAUR"},{"region":"Massachusetts","code":"25","value":3.5,"series_id":"MAUR"},{"region":"Maryland","code":"24","value":2.7,"series_id":"MDUR"},{"region":"Maine","code":"23","value":2.6,"series_id":"MEUR"},{"region":"Michigan","code":"26","value":4.1,"series_id":"MIUR"},{"region":"Minnesota","code":"27","value":2.8,"series_id":"MNUR"},{"region":"Missouri","code":"29","value":2.5,"series_id":"MOUR"},{"region":"Mississippi","code":"28","value":3.5,"series_id":"MSUR"},{"region":"Montana","code":"30","value":2.3,"series_id":"MTUR"},{"region":"North
+        Carolina","code":"37","value":3.5,"series_id":"NCUR"},{"region":"North Dakota","code":"38","value":2.1,"series_id":"NDUR"},{"region":"Nebraska","code":"31","value":2.1,"series_id":"NEUR"},{"region":"New
+        Jersey","code":"34","value":3.5,"series_id":"NJUR"},{"region":"New Mexico","code":"35","value":3.5,"series_id":"NMUR"},{"region":"Nevada","code":"32","value":5.5,"series_id":"NVUR"},{"region":"New
+        York","code":"36","value":4.1,"series_id":"NYUR"},{"region":"Ohio","code":"39","value":3.8,"series_id":"OHUR"},{"region":"Oklahoma","code":"40","value":3,"series_id":"OKUR"},{"region":"Oregon","code":"41","value":4.4,"series_id":"ORUR"},{"region":"Pennsylvania","code":"42","value":4.2,"series_id":"PAUR"},{"region":"Rhode
+        Island","code":"44","value":3.1,"series_id":"RIUR"},{"region":"South Carolina","code":"45","value":3.2,"series_id":"SCUR"},{"region":"Tennessee","code":"47","value":3.4,"series_id":"TNUR"},{"region":"Utah","code":"49","value":2.4,"series_id":"UTUR"},{"region":"Virginia","code":"51","value":3.2,"series_id":"VAUR"},{"region":"Vermont","code":"50","value":2.7,"series_id":"VTUR"},{"region":"Washington","code":"53","value":4.5,"series_id":"WAUR"},{"region":"Wisconsin","code":"55","value":2.5,"series_id":"WIUR"},{"region":"West
+        Virginia","code":"54","value":3.4,"series_id":"WVUR"},{"region":"Wyoming","code":"56","value":3.7,"series_id":"WYUR"},{"region":"Texas","code":"48","value":4,"series_id":"TXUR"},{"region":"Arkansas","code":"05","value":3,"series_id":"ARUR"},{"region":"Colorado","code":"08","value":2.8,"series_id":"COUR"},{"region":"South
+        Dakota","code":"46","value":1.9,"series_id":"SDUR"},{"region":"Indiana","code":"18","value":3.1,"series_id":"INUR"}]}}}'
+  recorded_at: Fri, 12 May 2023 20:22:21 GMT
+- request:
+    method: get
+    uri: https://api.stlouisfed.org/geofred/regional/data?api_key=app_key&date=2023-05-12&file_type=json&frequency=m&region_type=state&season=SA&series_group=1224&units=Percent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v2.7.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - application/json; charset=UTF-8
+      Etag:
+      - '"7d29338b86cdd5d02091cb637c494db3-gzip"'
+      Expires:
+      - Sat, 13 May 2023 20:02:27 GMT
+      X-Rate-Limit-Limit:
+      - '120'
+      X-Rate-Limit-Remaining:
+      - '120'
+      Vary:
+      - Accept-Encoding
+      Date:
+      - Fri, 12 May 2023 20:23:54 GMT
+      Content-Length:
+      - '3526'
+      Connection:
+      - keep-alive
+    body:
+      encoding: UTF-8
+      string: '{"meta":{"title":"2023 March Unemployment Rate by State (Percent)","region":"state","seasonality":"Seasonally
+        Adjusted","units":"Percent","frequency":"Monthly","data":{"2023-03-01":[{"region":"New
+        Hampshire","code":"33","value":2.4,"series_id":"NHUR"},{"region":"Alaska","code":"02","value":3.7,"series_id":"AKUR"},{"region":"Alabama","code":"01","value":2.3,"series_id":"ALUR"},{"region":"Arizona","code":"04","value":3.5,"series_id":"AZUR"},{"region":"California","code":"06","value":4.4,"series_id":"CAUR"},{"region":"Connecticut","code":"09","value":4,"series_id":"CTUR"},{"region":"District
+        of Columbia","code":"11","value":4.8,"series_id":"DCUR"},{"region":"Delaware","code":"10","value":4.4,"series_id":"DEUR"},{"region":"Florida","code":"12","value":2.6,"series_id":"FLUR"},{"region":"Georgia","code":"13","value":3.1,"series_id":"GAUR"},{"region":"Hawaii","code":"15","value":3.5,"series_id":"HIUR"},{"region":"Iowa","code":"19","value":2.8,"series_id":"IAUR"},{"region":"Idaho","code":"16","value":2.6,"series_id":"IDUR"},{"region":"Illinois","code":"17","value":4.4,"series_id":"ILUR"},{"region":"Kansas","code":"20","value":2.9,"series_id":"KSUR"},{"region":"Kentucky","code":"21","value":3.8,"series_id":"KYUR"},{"region":"Louisiana","code":"22","value":3.6,"series_id":"LAUR"},{"region":"Massachusetts","code":"25","value":3.5,"series_id":"MAUR"},{"region":"Maryland","code":"24","value":2.7,"series_id":"MDUR"},{"region":"Maine","code":"23","value":2.6,"series_id":"MEUR"},{"region":"Michigan","code":"26","value":4.1,"series_id":"MIUR"},{"region":"Minnesota","code":"27","value":2.8,"series_id":"MNUR"},{"region":"Missouri","code":"29","value":2.5,"series_id":"MOUR"},{"region":"Mississippi","code":"28","value":3.5,"series_id":"MSUR"},{"region":"Montana","code":"30","value":2.3,"series_id":"MTUR"},{"region":"North
+        Carolina","code":"37","value":3.5,"series_id":"NCUR"},{"region":"North Dakota","code":"38","value":2.1,"series_id":"NDUR"},{"region":"Nebraska","code":"31","value":2.1,"series_id":"NEUR"},{"region":"New
+        Jersey","code":"34","value":3.5,"series_id":"NJUR"},{"region":"New Mexico","code":"35","value":3.5,"series_id":"NMUR"},{"region":"Nevada","code":"32","value":5.5,"series_id":"NVUR"},{"region":"New
+        York","code":"36","value":4.1,"series_id":"NYUR"},{"region":"Ohio","code":"39","value":3.8,"series_id":"OHUR"},{"region":"Oklahoma","code":"40","value":3,"series_id":"OKUR"},{"region":"Oregon","code":"41","value":4.4,"series_id":"ORUR"},{"region":"Pennsylvania","code":"42","value":4.2,"series_id":"PAUR"},{"region":"Rhode
+        Island","code":"44","value":3.1,"series_id":"RIUR"},{"region":"South Carolina","code":"45","value":3.2,"series_id":"SCUR"},{"region":"Tennessee","code":"47","value":3.4,"series_id":"TNUR"},{"region":"Utah","code":"49","value":2.4,"series_id":"UTUR"},{"region":"Virginia","code":"51","value":3.2,"series_id":"VAUR"},{"region":"Vermont","code":"50","value":2.7,"series_id":"VTUR"},{"region":"Washington","code":"53","value":4.5,"series_id":"WAUR"},{"region":"Wisconsin","code":"55","value":2.5,"series_id":"WIUR"},{"region":"West
+        Virginia","code":"54","value":3.4,"series_id":"WVUR"},{"region":"Wyoming","code":"56","value":3.7,"series_id":"WYUR"},{"region":"Texas","code":"48","value":4,"series_id":"TXUR"},{"region":"Arkansas","code":"05","value":3,"series_id":"ARUR"},{"region":"Colorado","code":"08","value":2.8,"series_id":"COUR"},{"region":"South
+        Dakota","code":"46","value":1.9,"series_id":"SDUR"},{"region":"Indiana","code":"18","value":3.1,"series_id":"INUR"}]}}}'
+  recorded_at: Fri, 12 May 2023 20:23:53 GMT
+- request:
+    method: get
+    uri: https://api.stlouisfed.org/geofred/regional/data?api_key=app_key&date=2023-05-12&file_type=json&frequency=m&region_type=state&season=SA&series_group=1224&units=Percent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v2.7.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - application/json; charset=UTF-8
+      Etag:
+      - '"7d29338b86cdd5d02091cb637c494db3-gzip"'
+      Expires:
+      - Sat, 13 May 2023 20:02:27 GMT
+      X-Rate-Limit-Limit:
+      - '120'
+      X-Rate-Limit-Remaining:
+      - '120'
+      Vary:
+      - Accept-Encoding
+      Date:
+      - Sat, 13 May 2023 01:18:35 GMT
+      Content-Length:
+      - '3526'
+      Connection:
+      - keep-alive
+    body:
+      encoding: UTF-8
+      string: '{"meta":{"title":"2023 March Unemployment Rate by State (Percent)","region":"state","seasonality":"Seasonally
+        Adjusted","units":"Percent","frequency":"Monthly","data":{"2023-03-01":[{"region":"New
+        Hampshire","code":"33","value":2.4,"series_id":"NHUR"},{"region":"Alaska","code":"02","value":3.7,"series_id":"AKUR"},{"region":"Alabama","code":"01","value":2.3,"series_id":"ALUR"},{"region":"Arizona","code":"04","value":3.5,"series_id":"AZUR"},{"region":"California","code":"06","value":4.4,"series_id":"CAUR"},{"region":"Connecticut","code":"09","value":4,"series_id":"CTUR"},{"region":"District
+        of Columbia","code":"11","value":4.8,"series_id":"DCUR"},{"region":"Delaware","code":"10","value":4.4,"series_id":"DEUR"},{"region":"Florida","code":"12","value":2.6,"series_id":"FLUR"},{"region":"Georgia","code":"13","value":3.1,"series_id":"GAUR"},{"region":"Hawaii","code":"15","value":3.5,"series_id":"HIUR"},{"region":"Iowa","code":"19","value":2.8,"series_id":"IAUR"},{"region":"Idaho","code":"16","value":2.6,"series_id":"IDUR"},{"region":"Illinois","code":"17","value":4.4,"series_id":"ILUR"},{"region":"Kansas","code":"20","value":2.9,"series_id":"KSUR"},{"region":"Kentucky","code":"21","value":3.8,"series_id":"KYUR"},{"region":"Louisiana","code":"22","value":3.6,"series_id":"LAUR"},{"region":"Massachusetts","code":"25","value":3.5,"series_id":"MAUR"},{"region":"Maryland","code":"24","value":2.7,"series_id":"MDUR"},{"region":"Maine","code":"23","value":2.6,"series_id":"MEUR"},{"region":"Michigan","code":"26","value":4.1,"series_id":"MIUR"},{"region":"Minnesota","code":"27","value":2.8,"series_id":"MNUR"},{"region":"Missouri","code":"29","value":2.5,"series_id":"MOUR"},{"region":"Mississippi","code":"28","value":3.5,"series_id":"MSUR"},{"region":"Montana","code":"30","value":2.3,"series_id":"MTUR"},{"region":"North
+        Carolina","code":"37","value":3.5,"series_id":"NCUR"},{"region":"North Dakota","code":"38","value":2.1,"series_id":"NDUR"},{"region":"Nebraska","code":"31","value":2.1,"series_id":"NEUR"},{"region":"New
+        Jersey","code":"34","value":3.5,"series_id":"NJUR"},{"region":"New Mexico","code":"35","value":3.5,"series_id":"NMUR"},{"region":"Nevada","code":"32","value":5.5,"series_id":"NVUR"},{"region":"New
+        York","code":"36","value":4.1,"series_id":"NYUR"},{"region":"Ohio","code":"39","value":3.8,"series_id":"OHUR"},{"region":"Oklahoma","code":"40","value":3,"series_id":"OKUR"},{"region":"Oregon","code":"41","value":4.4,"series_id":"ORUR"},{"region":"Pennsylvania","code":"42","value":4.2,"series_id":"PAUR"},{"region":"Rhode
+        Island","code":"44","value":3.1,"series_id":"RIUR"},{"region":"South Carolina","code":"45","value":3.2,"series_id":"SCUR"},{"region":"Tennessee","code":"47","value":3.4,"series_id":"TNUR"},{"region":"Utah","code":"49","value":2.4,"series_id":"UTUR"},{"region":"Virginia","code":"51","value":3.2,"series_id":"VAUR"},{"region":"Vermont","code":"50","value":2.7,"series_id":"VTUR"},{"region":"Washington","code":"53","value":4.5,"series_id":"WAUR"},{"region":"Wisconsin","code":"55","value":2.5,"series_id":"WIUR"},{"region":"West
+        Virginia","code":"54","value":3.4,"series_id":"WVUR"},{"region":"Wyoming","code":"56","value":3.7,"series_id":"WYUR"},{"region":"Texas","code":"48","value":4,"series_id":"TXUR"},{"region":"Arkansas","code":"05","value":3,"series_id":"ARUR"},{"region":"Colorado","code":"08","value":2.8,"series_id":"COUR"},{"region":"South
+        Dakota","code":"46","value":1.9,"series_id":"SDUR"},{"region":"Indiana","code":"18","value":3.1,"series_id":"INUR"}]}}}'
+  recorded_at: Sat, 13 May 2023 01:18:35 GMT
+recorded_with: VCR 6.1.0

@@ -1,5 +1,5 @@
 class TomTomService
-  def self.jewelry_estabs(lat,lon)
+  def self.jewelry_retailers(lat,lon)
     response = conn.get('/search/2/nearbySearch/.json?') do |faraday|
       faraday.params['country'] = 'US'
       faraday.params['categorySet'] = '9361036'
@@ -10,7 +10,7 @@ class TomTomService
     parse(response)
   end
 
-  def self.jewelry_estabs2(lat,lon)
+  def self.jewelry_retailers2(lat,lon)
     response = conn.get('/search/2/nearbySearch/.json?') do |faraday|
       faraday.params['country'] = 'US'
       faraday.params['categorySet'] = '9361036'

@@ -1,13 +1,13 @@
 module DetailFetcher
-  def self.fetch_estab_count(lat, lon)
-    EstablishmentFacade.estab_count(lat, lon)
+  def self.fetch_retailer_count(lat, lon)
+    DemographicFacade.retailer_count(lat, lon)
   end
 
-  def self.fetch_estab_count2(lat, lon)
-    EstablishmentFacade.estab_count2(lat, lon)
+  def self.fetch_retailer_count2(lat, lon)
+    DemographicFacade.retailer_count2(lat, lon)
   end
 
   def self.fetch_county_stats(fip, st_fip)
-    EstablishmentFacade.county_stats(fip, st_fip).attributes
+    DemographicFacade.county_stats(fip, st_fip).attributes
   end
 end

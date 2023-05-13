@@ -1,20 +1,20 @@
 class CountySerializer
-    def self.counties(data)
+  def self.counties(data)
+    {
+      "counties": data.map do |x|
         {
-            "counties": data.map do |x|
-                {
-                    "state": x[:state_name],
-                    "counties": {
-                        "county_name": x[:county],
-                        "average_wage": x[:county_median_income],
-                        "median_income": x[:county_median_income],
-                        "unemployment": x[:county_unemployment_rate],
-                        "annual_avg_establishment_count": x[:establishment_count],
-                        "combined_tax_rate": x[:tax_rate],
-                        "total_annual_wages": x[:county_median_income] 
-                }  
-                }
-            end
-        }
-    end
+          "state": x.state.name,
+          "counties": {
+            "county_name": x[:name],
+            "average_wage": x[:annual_wages] / 12 / 52 / 40,
+            "median_income": x[:median_income],
+            "unemployment": x[:unemployment_rate],
+            "annual_avg_establishment_count": x[:establishment_count],
+            "combined_tax_rate": (x[:tax_rate].to_f + x.state.tax_rate.to_f).to_s,
+            "total_annual_wages": x[:annual_wages]
+            }
+          }
+      end
+    }
+  end
 end

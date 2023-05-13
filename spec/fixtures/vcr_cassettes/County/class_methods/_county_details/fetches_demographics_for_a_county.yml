@@ -35,11 +35,11 @@ http_interactions:
       Content-Type:
       - application/json;charset=utf-8
       Date:
-      - Tue, 02 May 2023 03:43:32 GMT
+      - Fri, 12 May 2023 03:54:04 GMT
       Strict-Transport-Security:
       - max-age=31536000
       Set-Cookie:
-      - TS010383f0=01283c52a42a6769956390817fde549b505b773c3388bb7284eaa48fdd6a8819dbad631a8e974f8c80180626bb8203c0353258acd9;
+      - TS010383f0=01283c52a4d9898e8b056847ce76cca85cd871bb79ebbe69b82b2bca6955b379df36a083dde12cbe18b164f39c6aacafe3a4d470bb;
         Path=/; Domain=.api.census.gov
       Transfer-Encoding:
       - chunked
@@ -48,1062 +48,7 @@ http_interactions:
       string: |-
         [["NAME","STABREV","SAEMHI_PT","time","state","county"],
         ["Tuscaloosa County","AL","56274","2021","01","125"]]
-  recorded_at: Tue, 02 May 2023 03:43:33 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/2021/cbp?NAICS2017=423940&for=county:125&get=NAME,NAICS2017_LABEL,ESTAB,EMP,PAYANN&in=state:01&key=census_key
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 204
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Date:
-      - Tue, 02 May 2023 03:43:33 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a499512012f6db35633f9cc9d8a6dc91036335b92b05a5d3e3c529d32939de750bd42c58943913aaf37a86a7bf7412d906;
-        Path=/; Domain=.api.census.gov
-    body:
-      encoding: UTF-8
-      string: ''
-  recorded_at: Tue, 02 May 2023 03:43:34 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/timeseries/poverty/saipe?for=county:125&get=NAME,STABREV,SAEMHI_PT&in=state:01&key=census_key&time=2021
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 200
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Content-Type:
-      - application/json;charset=utf-8
-      Date:
-      - Tue, 02 May 2023 03:43:34 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a4f44987c0c4f3ad765a03c0bea77df16e2adaea24589406de2a6ced124364b61adf6f9185474906bff39b1e4401ad0832;
-        Path=/; Domain=.api.census.gov
-      Transfer-Encoding:
-      - chunked
-    body:
-      encoding: UTF-8
-      string: |-
-        [["NAME","STABREV","SAEMHI_PT","time","state","county"],
-        ["Tuscaloosa County","AL","56274","2021","01","125"]]
-  recorded_at: Tue, 02 May 2023 03:43:34 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/2021/cbp?NAICS2017=423940&for=county:125&get=NAME,NAICS2017_LABEL,ESTAB,EMP,PAYANN&in=state:01&key=census_key
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 204
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Date:
-      - Tue, 02 May 2023 03:43:35 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a4989226c66d75e71055419cb15539acb9fbca7920bb8e8147315278dc308a6a5e674441c0d4f446b1322e4435f781fd13;
-        Path=/; Domain=.api.census.gov
-    body:
-      encoding: UTF-8
-      string: ''
-  recorded_at: Tue, 02 May 2023 03:43:35 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/timeseries/poverty/saipe?for=county:125&get=NAME,STABREV,SAEMHI_PT&in=state:01&key=census_key&time=2021
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 200
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Content-Type:
-      - application/json;charset=utf-8
-      Date:
-      - Tue, 02 May 2023 03:43:35 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a46e40cabfaa103f47a0936a33935de24c2ed1c42b54671562f80b0095b17f3fb6c4a664e62130aa064c99008286274d41;
-        Path=/; Domain=.api.census.gov
-      Transfer-Encoding:
-      - chunked
-    body:
-      encoding: UTF-8
-      string: |-
-        [["NAME","STABREV","SAEMHI_PT","time","state","county"],
-        ["Tuscaloosa County","AL","56274","2021","01","125"]]
-  recorded_at: Tue, 02 May 2023 03:43:36 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/2021/cbp?NAICS2017=423940&for=county:125&get=NAME,NAICS2017_LABEL,ESTAB,EMP,PAYANN&in=state:01&key=census_key
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 204
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Date:
-      - Tue, 02 May 2023 03:43:36 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a4cecaed0a827f3a9c8c7f84c34243e598e244dedc6fb50aeaa7e75dc627b33e959dd502bdde01d721a20cc2f7eeb97955;
-        Path=/; Domain=.api.census.gov
-    body:
-      encoding: UTF-8
-      string: ''
-  recorded_at: Tue, 02 May 2023 03:43:37 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/timeseries/poverty/saipe?for=county:125&get=NAME,STABREV,SAEMHI_PT&in=state:01&key=census_key&time=2021
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 200
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Content-Type:
-      - application/json;charset=utf-8
-      Date:
-      - Tue, 02 May 2023 03:43:37 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a4d5e5cdabd90a01c4836ce591241c0ef18284f8e70bb356544198cb92f41f536b19e3e76286c026252673c30408d2ceb2;
-        Path=/; Domain=.api.census.gov
-      Transfer-Encoding:
-      - chunked
-    body:
-      encoding: UTF-8
-      string: |-
-        [["NAME","STABREV","SAEMHI_PT","time","state","county"],
-        ["Tuscaloosa County","AL","56274","2021","01","125"]]
-  recorded_at: Tue, 02 May 2023 03:43:38 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/2021/cbp?NAICS2017=423940&for=county:125&get=NAME,NAICS2017_LABEL,ESTAB,EMP,PAYANN&in=state:01&key=census_key
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 204
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Date:
-      - Tue, 02 May 2023 03:43:39 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a4bae4fa059a3d6c5ddaa2a01194e709e04a83329f4dd7597a981d41633c9008aab836c7b2277a61db22828faf1a4eb9b7;
-        Path=/; Domain=.api.census.gov
-    body:
-      encoding: UTF-8
-      string: ''
-  recorded_at: Tue, 02 May 2023 03:43:39 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/timeseries/poverty/saipe?for=county:125&get=NAME,STABREV,SAEMHI_PT&in=state:01&key=census_key&time=2021
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 200
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Content-Type:
-      - application/json;charset=utf-8
-      Date:
-      - Tue, 02 May 2023 03:43:39 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a42b3b4360f45b0076d5de5c4983cf60309735f749ef478aadd6906d6e0a15d702f2dc216d240ff95ca16ecda9904e70f7;
-        Path=/; Domain=.api.census.gov
-      Transfer-Encoding:
-      - chunked
-    body:
-      encoding: UTF-8
-      string: |-
-        [["NAME","STABREV","SAEMHI_PT","time","state","county"],
-        ["Tuscaloosa County","AL","56274","2021","01","125"]]
-  recorded_at: Tue, 02 May 2023 03:43:40 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/2021/cbp?NAICS2017=423940&for=county:125&get=NAME,NAICS2017_LABEL,ESTAB,EMP,PAYANN&in=state:01&key=census_key
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 204
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Date:
-      - Tue, 02 May 2023 03:43:40 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a4dd28d06e19972f436faadd86b1671a394ae006590bc9ce36f34d77054c8a14610812e1e790f62deaaae02cc875e73b28;
-        Path=/; Domain=.api.census.gov
-    body:
-      encoding: UTF-8
-      string: ''
-  recorded_at: Tue, 02 May 2023 03:43:40 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/timeseries/poverty/saipe?for=county:125&get=NAME,STABREV,SAEMHI_PT&in=state:01&key=census_key&time=2021
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 200
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Content-Type:
-      - application/json;charset=utf-8
-      Date:
-      - Tue, 02 May 2023 03:43:41 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a4028b5d98ec8df90b5a72c74b0aedebe18df026042fdf8a6cdf1b7919cfcefc15f27abe639425bfa662684733fe803dfa;
-        Path=/; Domain=.api.census.gov
-      Transfer-Encoding:
-      - chunked
-    body:
-      encoding: UTF-8
-      string: |-
-        [["NAME","STABREV","SAEMHI_PT","time","state","county"],
-        ["Tuscaloosa County","AL","56274","2021","01","125"]]
-  recorded_at: Tue, 02 May 2023 03:43:41 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/2021/cbp?NAICS2017=423940&for=county:125&get=NAME,NAICS2017_LABEL,ESTAB,EMP,PAYANN&in=state:01&key=census_key
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 204
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Date:
-      - Tue, 02 May 2023 03:43:42 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a4771cc6ae565056122d1eafe902bc9bae1c8920754ccb7f69681576ca3d88f75512022d4c806e5fa06b88c2e141f30413;
-        Path=/; Domain=.api.census.gov
-    body:
-      encoding: UTF-8
-      string: ''
-  recorded_at: Tue, 02 May 2023 03:43:42 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/timeseries/poverty/saipe?for=county:125&get=NAME,STABREV,SAEMHI_PT&in=state:01&key=census_key&time=2021
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 200
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Content-Type:
-      - application/json;charset=utf-8
-      Date:
-      - Tue, 02 May 2023 03:43:42 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a443dde66c15976efc47c7f0fd2656436dc3204036b8c92a5e1e7bacad863386ea3ab8ec125ec0c9c4a2c1cc6eb1eb647a;
-        Path=/; Domain=.api.census.gov
-      Transfer-Encoding:
-      - chunked
-    body:
-      encoding: UTF-8
-      string: |-
-        [["NAME","STABREV","SAEMHI_PT","time","state","county"],
-        ["Tuscaloosa County","AL","56274","2021","01","125"]]
-  recorded_at: Tue, 02 May 2023 03:43:42 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/2021/cbp?NAICS2017=423940&for=county:125&get=NAME,NAICS2017_LABEL,ESTAB,EMP,PAYANN&in=state:01&key=census_key
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 204
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Date:
-      - Tue, 02 May 2023 03:43:43 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a4a7701a81f9efb571c64bb2af64e28b75751e8ff690c36256cc8245bcb11d4d80958dd50e6ee3c3877df8b1cc3732ec62;
-        Path=/; Domain=.api.census.gov
-    body:
-      encoding: UTF-8
-      string: ''
-  recorded_at: Tue, 02 May 2023 03:43:43 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/timeseries/poverty/saipe?for=county:125&get=NAME,STABREV,SAEMHI_PT&in=state:01&key=census_key&time=2021
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 200
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Content-Type:
-      - application/json;charset=utf-8
-      Date:
-      - Tue, 02 May 2023 03:43:43 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a4df0a1cdf04244ea6901a1b0b3b8594b52fd4e6b575db787cd84c6727afe7d256845d820bbffbf8b5f98c77b633658249;
-        Path=/; Domain=.api.census.gov
-      Transfer-Encoding:
-      - chunked
-    body:
-      encoding: UTF-8
-      string: |-
-        [["NAME","STABREV","SAEMHI_PT","time","state","county"],
-        ["Tuscaloosa County","AL","56274","2021","01","125"]]
-  recorded_at: Tue, 02 May 2023 03:43:44 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/2021/cbp?NAICS2017=423940&for=county:125&get=NAME,NAICS2017_LABEL,ESTAB,EMP,PAYANN&in=state:01&key=census_key
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 204
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Date:
-      - Tue, 02 May 2023 03:43:44 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a4c72c203d415d55d7f0978e1e8a1d6005d68c7a217dae8736f80c883e7aa12d755bebd414d87cab72223118d2cf835acb;
-        Path=/; Domain=.api.census.gov
-    body:
-      encoding: UTF-8
-      string: ''
-  recorded_at: Tue, 02 May 2023 03:43:44 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/timeseries/poverty/saipe?for=county:125&get=NAME,STABREV,SAEMHI_PT&in=state:01&key=census_key&time=2021
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 200
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Content-Type:
-      - application/json;charset=utf-8
-      Date:
-      - Tue, 02 May 2023 03:43:45 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a4616ab51e26f531182eeef8dd0878bf34c659d48568ced697ea8d4f48bf1efac0da5b26c904a422ba3680bb1a3c420d36;
-        Path=/; Domain=.api.census.gov
-      Transfer-Encoding:
-      - chunked
-    body:
-      encoding: UTF-8
-      string: |-
-        [["NAME","STABREV","SAEMHI_PT","time","state","county"],
-        ["Tuscaloosa County","AL","56274","2021","01","125"]]
-  recorded_at: Tue, 02 May 2023 03:43:45 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/2021/cbp?NAICS2017=423940&for=county:125&get=NAME,NAICS2017_LABEL,ESTAB,EMP,PAYANN&in=state:01&key=census_key
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 204
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Date:
-      - Tue, 02 May 2023 03:43:45 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a4bf78ea02e88b568bc1f89ffbe15e0d9e02635509fb45e6f33df9d8c6317fe21689bd45e1ec13dd0a98300a7606773004;
-        Path=/; Domain=.api.census.gov
-    body:
-      encoding: UTF-8
-      string: ''
-  recorded_at: Tue, 02 May 2023 03:43:46 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/timeseries/poverty/saipe?for=county:125&get=NAME,STABREV,SAEMHI_PT&in=state:01&key=census_key&time=2021
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 200
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Content-Type:
-      - application/json;charset=utf-8
-      Date:
-      - Tue, 02 May 2023 03:43:47 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a431103bc3bc4032fcea250b40cfa2332989825f5a063d1ae0444c910d716bed578e18bad71d45d0bb6ef1f274905b9547;
-        Path=/; Domain=.api.census.gov
-      Transfer-Encoding:
-      - chunked
-    body:
-      encoding: UTF-8
-      string: |-
-        [["NAME","STABREV","SAEMHI_PT","time","state","county"],
-        ["Tuscaloosa County","AL","56274","2021","01","125"]]
-  recorded_at: Tue, 02 May 2023 03:43:47 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/2021/cbp?NAICS2017=423940&for=county:125&get=NAME,NAICS2017_LABEL,ESTAB,EMP,PAYANN&in=state:01&key=census_key
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 204
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Date:
-      - Tue, 02 May 2023 03:43:47 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a4a9b13d02c5aa61908164193780ef82774e253fe0a24298ceb76786bedc6f4a99a61869977ff0eea137cbcbafb275a6fb;
-        Path=/; Domain=.api.census.gov
-    body:
-      encoding: UTF-8
-      string: ''
-  recorded_at: Tue, 02 May 2023 03:43:48 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/timeseries/poverty/saipe?for=county:125&get=NAME,STABREV,SAEMHI_PT&in=state:01&key=census_key&time=2021
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 200
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Content-Type:
-      - application/json;charset=utf-8
-      Date:
-      - Tue, 02 May 2023 03:43:48 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a4c59a3be5642951e5e7c29451eb9335e94d7a3e051abe952e2430f6cc4992edc55be8a00fc467ed11a1e0aface5151dd1;
-        Path=/; Domain=.api.census.gov
-      Transfer-Encoding:
-      - chunked
-    body:
-      encoding: UTF-8
-      string: |-
-        [["NAME","STABREV","SAEMHI_PT","time","state","county"],
-        ["Tuscaloosa County","AL","56274","2021","01","125"]]
-  recorded_at: Tue, 02 May 2023 03:43:48 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/2021/cbp?NAICS2017=423940&for=county:125&get=NAME,NAICS2017_LABEL,ESTAB,EMP,PAYANN&in=state:01&key=census_key
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 204
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Date:
-      - Tue, 02 May 2023 03:43:49 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a439f1e23b7a5d5343946cdb981348a7e3a66083418d949eec74f90900a0234bde12b4fda402089744f9213c43f65f1ac9;
-        Path=/; Domain=.api.census.gov
-    body:
-      encoding: UTF-8
-      string: ''
-  recorded_at: Tue, 02 May 2023 03:43:49 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/timeseries/poverty/saipe?for=county:125&get=NAME,STABREV,SAEMHI_PT&in=state:01&key=census_key&time=2021
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 200
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Content-Type:
-      - application/json;charset=utf-8
-      Date:
-      - Tue, 02 May 2023 03:43:49 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a4730f34d66f52e350bc107cde1e13237672e0d8346be0656e0e7ecfbb8c0b2c8fb9ac14a659eca67308b0d0cc4254251e;
-        Path=/; Domain=.api.census.gov
-      Transfer-Encoding:
-      - chunked
-    body:
-      encoding: UTF-8
-      string: |-
-        [["NAME","STABREV","SAEMHI_PT","time","state","county"],
-        ["Tuscaloosa County","AL","56274","2021","01","125"]]
-  recorded_at: Tue, 02 May 2023 03:43:50 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/2021/cbp?NAICS2017=423940&for=county:125&get=NAME,NAICS2017_LABEL,ESTAB,EMP,PAYANN&in=state:01&key=census_key
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 204
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Date:
-      - Tue, 02 May 2023 03:43:50 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a45031b11dce05bef32930d0255ce6aca1a703ff0a9b4392534c95c394c848e9b948e97fd2f371eb4ed40b8d08dddd4fb8;
-        Path=/; Domain=.api.census.gov
-    body:
-      encoding: UTF-8
-      string: ''
-  recorded_at: Tue, 02 May 2023 03:43:51 GMT
+  recorded_at: Fri, 12 May 2023 03:54:04 GMT
 - request:
     method: get
     uri: https://api.census.gov/data/2021/acs/acs1/subject?for=county:125&get=NAME,S0102_C02_070M&in=state:01&key=census_key
@@ -1139,11 +84,11 @@ http_interactions:
       Content-Type:
       - application/json;charset=utf-8
       Date:
-      - Wed, 03 May 2023 20:44:47 GMT
+      - Fri, 12 May 2023 03:54:05 GMT
       Strict-Transport-Security:
       - max-age=31536000
       Set-Cookie:
-      - TS010383f0=01283c52a41d54d5284c831b878760605136783d3cd72589e542703c57b9aa0c9b9377904a15b42c9601e786628e65894c8e7a1849;
+      - TS010383f0=01283c52a4bdd80e2fc122d76da709fab98751d3f479f8388d89658325ee071b3cb0fd849dbef0e8a0ac8761ed87e0f72bf3a5b02c;
         Path=/; Domain=.api.census.gov
       Transfer-Encoding:
       - chunked
@@ -1152,10 +97,53 @@ http_interactions:
       string: |-
         [["NAME","S0102_C02_070M","state","county"],
         ["Tuscaloosa County, Alabama",null,"01","125"]]
-  recorded_at: Wed, 03 May 2023 20:44:47 GMT
+  recorded_at: Fri, 12 May 2023 03:54:06 GMT
 - request:
     method: get
-    uri: https://api.census.gov/data/2021/acs/acs1/subject?for=county:125&get=NAME,S0102_C02_070M&in=state:01&key=census_key
+    uri: https://api.census.gov/data/2021/cbp?NAICS2017=423940&for=county:125&get=NAME,NAICS2017_LABEL,ESTAB,EMP,PAYANN&in=state:01&key=census_key
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v2.7.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 204
+      message: ''
+    headers:
+      Cache-Control:
+      - max-age=60, must-revalidate
+      Access-Control-Allow-Origin:
+      - "*"
+      Access-Control-Allow-Methods:
+      - GET,POST
+      Access-Control-Allow-Headers:
+      - Origin, X-Requested-With, Content-Type, Accept
+      Referrer-Policy:
+      - same-origin
+      Content-Security-Policy:
+      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
+        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
+        upgrade-insecure-requests; block-all-mixed-content
+      Date:
+      - Fri, 12 May 2023 03:54:06 GMT
+      Strict-Transport-Security:
+      - max-age=31536000
+      Set-Cookie:
+      - TS010383f0=01283c52a4320d652be888a6f6fc891b31f5bbeb54fb8e16eaba0cbfdd940913bbb5055eb9457ececef8820c98a21f28a84f148a76;
+        Path=/; Domain=.api.census.gov
+    body:
+      encoding: UTF-8
+      string: ''
+  recorded_at: Fri, 12 May 2023 03:54:07 GMT
+- request:
+    method: get
+    uri: https://api.census.gov/data/timeseries/poverty/saipe?for=county:073&get=NAME,STABREV,SAEMHI_PT&in=state:01&key=census_key&time=2021
     body:
       encoding: US-ASCII
       string: ''
@@ -1188,23 +176,23 @@ http_interactions:
       Content-Type:
       - application/json;charset=utf-8
       Date:
-      - Wed, 03 May 2023 20:44:47 GMT
+      - Fri, 12 May 2023 03:54:07 GMT
       Strict-Transport-Security:
       - max-age=31536000
       Set-Cookie:
-      - TS010383f0=01283c52a4fefd8ced2506ddea3bc2bc71b1e1245c4e87163073bfba14ce9d93dccd2917bf03af626ebd065ce8872dd165e0aa9c78;
+      - TS010383f0=01283c52a4ba786e6b31c0210d2c004b599555cd7b65b40f4a8e6f5fad12693a2a6c2fcd5436e5b6d02fd35dffd2bf1e9e9fd8026d;
         Path=/; Domain=.api.census.gov
       Transfer-Encoding:
       - chunked
     body:
       encoding: UTF-8
       string: |-
-        [["NAME","S0102_C02_070M","state","county"],
-        ["Tuscaloosa County, Alabama",null,"01","125"]]
-  recorded_at: Wed, 03 May 2023 20:44:48 GMT
+        [["NAME","STABREV","SAEMHI_PT","time","state","county"],
+        ["Jefferson County","AL","55210","2021","01","073"]]
+  recorded_at: Fri, 12 May 2023 03:54:08 GMT
 - request:
     method: get
-    uri: https://api.census.gov/data/2021/acs/acs1/subject?for=county:125&get=NAME,S0102_C02_070M&in=state:01&key=census_key
+    uri: https://api.census.gov/data/2021/acs/acs1/subject?for=county:073&get=NAME,S0102_C02_070M&in=state:01&key=census_key
     body:
       encoding: US-ASCII
       string: ''
@@ -1237,11 +225,11 @@ http_interactions:
       Content-Type:
       - application/json;charset=utf-8
       Date:
-      - Wed, 03 May 2023 22:49:04 GMT
+      - Fri, 12 May 2023 03:54:08 GMT
       Strict-Transport-Security:
       - max-age=31536000
       Set-Cookie:
-      - TS010383f0=01283c52a4bfaa9c03522b1882c2a1ffca61c57bf86410b4ea9a1b359f2050b5f30b0f7185ac18d81f17ed1c440e6bb4ff870e99cd;
+      - TS010383f0=01283c52a4a0c98c20527f66d5b140e64faefebd8d523df24e35f71cc3762aa9b314db45c6842691992e822e67310a573c84ac7f02;
         Path=/; Domain=.api.census.gov
       Transfer-Encoding:
       - chunked
@@ -1249,11 +237,11 @@ http_interactions:
       encoding: UTF-8
       string: |-
         [["NAME","S0102_C02_070M","state","county"],
-        ["Tuscaloosa County, Alabama",null,"01","125"]]
-  recorded_at: Wed, 03 May 2023 22:49:04 GMT
+        ["Jefferson County, Alabama","0.3","01","073"]]
+  recorded_at: Fri, 12 May 2023 03:54:09 GMT
 - request:
     method: get
-    uri: https://api.census.gov/data/2021/acs/acs1/subject?for=county:125&get=NAME,S0102_C02_070M&in=state:01&key=census_key
+    uri: https://api.census.gov/data/2021/cbp?NAICS2017=423940&for=county:073&get=NAME,NAICS2017_LABEL,ESTAB,EMP,PAYANN&in=state:01&key=census_key
     body:
       encoding: US-ASCII
       string: ''
@@ -1286,23 +274,23 @@ http_interactions:
       Content-Type:
       - application/json;charset=utf-8
       Date:
-      - Wed, 03 May 2023 22:49:04 GMT
+      - Fri, 12 May 2023 03:54:10 GMT
       Strict-Transport-Security:
       - max-age=31536000
       Set-Cookie:
-      - TS010383f0=01283c52a4ba10dabba53a4de2216dacea66eb4b4ec7ff163a81dc4da39b0fb64ee186bb9c3415db62b07e30bd55c5ee60c19b08c0;
+      - TS010383f0=01283c52a4ccaf7a8b70e7d02f0169e2a700053f68604500c5b394661bbf6409796e6d8727913e8023f523fdd0f54192661e7dddc6;
         Path=/; Domain=.api.census.gov
       Transfer-Encoding:
       - chunked
     body:
       encoding: UTF-8
       string: |-
-        [["NAME","S0102_C02_070M","state","county"],
-        ["Tuscaloosa County, Alabama",null,"01","125"]]
-  recorded_at: Wed, 03 May 2023 22:49:05 GMT
+        [["NAME","NAICS2017_LABEL","ESTAB","EMP","PAYANN","NAICS2017","state","county"],
+        ["Jefferson County, Alabama","Jewelry, watch, precious stone, and precious metal merchant wholesalers","5","12","623","423940","01","073"]]
+  recorded_at: Fri, 12 May 2023 03:54:11 GMT
 - request:
     method: get
-    uri: https://api.census.gov/data/2021/acs/acs1/subject?for=county:125&get=NAME,S0102_C02_070M&in=state:01&key=census_key
+    uri: https://api.census.gov/data/timeseries/poverty/saipe?for=county:073&get=NAME,STABREV,SAEMHI_PT&in=state:01&key=census_key&time=2021
     body:
       encoding: US-ASCII
       string: ''
@@ -1335,23 +323,23 @@ http_interactions:
       Content-Type:
       - application/json;charset=utf-8
       Date:
-      - Wed, 03 May 2023 22:49:05 GMT
+      - Fri, 12 May 2023 03:54:14 GMT
       Strict-Transport-Security:
       - max-age=31536000
       Set-Cookie:
-      - TS010383f0=01283c52a4a8804bf63e7179889af423dea48c80fe2d1c66a8595e6eec783d2b745657a1b0aae311f2e6d4803859d8dbdc1caf152c;
+      - TS010383f0=01283c52a40b945d683d48afe3223646660834022419b3550833b1c2be215b24f80a9f4f1ad5fc4bed98f1e922ea00c8e635353430;
         Path=/; Domain=.api.census.gov
       Transfer-Encoding:
       - chunked
     body:
       encoding: UTF-8
       string: |-
-        [["NAME","S0102_C02_070M","state","county"],
-        ["Tuscaloosa County, Alabama",null,"01","125"]]
-  recorded_at: Wed, 03 May 2023 22:49:06 GMT
+        [["NAME","STABREV","SAEMHI_PT","time","state","county"],
+        ["Jefferson County","AL","55210","2021","01","073"]]
+  recorded_at: Fri, 12 May 2023 03:54:14 GMT
 - request:
     method: get
-    uri: https://api.census.gov/data/2021/acs/acs1/subject?for=county:125&get=NAME,S0102_C02_070M&in=state:01&key=census_key
+    uri: https://api.census.gov/data/2021/acs/acs1/subject?for=county:073&get=NAME,S0102_C02_070M&in=state:01&key=census_key
     body:
       encoding: US-ASCII
       string: ''
@@ -1384,11 +372,11 @@ http_interactions:
       Content-Type:
       - application/json;charset=utf-8
       Date:
-      - Wed, 03 May 2023 22:49:06 GMT
+      - Fri, 12 May 2023 03:54:16 GMT
       Strict-Transport-Security:
       - max-age=31536000
       Set-Cookie:
-      - TS010383f0=01283c52a40cead2fbc97167f18baf520bcfd4d31997a1699d2caecd007ed6d8937a585c4a2877082557d8baffd6018025756a6056;
+      - TS010383f0=01283c52a4a8690ede812fd87245d4b39724644a49e1f69d521b93156f1171e19d2e2eaf46a6c28525458e5ee456d1b9bb8ad263b0;
         Path=/; Domain=.api.census.gov
       Transfer-Encoding:
       - chunked
@@ -1396,11 +384,11 @@ http_interactions:
       encoding: UTF-8
       string: |-
         [["NAME","S0102_C02_070M","state","county"],
-        ["Tuscaloosa County, Alabama",null,"01","125"]]
-  recorded_at: Wed, 03 May 2023 22:49:06 GMT
+        ["Jefferson County, Alabama","0.3","01","073"]]
+  recorded_at: Fri, 12 May 2023 03:54:16 GMT
 - request:
     method: get
-    uri: https://api.census.gov/data/2021/acs/acs1/subject?for=county:125&get=NAME,S0102_C02_070M&in=state:01&key=census_key
+    uri: https://api.census.gov/data/2021/cbp?NAICS2017=423940&for=county:073&get=NAME,NAICS2017_LABEL,ESTAB,EMP,PAYANN&in=state:01&key=census_key
     body:
       encoding: US-ASCII
       string: ''
@@ -1433,263 +421,18 @@ http_interactions:
       Content-Type:
       - application/json;charset=utf-8
       Date:
-      - Wed, 03 May 2023 22:49:07 GMT
+      - Fri, 12 May 2023 03:54:17 GMT
       Strict-Transport-Security:
       - max-age=31536000
       Set-Cookie:
-      - TS010383f0=01283c52a4a9a7fc4c17c0b140378079dc38a0b71547f2d83594cb4937c21b31bb5be2b2e7706f11678dac9edb7e4d9c7a30314ac5;
+      - TS010383f0=01283c52a40e8a361cc626fd5cc302d17e3b87aef617b09596b0137c8ae2bf961a27b5112629df958d1d41e38990a0143feb1f9e3d;
         Path=/; Domain=.api.census.gov
       Transfer-Encoding:
       - chunked
     body:
       encoding: UTF-8
       string: |-
-        [["NAME","S0102_C02_070M","state","county"],
-        ["Tuscaloosa County, Alabama",null,"01","125"]]
-  recorded_at: Wed, 03 May 2023 22:49:07 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/2021/acs/acs1/subject?for=county:125&get=NAME,S0102_C02_070M&in=state:01&key=census_key
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 200
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Content-Type:
-      - application/json;charset=utf-8
-      Date:
-      - Wed, 03 May 2023 22:49:07 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a4d2060d991fa4d9bf9435e9001c35cef40fc729a68bec37ff26681dad3f661ce2fcd1504e0cdc5cf9213eb45475864804;
-        Path=/; Domain=.api.census.gov
-      Transfer-Encoding:
-      - chunked
-    body:
-      encoding: UTF-8
-      string: |-
-        [["NAME","S0102_C02_070M","state","county"],
-        ["Tuscaloosa County, Alabama",null,"01","125"]]
-  recorded_at: Wed, 03 May 2023 22:49:08 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/2021/acs/acs1/subject?for=county:125&get=NAME,S0102_C02_070M&in=state:01&key=census_key
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 200
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Content-Type:
-      - application/json;charset=utf-8
-      Date:
-      - Wed, 03 May 2023 22:49:08 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a4cf65ce7d496e821ac3c37522ea930b9604df6876d37d9d29876c4d06aa787ae35e4c3abc7b946cd44e74c74449b8bce9;
-        Path=/; Domain=.api.census.gov
-      Transfer-Encoding:
-      - chunked
-    body:
-      encoding: UTF-8
-      string: |-
-        [["NAME","S0102_C02_070M","state","county"],
-        ["Tuscaloosa County, Alabama",null,"01","125"]]
-  recorded_at: Wed, 03 May 2023 22:49:08 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/2021/acs/acs1/subject?for=county:125&get=NAME,S0102_C02_070M&in=state:01&key=census_key
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 200
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Content-Type:
-      - application/json;charset=utf-8
-      Date:
-      - Wed, 03 May 2023 22:49:08 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a47e04969b4b547e8afd11645154a2e20c0e1a561e2fcfb18d91ddabb99d636338fdf6de0f9fe99e9b59745022f23e0883;
-        Path=/; Domain=.api.census.gov
-      Transfer-Encoding:
-      - chunked
-    body:
-      encoding: UTF-8
-      string: |-
-        [["NAME","S0102_C02_070M","state","county"],
-        ["Tuscaloosa County, Alabama",null,"01","125"]]
-  recorded_at: Wed, 03 May 2023 22:49:09 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/2021/acs/acs1/subject?for=county:125&get=NAME,S0102_C02_070M&in=state:01&key=census_key
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 200
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Content-Type:
-      - application/json;charset=utf-8
-      Date:
-      - Wed, 03 May 2023 22:49:09 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a430456d73e0dd0e6ae83b702eeab369d076ac36bdb307b55adf353fbbc4f91cbb0fb8cc5809d5dc3156c91bde9eb9a37e;
-        Path=/; Domain=.api.census.gov
-      Transfer-Encoding:
-      - chunked
-    body:
-      encoding: UTF-8
-      string: |-
-        [["NAME","S0102_C02_070M","state","county"],
-        ["Tuscaloosa County, Alabama",null,"01","125"]]
-  recorded_at: Wed, 03 May 2023 22:49:10 GMT
-- request:
-    method: get
-    uri: https://api.census.gov/data/2021/acs/acs1/subject?for=county:125&get=NAME,S0102_C02_070M&in=state:01&key=census_key
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.4
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 200
-      message: ''
-    headers:
-      Cache-Control:
-      - max-age=60, must-revalidate
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Methods:
-      - GET,POST
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Referrer-Policy:
-      - same-origin
-      Content-Security-Policy:
-      - default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self'
-        'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';
-        upgrade-insecure-requests; block-all-mixed-content
-      Content-Type:
-      - application/json;charset=utf-8
-      Date:
-      - Wed, 03 May 2023 22:49:10 GMT
-      Strict-Transport-Security:
-      - max-age=31536000
-      Set-Cookie:
-      - TS010383f0=01283c52a49f95178960aebbf372e6bb6e0548ad4d2c0b10ec4511a3796b48125efb28f71c9612607f9c3f02f627fbd154e77b2209;
-        Path=/; Domain=.api.census.gov
-      Transfer-Encoding:
-      - chunked
-    body:
-      encoding: UTF-8
-      string: |-
-        [["NAME","S0102_C02_070M","state","county"],
-        ["Tuscaloosa County, Alabama",null,"01","125"]]
-  recorded_at: Wed, 03 May 2023 22:49:10 GMT
+        [["NAME","NAICS2017_LABEL","ESTAB","EMP","PAYANN","NAICS2017","state","county"],
+        ["Jefferson County, Alabama","Jewelry, watch, precious stone, and precious metal merchant wholesalers","5","12","623","423940","01","073"]]
+  recorded_at: Fri, 12 May 2023 03:54:18 GMT
 recorded_with: VCR 6.1.0

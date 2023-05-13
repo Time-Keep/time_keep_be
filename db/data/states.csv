@@ -1,0 +1,52 @@
+id,name,abbrev,unemp_rate,tax_rate
+1,Alabama,AL,3.4,4
+2,Alaska,AK,6.4,0
+4,Arizona,AZ,4.9,5.6
+5,Arkansas,AR,4,6.5
+6,California,CA,7.3,7.25
+8,Colorado,CO,5.4,2.9
+9,Connecticut,CT,6.3,6.35
+10,Delaware,DE,5.3,0
+11,District of Columbia,DC,6.6,0
+12,Florida,FL,4.6,6
+13,Georgia,GA,3.9,4
+15,Hawaii,HI,5.7,4
+16,Idaho,ID,3.6,6
+17,Illinois,IL,6.1,6.25
+18,Indiana,IN,3.6,7
+19,Iowa,IA,4.2,6
+20,Kansas,KS,3.2,6.5
+21,Kentucky,KY,4.7,6
+22,Louisiana,LA,5.5,4.45
+23,Maine,ME,4.6,5.5
+24,Maryland,MD,5.8,6
+25,Massachusetts,MA,5.7,6.25
+26,Michigan,MI,5.9,6
+27,Minnesota,MN,3.4,6.88
+28,Mississippi,MS,5.6,7
+29,Missouri,MO,4.4,4.23
+30,Montana,MT,3.4,0
+31,Nebraska,NE,2.5,5.5
+32,Nevada,NV,7.2,6.85
+33,New Hampshire,NH,3.5,0
+34,New Jersey,NJ,6.3,6.63
+35,New Mexico,NM,6.8,5.13
+36,New York,NY,6.9,4
+37,North Carolina,NC,4.8,4.75
+38,North Dakota,ND,3.7,5
+39,Ohio,OH,5.1,5.75
+40,Oklahoma,OK,3.8,4.5
+41,Oregon,OR,5.2,0
+42,Pennsylvania,PA,6.3,6
+44,Rhode Island,RI,5.6,7
+45,South Carolina,SC,4,6
+46,South Dakota,SD,3.1,4.5
+47,Tennessee,TN,4.3,7
+48,Texas,TX,5.7,6.25
+49,Utah,UT,2.7,6.1
+50,Vermont,VT,3.4,6
+51,Virginia,VA,3.9,5.3
+53,Washington,WA,5.2,6.5
+54,West Virginia,WV,5,6
+55,Wisconsin,WI,3.8,5
+56,Wyoming,WY,4.5,4

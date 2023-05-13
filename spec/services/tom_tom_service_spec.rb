@@ -1,11 +1,11 @@
 require 'rails_helper'
 
 RSpec.describe TomTomService, :vcr do
-  describe 'jewelry_estabs' do
+  describe 'jewelry_retailers' do
     it 'returns jewelry establishments for coordinates' do
       lat = '33.2896'
       lon = '-87.5251'
-      response = TomTomService.jewelry_estabs(lat, lon)
+      response = TomTomService.jewelry_retailers(lat, lon)
 
       expect(response.keys).to eq([:summary, :results])
       expect(response[:summary]).to have_key(:totalResults)
@@ -13,11 +13,11 @@ RSpec.describe TomTomService, :vcr do
     end
   end
 
-  describe 'jewelry_estabs2' do
+  describe 'jewelry_retailers2' do
     it 'returns set 2 of jewelry establishments for coordinates' do
       lat = '33.2896'
       lon = '-87.5251'
-      response = TomTomService.jewelry_estabs2(lat, lon)
+      response = TomTomService.jewelry_retailers2(lat, lon)
 
       expect(response.keys).to eq([:summary, :results])
       expect(response[:summary]).to have_key(:totalResults)
